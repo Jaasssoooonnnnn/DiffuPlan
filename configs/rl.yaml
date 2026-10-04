@@ -1,0 +1,122 @@
+experiment:
+  project: outputs/rl
+  start_from_scratch: true
+  total_step: 80
+  save_every: 0
+  checkpoint_warmup_steps: 10
+  trace_every: 1
+  save_final_checkpoint: true
+model:
+  pretrained_model: weights/sft
+  optimized_name: optimized
+dataset:
+  train_dataset: R1Searcher_filtered
+search:
+  url: http://127.0.0.1:8000/retrieve
+  topk: 3
+  max_obs_length: 500
+  max_turns: 12
+  max_retrieval_turns: 5
+rollout:
+  num_task_per_step: 64
+  num_response_per_task: 8
+  temperature: 0.8
+  max_token: 1024
+  block_size: 32
+  denoising_steps_per_block: 32
+  top_p: 0.95
+  top_k: 0
+  confidence_threshold: 0.9
+  max_new_tokens: 256
+  rollout_gpu_batch_size: 16
+  editable_batch_size: 16
+  interleave_tasks: true
+  batch_edit_sampling: true
+dinfer:
+  use_compile: true
+  deterministic_zero_temp: true
+  prefilling_limit: 128
+  dist_timeout_sec: 1800
+  memory_sync_every_step: true
+  disk_reload_every: 0
+  sync_ckpt_name: optimized_dinfer_sync
+  unload_after_rollout: false
+  streamed_gpu_sync: true
+  verify_streamed_sync: false
+  b200_moe_tiles: true
+  optimize_decode: true
+  full_prompt_prefill: true
+edit:
+  edit_transfer_tokens: 1
+  max_expand_per_edit: 32
+training:
+  gradient_checkpointing_enable: true
+  gradient_accumulation_steps: 64
+  batch_size_lm: 2
+  ref_batch_size_lm: 64
+  train_batch_anchor_seq_len: 1600
+  train_batch_anchor_size: 4
+  train_batch_size_max: 8
+  train_batch_size_scale_power: 2.0
+  target_updates_per_outer_step: 3
+  rollout_bucket_size: 8
+  bucket_order: shuffle
+  mixed_precision: bf16
+  enable_tf32: true
+  seed: 10086
+  max_grad_norm: 1.0
+  method: TraceRL
+  block_size: 32
+  shrink: 8
+  require_complete_action_trace: true
+  max_prompt_len: 8192
+  max_train_segments_per_episode: 8
+  eps: 0.15
+  beta: 0.02
+  use_kl_estimator_k3: true
+  sparse_action_logits: true
+  logp_chunk_size: 512
+  grouped_reference_moe: true
+  fused_moe_parameters: true
+  sm100_expert_gemm: true
+  align_fsdp_workloads: true
+  train_token_budget: 65536
+  ref_token_budget: 65536
+  packed_batch_size_max: 64
+  attention_element_budget: 536870912
+  shard_accumulated_gradients: true
+  reuse_initial_window_logp: true
+optimizer:
+  params:
+    learning_rate: 1e-6
+evaluation:
+  eval_datasets:
+  - hotpotqa
+  - 2wiki
+  eval_dataset: 2wiki
+  num_response_per_task: 1
+  temperature: 0.0
+  top_p: 1.0
+  top_k: 0
+  confidence_threshold: 0.95
+  eval_before_step_every: 1
+  max_eval_samples: 128
+  checkpoint_metric: hotpot_2wiki_avg_f1
+  checkpoint_metric_mode: max
+  checkpoint_top_k: 2
+  checkpoint_min_step: 10
+reward:
+  gate_clean: 1.0
+  gate_soft: 0.5
+  gate_hard: 0.0
+
+sft_anchor:
+  reference_model: weights/sft
+  coefficient: 0.02
+  seed_offset: 900001
+  token_budget: 32768
+  batch_size_max: 32
+  ref_batch_size: 32
+  log_ratio_tail: 10.0
+  initial_match_tolerance: 0.0002
+  reference_tolerance: 0.00001

@@ -1,0 +1,4 @@
+# Teacher serving and trajectory collection; use an environment separate from requirements/inference.txt.
+vllm==0.22.0
+requests==2.32.5
+PyYAML==6.0.3

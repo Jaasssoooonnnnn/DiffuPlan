@@ -1,0 +1,3925 @@
+[
+ {
+  "id": "test_1",
+  "question": "when is the next deadpool movie being released",
+  "answer": [
+   "May 18, 2018"
+  ]
+ },
+ {
+  "id": "test_10",
+  "question": "what is the most current adobe flash player version",
+  "answer": [
+   "28.0.0.137"
+  ]
+ },
+ {
+  "id": "test_12",
+  "question": "how many episodes are there in dragon ball z",
+  "answer": [
+   "291 episodes",
+   "291"
+  ]
+ },
+ {
+  "id": "test_18",
+  "question": "who is the current director of the us mint",
+  "answer": [
+   "David J. Ryder",
+   "David Motl"
+  ]
+ },
+ {
+  "id": "test_20",
+  "question": "what is the main mineral in lithium batteries",
+  "answer": [
+   "Lithium",
+   "lithium"
+  ]
+ },
+ {
+  "id": "test_22",
+  "question": "who is the president of usa right now",
+  "answer": [
+   "Donald Trump"
+  ]
+ },
+ {
+  "id": "test_24",
+  "question": "where do the greasers live in the outsiders",
+  "answer": [
+   "Tulsa, Oklahoma"
+  ]
+ },
+ {
+  "id": "test_31",
+  "question": "how many countries are a part of opec",
+  "answer": [
+   "14"
+  ]
+ },
+ {
+  "id": "test_38",
+  "question": "who is rose in the fall season 2",
+  "answer": [
+   "Valene Kane"
+  ]
+ },
+ {
+  "id": "test_44",
+  "question": "what is the meaning of the name sinead",
+  "answer": [
+   "God forgave/God gratified"
+  ]
+ },
+ {
+  "id": "test_45",
+  "question": "what network is showing the monday night football game",
+  "answer": [
+   "ESPN"
+  ]
+ },
+ {
+  "id": "test_57",
+  "question": "the cuban revolt against spain was led by",
+  "answer": [
+   "Máximo Gomez",
+   "Antonio Maceo",
+   "José Martí"
+  ]
+ },
+ {
+  "id": "test_60",
+  "question": "who has been ranked no. 1 in the latest football rankings announced by fifa",
+  "answer": [
+   "Germany"
+  ]
+ },
+ {
+  "id": "test_75",
+  "question": "who led the soldiers in ending the raid on the harper's ferry arsenal",
+  "answer": [
+   "Colonel Robert E. Lee",
+   "First Lieutenant Israel Greene",
+   "Brevet Colonel Robert E. Lee"
+  ]
+ },
+ {
+  "id": "test_78",
+  "question": "where are most nutrients absorbed in the human digestive tract",
+  "answer": [
+   "The small intestine",
+   "small intestine"
+  ]
+ },
+ {
+  "id": "test_86",
+  "question": "who wrote there's a guy works down the chip shop lyrics",
+  "answer": [
+   "Philip Rambow",
+   "Kirsty MacColl/Philip Rambow",
+   "Kirsty MacColl"
+  ]
+ },
+ {
+  "id": "test_89",
+  "question": "when does the little couples new season start",
+  "answer": [
+   "September 19, 2017"
+  ]
+ },
+ {
+  "id": "test_91",
+  "question": "what is the job of justice of the peace",
+  "answer": [
+   "dispense summary justice"
+  ]
+ },
+ {
+  "id": "test_98",
+  "question": "when did the philadelphia eagles play in the super bowl last",
+  "answer": [
+   "Super Bowl LII"
+  ]
+ },
+ {
+  "id": "test_103",
+  "question": "who starred in the movie summer of 42",
+  "answer": [
+   "Oliver Conant",
+   "Christopher Norris",
+   "Gary Grimes",
+   "Katherine Allentuck",
+   "Jennifer O'Neill",
+   "Jerry Houser",
+   "Robert Mulligan",
+   "Maureen Stapleton"
+  ]
+ },
+ {
+  "id": "test_104",
+  "question": "what album is sacrifice by elton john on",
+  "answer": [
+   "Sleeping with the Past.",
+   "Sleeping with the Past"
+  ]
+ },
+ {
+  "id": "test_105",
+  "question": "when did they replace lead with graphite in pencils",
+  "answer": [
+   "never contained the element lead"
+  ]
+ },
+ {
+  "id": "test_120",
+  "question": "who wrote song what a friend we have in jesus",
+  "answer": [
+   "Charles Crozat Converse",
+   "Joseph M. Scriven",
+   "William Bolcom"
+  ]
+ },
+ {
+  "id": "test_124",
+  "question": "where do the royalties for winnie the pooh go",
+  "answer": [
+   "the Slesinger family",
+   "Slesinger, Inc."
+  ]
+ },
+ {
+  "id": "test_132",
+  "question": "where is the protien made in the cell",
+  "answer": [
+   "in the cell nucleus",
+   "cell nucleus"
+  ]
+ },
+ {
+  "id": "test_134",
+  "question": "when's the last time the philadelphia eagles played the new england patriots",
+  "answer": [
+   "in Super Bowl LII"
+  ]
+ },
+ {
+  "id": "test_141",
+  "question": "which apostle spoke at the council of jerusalem",
+  "answer": [
+   "Paul",
+   "James",
+   "Barnabas",
+   "Simon Peter"
+  ]
+ },
+ {
+  "id": "test_145",
+  "question": "where is the country music hall of fame located",
+  "answer": [
+   "Nashville, Tennessee"
+  ]
+ },
+ {
+  "id": "test_147",
+  "question": "who has won india's next super star",
+  "answer": [
+   "Natasha Bharadwaj",
+   "Aman Gandotra"
+  ]
+ },
+ {
+  "id": "test_150",
+  "question": "who sings the theme song for the tv show cops",
+  "answer": [
+   "Inner Circle",
+   "Jamaican reggae band Inner Circle"
+  ]
+ },
+ {
+  "id": "test_152",
+  "question": "who did the astros play last time they were in the world series",
+  "answer": [
+   "White Sox",
+   "Los Angeles Dodgers"
+  ]
+ },
+ {
+  "id": "test_153",
+  "question": "when was the minimum wage established in the united states",
+  "answer": [
+   "1938",
+   "1933",
+   "1912"
+  ]
+ },
+ {
+  "id": "test_156",
+  "question": "how many books are in the diary of a whimpy kid series",
+  "answer": [
+   "12"
+  ]
+ },
+ {
+  "id": "test_159",
+  "question": "what is the largest bill in american money",
+  "answer": [
+   "$100"
+  ]
+ },
+ {
+  "id": "test_179",
+  "question": "when was where have all the flowers gone written",
+  "answer": [
+   "1955"
+  ]
+ },
+ {
+  "id": "test_180",
+  "question": "industrial city in germany on the rhine herne canal",
+  "answer": [
+   "Henrichenburg",
+   "Duisburg"
+  ]
+ },
+ {
+  "id": "test_182",
+  "question": "who starred in the movie natural born killers",
+  "answer": [
+   "Robert Downey Jr.",
+   "Robert Downey, Jr.",
+   "Woody Harrelson",
+   "Juliette Lewis",
+   "Tom Sizemore",
+   "Tommy Lee Jones"
+  ]
+ },
+ {
+  "id": "test_184",
+  "question": "what are the importance of rigor mortis in meat processing",
+  "answer": [
+   "tenderness of meat"
+  ]
+ },
+ {
+  "id": "test_185",
+  "question": "when did the song the joker come out",
+  "answer": [
+   "1973",
+   "October 1973"
+  ]
+ },
+ {
+  "id": "test_210",
+  "question": "where does the optic nerve cross the midline ​",
+  "answer": [
+   "optic chiasm"
+  ]
+ },
+ {
+  "id": "test_217",
+  "question": "which is the lion's mane jellyfish's species within its genus",
+  "answer": [
+   "C. capillata",
+   "capillata",
+   "Cyanea capillata"
+  ]
+ },
+ {
+  "id": "test_228",
+  "question": "name a food you might eat on thanksgiving",
+  "answer": [
+   "a large roasted turkey",
+   "turkey"
+  ]
+ },
+ {
+  "id": "test_233",
+  "question": "who owns the dower house in the archers",
+  "answer": [
+   "Lilian Bellamy",
+   "Caroline Sterling"
+  ]
+ },
+ {
+  "id": "test_235",
+  "question": "who beat university of virginia in basketball this year",
+  "answer": [
+   "Virginia Tech",
+   "UMBC",
+   "West Virginia"
+  ]
+ },
+ {
+  "id": "test_260",
+  "question": "who played susanna in legends of the fall",
+  "answer": [
+   "Julia Ormond"
+  ]
+ },
+ {
+  "id": "test_263",
+  "question": "the group that officially elects the president of the united states is called",
+  "answer": [
+   "the U.S. Electoral College",
+   "U.S. Electoral College"
+  ]
+ },
+ {
+  "id": "test_264",
+  "question": "who played adaline in the age of adaline",
+  "answer": [
+   "Adaline Bowman",
+   "Blake Lively"
+  ]
+ },
+ {
+  "id": "test_265",
+  "question": "who played raquel in only fools and horses",
+  "answer": [
+   "Tessa Peake-Jones"
+  ]
+ },
+ {
+  "id": "test_282",
+  "question": "who is the presiding officer of legislative council in india",
+  "answer": [
+   "Chairman"
+  ]
+ },
+ {
+  "id": "test_297",
+  "question": "when was i look at the world poem written",
+  "answer": [
+   "30–31 October 2000"
+  ]
+ },
+ {
+  "id": "test_308",
+  "question": "when was a series of unfortunate events published",
+  "answer": [
+   "September 1999"
+  ]
+ },
+ {
+  "id": "test_311",
+  "question": "how long are the episodes in stranger things season 1",
+  "answer": [
+   "42–62 minutes"
+  ]
+ },
+ {
+  "id": "test_313",
+  "question": "when did fortnite battle royal come out on xbox",
+  "answer": [
+   "September 2017"
+  ]
+ },
+ {
+  "id": "test_314",
+  "question": "who was the first baseball player to be featured on a postage stamp",
+  "answer": [
+   "Jackie Robinson"
+  ]
+ },
+ {
+  "id": "test_317",
+  "question": "who wrote knock knock knocking on heavens door",
+  "answer": [
+   "Bob Dylan"
+  ]
+ },
+ {
+  "id": "test_324",
+  "question": "who sings i want to dance with you",
+  "answer": [
+   "George Strait"
+  ]
+ },
+ {
+  "id": "test_328",
+  "question": "where does a wrinkle in time take place",
+  "answer": [
+   "Connecticut"
+  ]
+ },
+ {
+  "id": "test_329",
+  "question": "what are the main functions of the stem",
+  "answer": [
+   "Production of new living tissue",
+   "Storage of nutrients"
+  ]
+ },
+ {
+  "id": "test_336",
+  "question": "when did canada get rid of the death penalty",
+  "answer": [
+   "July 14, 1976",
+   "1976",
+   "1998"
+  ]
+ },
+ {
+  "id": "test_353",
+  "question": "what ethnic group celebrates its contribution to america in october",
+  "answer": [
+   "Filipino Americans",
+   "Filipino American",
+   "Filipino"
+  ]
+ },
+ {
+  "id": "test_362",
+  "question": "who commissioned the first christmas card in 1943",
+  "answer": [
+   "Sir Henry Cole"
+  ]
+ },
+ {
+  "id": "test_363",
+  "question": "when did they start adding zinc to pennies",
+  "answer": [
+   "1864",
+   "1943",
+   "1864–1942"
+  ]
+ },
+ {
+  "id": "test_364",
+  "question": "who was hope brady's mother on days of our lives",
+  "answer": [
+   "Ciara Brady",
+   "Addie Horton"
+  ]
+ },
+ {
+  "id": "test_369",
+  "question": "what is the most popular religion in sweden",
+  "answer": [
+   "Lutheran",
+   "Lutheran Church of Sweden",
+   "Christianity"
+  ]
+ },
+ {
+  "id": "test_383",
+  "question": "how many episodes of touching evil are there",
+  "answer": [
+   "16"
+  ]
+ },
+ {
+  "id": "test_388",
+  "question": "what is the largest city in the united states per square mile",
+  "answer": [
+   "Sitka"
+  ]
+ },
+ {
+  "id": "test_390",
+  "question": "where does new crust come from in sea floor spreading",
+  "answer": [
+   "basaltic magma",
+   "volcanic activity"
+  ]
+ },
+ {
+  "id": "test_395",
+  "question": "which animal on earth has the longest life span",
+  "answer": [
+   "tortoise"
+  ]
+ },
+ {
+  "id": "test_407",
+  "question": "who is the original singer of just when i needed you most",
+  "answer": [
+   "Randy VanWarmer"
+  ]
+ },
+ {
+  "id": "test_411",
+  "question": "ben 10 ultimate alien episode 2 season 1",
+  "answer": [
+   "Duped"
+  ]
+ },
+ {
+  "id": "test_414",
+  "question": "what breed of dog is the teddy bear dog",
+  "answer": [
+   "Zuchon"
+  ]
+ },
+ {
+  "id": "test_415",
+  "question": "when did the battles of lexington and concord happen",
+  "answer": [
+   "April 19, 1775"
+  ]
+ },
+ {
+  "id": "test_419",
+  "question": "who was appointed to manage the national recovery administration",
+  "answer": [
+   "Hugh S. Johnson"
+  ]
+ },
+ {
+  "id": "test_429",
+  "question": "when does kc undercover season 3 episode 10 air",
+  "answer": [
+   "November 10, 2017"
+  ]
+ },
+ {
+  "id": "test_431",
+  "question": "who was the actor that played ben stone on law and order",
+  "answer": [
+   "Michael Moriarty"
+  ]
+ },
+ {
+  "id": "test_434",
+  "question": "when do we find out luke and leia are siblings",
+  "answer": [
+   "Return of the Jedi",
+   "In Return of the Jedi"
+  ]
+ },
+ {
+  "id": "test_444",
+  "question": "which abbott and costello movie has who on first",
+  "answer": [
+   "The Naughty Nineties",
+   "One Night in the Tropics"
+  ]
+ },
+ {
+  "id": "test_445",
+  "question": "who does the voice of the beast in the new movie",
+  "answer": [
+   "Dan Stevens"
+  ]
+ },
+ {
+  "id": "test_454",
+  "question": "who has the most sacks in college football",
+  "answer": [
+   "Mike Czerwien"
+  ]
+ },
+ {
+  "id": "test_472",
+  "question": "who is mowgli's main enemy in the jungle book",
+  "answer": [
+   "Shere Khan"
+  ]
+ },
+ {
+  "id": "test_481",
+  "question": "what is the name of the gap between two front teeth",
+  "answer": [
+   "diastema (plural diastemata)",
+   "diastema"
+  ]
+ },
+ {
+  "id": "test_493",
+  "question": "when was the r10+20 summit in rio de janeiro held",
+  "answer": [
+   "June 2012",
+   "13 to 22 June 2012"
+  ]
+ },
+ {
+  "id": "test_507",
+  "question": "how many episodes is ash vs evil dead season 3",
+  "answer": [
+   "10"
+  ]
+ },
+ {
+  "id": "test_511",
+  "question": "who has the most international goals of all time",
+  "answer": [
+   "Ali Daei"
+  ]
+ },
+ {
+  "id": "test_522",
+  "question": "when is the new dumping ground coming out 2017",
+  "answer": [
+   "15 December 2017"
+  ]
+ },
+ {
+  "id": "test_526",
+  "question": "when was harry potter and the philosophers stone published",
+  "answer": [
+   "in 1997",
+   "1997"
+  ]
+ },
+ {
+  "id": "test_540",
+  "question": "who sang it my party and i'll cry if i want to in the 80",
+  "answer": [
+   "Barbara Gaskin",
+   "Dave Stewart",
+   "The Chipettes",
+   "Dave Stewart and Barbara Gaskin"
+  ]
+ },
+ {
+  "id": "test_546",
+  "question": "krypton-85 decays by emission of a beta particle. the product of this decay is",
+  "answer": [
+   "rubidium-85"
+  ]
+ },
+ {
+  "id": "test_553",
+  "question": "who invented the printing press and in what year",
+  "answer": [
+   "the German Johannes Gutenberg",
+   "Johannes Gutenberg around 1440",
+   "1440",
+   "Johannes Gutenberg",
+   "around 1440"
+  ]
+ },
+ {
+  "id": "test_554",
+  "question": "who plays the queen in victoria and abdul",
+  "answer": [
+   "Judi Dench"
+  ]
+ },
+ {
+  "id": "test_556",
+  "question": "where in the bible are the 12 disciples",
+  "answer": [
+   "Acts 1:13"
+  ]
+ },
+ {
+  "id": "test_566",
+  "question": "who won the battle of saratoga in 1777",
+  "answer": [
+   "Americans",
+   "the Americans"
+  ]
+ },
+ {
+  "id": "test_567",
+  "question": "lilo and stitch the series season 1 episode 1",
+  "answer": [
+   "Richter"
+  ]
+ },
+ {
+  "id": "test_571",
+  "question": "who is playing halftime show super bowl 50",
+  "answer": [
+   "Beyoncé",
+   "Coldplay",
+   "Bruno Mars",
+   "the British rock group Coldplay"
+  ]
+ },
+ {
+  "id": "test_573",
+  "question": "where do rory and paris go to college",
+  "answer": [
+   "Yale University",
+   "Yale University,"
+  ]
+ },
+ {
+  "id": "test_589",
+  "question": "aphasia is a term defining difficulty or loss of ability to",
+  "answer": [
+   "comprehend and formulate language",
+   "formulate language"
+  ]
+ },
+ {
+  "id": "test_600",
+  "question": "where does sleeping freshmen never lie take place",
+  "answer": [
+   "J.P. Zenger High"
+  ]
+ },
+ {
+  "id": "test_607",
+  "question": "season 2 this is us number of episodes",
+  "answer": [
+   "15",
+   "18",
+   "13"
+  ]
+ },
+ {
+  "id": "test_609",
+  "question": "who did michigan state play in the rose bowl",
+  "answer": [
+   "Stanford Cardinal"
+  ]
+ },
+ {
+  "id": "test_611",
+  "question": "when does the team find out prentiss is alive",
+  "answer": [
+   "In the season seven premiere",
+   "the season seven premiere"
+  ]
+ },
+ {
+  "id": "test_615",
+  "question": "who plays the dad in girl meets world",
+  "answer": [
+   "Ben Savage",
+   "Cory Matthews"
+  ]
+ },
+ {
+  "id": "test_624",
+  "question": "who was the first black person to register to vote",
+  "answer": [
+   "Thomas Mundy Peterson"
+  ]
+ },
+ {
+  "id": "test_636",
+  "question": "the radiographic term used to describe the dense bone of the socket and septal crest is",
+  "answer": [
+   "lamina dura",
+   "alveolar process",
+   "the lamina dura"
+  ]
+ },
+ {
+  "id": "test_652",
+  "question": "what are the roles of international monetary fund",
+  "answer": [
+   "foster global monetary cooperation",
+   "secure financial stability",
+   "to foster global monetary cooperation",
+   "reduce poverty around the world",
+   "facilitate international trade"
+  ]
+ },
+ {
+  "id": "test_655",
+  "question": "epidemiologists attempt to explain the link between health and variables such as",
+  "answer": [
+   "biological agents",
+   "disease conditions in defined populations",
+   "smoking",
+   "stress",
+   "chemicals",
+   "alcohol"
+  ]
+ },
+ {
+  "id": "test_661",
+  "question": "what written material is included in the talmud",
+  "answer": [
+   "the Mishnah",
+   "the Gemara"
+  ]
+ },
+ {
+  "id": "test_691",
+  "question": "who sang the original scooby doo theme song",
+  "answer": [
+   "Larry Marks"
+  ]
+ },
+ {
+  "id": "test_699",
+  "question": "who added a press room to the white house",
+  "answer": [
+   "Richard Nixon",
+   "President Richard Nixon"
+  ]
+ },
+ {
+  "id": "test_712",
+  "question": "when did the uk and us become allies",
+  "answer": [
+   "Since 1940",
+   "1940"
+  ]
+ },
+ {
+  "id": "test_734",
+  "question": "what is a dropped pin on google maps for",
+  "answer": [
+   "marks locations in Google Maps",
+   "marks locations"
+  ]
+ },
+ {
+  "id": "test_752",
+  "question": "a good that can be used in place of another good",
+  "answer": [
+   "A substitute good",
+   "substitute good"
+  ]
+ },
+ {
+  "id": "test_755",
+  "question": "who become the ceo of it wipro company in 2016",
+  "answer": [
+   "Abid Ali Neemuchwala"
+  ]
+ },
+ {
+  "id": "test_775",
+  "question": "who played the mad hatter in the batman tv show",
+  "answer": [
+   "Roddy McDowall",
+   "David Wayne",
+   "Benedict Samuel"
+  ]
+ },
+ {
+  "id": "test_776",
+  "question": "how many cracker barrels in the united states",
+  "answer": [
+   "639",
+   "more than 600"
+  ]
+ },
+ {
+  "id": "test_787",
+  "question": "when did the east india company take control of india",
+  "answer": [
+   "in 1757",
+   "1757",
+   "1799",
+   "1612"
+  ]
+ },
+ {
+  "id": "test_803",
+  "question": "what does the sun represent on the uruguay flag",
+  "answer": [
+   "the May Revolution of 1810"
+  ]
+ },
+ {
+  "id": "test_804",
+  "question": "who dies in season 2 of the originals",
+  "answer": [
+   "Kol"
+  ]
+ },
+ {
+  "id": "test_816",
+  "question": "who discovered the atom and in what year",
+  "answer": [
+   "early 1800s",
+   "John Dalton"
+  ]
+ },
+ {
+  "id": "test_817",
+  "question": "creating appropriation bills falls under which power of congress",
+  "answer": [
+   "raising revenue"
+  ]
+ },
+ {
+  "id": "test_826",
+  "question": "who won the womens 2017 ncaa basketball tournament",
+  "answer": [
+   "South Carolina"
+  ]
+ },
+ {
+  "id": "test_827",
+  "question": "how many episodes of ray donovan series 3 are there",
+  "answer": [
+   "60",
+   "12"
+  ]
+ },
+ {
+  "id": "test_831",
+  "question": "what is the meaning of the name mandy",
+  "answer": [
+   "Lovable"
+  ]
+ },
+ {
+  "id": "test_834",
+  "question": "when is the new jurassic world game coming out",
+  "answer": [
+   "June 12, 2018"
+  ]
+ },
+ {
+  "id": "test_837",
+  "question": "what was icq as related to instant messaging",
+  "answer": [
+   "an instant messaging client"
+  ]
+ },
+ {
+  "id": "test_841",
+  "question": "when was the national flag of india adopted",
+  "answer": [
+   "15 August 1947",
+   "22 July 1947"
+  ]
+ },
+ {
+  "id": "test_855",
+  "question": "who plays dylan in daddy's home 2",
+  "answer": [
+   "Owen Vaccaro"
+  ]
+ },
+ {
+  "id": "test_859",
+  "question": "how many players have scored 10000 runs in odi",
+  "answer": [
+   "11",
+   "eleven"
+  ]
+ },
+ {
+  "id": "test_867",
+  "question": "locations for the film an englishman who went up a hill",
+  "answer": [
+   "Llanrhaeadr-ym-Mochnant",
+   "Llansilin in Powys"
+  ]
+ },
+ {
+  "id": "test_869",
+  "question": "when was the last time mount ruapehu erupted",
+  "answer": [
+   "25 September 2007"
+  ]
+ },
+ {
+  "id": "test_874",
+  "question": "who was the actor who played crocodile dundee",
+  "answer": [
+   "Paul Hogan",
+   "Paul Hogan, AM"
+  ]
+ },
+ {
+  "id": "test_875",
+  "question": "where are trigger points located in the body",
+  "answer": [
+   "muscles"
+  ]
+ },
+ {
+  "id": "test_883",
+  "question": "who was an early advocate for using scientific methods based on inductive reasoning",
+  "answer": [
+   "Aristotle",
+   "René Descartes"
+  ]
+ },
+ {
+  "id": "test_887",
+  "question": "who will get ticket to finale in rising star 2",
+  "answer": [
+   "Hemant Brijwasi"
+  ]
+ },
+ {
+  "id": "test_890",
+  "question": "who became the king of ayodhya after ram",
+  "answer": [
+   "Kusha"
+  ]
+ },
+ {
+  "id": "test_902",
+  "question": "who is the character of santa claus based on",
+  "answer": [
+   "Saint Nicholas",
+   "Father Christmas",
+   "Sinterklaas",
+   "Wodan"
+  ]
+ },
+ {
+  "id": "test_903",
+  "question": "who wins the next iron chef super chefs",
+  "answer": [
+   "Zakarian",
+   "Geoffrey Zakarian"
+  ]
+ },
+ {
+  "id": "test_910",
+  "question": "who sings i want to be a rockstar",
+  "answer": [
+   "Nickelback",
+   "Canadian rock band Nickelback",
+   "Billy Gibbons of ZZ Top"
+  ]
+ },
+ {
+  "id": "test_916",
+  "question": "which president of the united states was a boy scout",
+  "answer": [
+   "Gerald Ford",
+   "President Gerald Ford"
+  ]
+ },
+ {
+  "id": "test_921",
+  "question": "who has played in the most premier league derbies",
+  "answer": [
+   "Neville Southall"
+  ]
+ },
+ {
+  "id": "test_922",
+  "question": "i like the way you move video cast",
+  "answer": [
+   "Big Boi",
+   "Sleepy Brown",
+   "Fonzworth Bentley",
+   "actress Ki Toy Johnson",
+   "Ki Toy Johnson"
+  ]
+ },
+ {
+  "id": "test_931",
+  "question": "what is the second book in the alchemyst series",
+  "answer": [
+   "The Magician"
+  ]
+ },
+ {
+  "id": "test_949",
+  "question": "where does cleavage of the peptide bond by chymotrypsin occur",
+  "answer": [
+   "digestive systems"
+  ]
+ },
+ {
+  "id": "test_951",
+  "question": "how long did it take to build the great pyramid of egypt",
+  "answer": [
+   "20-year period"
+  ]
+ },
+ {
+  "id": "test_954",
+  "question": "where do the secretory cells of endocrine glands secrete their products",
+  "answer": [
+   "epithelial surface",
+   "bloodstream",
+   "directly into the bloodstream"
+  ]
+ },
+ {
+  "id": "test_968",
+  "question": "who won the ladies ice skating in the olympics",
+  "answer": [
+   "Alina Zagitova"
+  ]
+ },
+ {
+  "id": "test_969",
+  "question": "when was the dome of the rock completed",
+  "answer": [
+   "691 CE",
+   "in 691 CE"
+  ]
+ },
+ {
+  "id": "test_994",
+  "question": "where does the last name waters come from",
+  "answer": [
+   "Wales and Yorkshire",
+   "Yorkshire",
+   "Wales"
+  ]
+ },
+ {
+  "id": "test_1001",
+  "question": "where are the cones in the eye located",
+  "answer": [
+   "the retina",
+   "in the fovea centralis",
+   "in the retina"
+  ]
+ },
+ {
+  "id": "test_1003",
+  "question": "who is the founder of el pollo loco",
+  "answer": [
+   "Juan Francisco Ochoa"
+  ]
+ },
+ {
+  "id": "test_1006",
+  "question": "when does april fools day end at noon",
+  "answer": [
+   "April 1st"
+  ]
+ },
+ {
+  "id": "test_1009",
+  "question": "who plays cesar in the show on my block",
+  "answer": [
+   "Diego Tinoco"
+  ]
+ },
+ {
+  "id": "test_1014",
+  "question": "who sings i'll sleep when i'm dead",
+  "answer": [
+   "Warren Zevon",
+   "Bon Jovi"
+  ]
+ },
+ {
+  "id": "test_1016",
+  "question": "who owns the crown plaza hotel in chicago illinois",
+  "answer": [
+   "InterContinental Hotels Group"
+  ]
+ },
+ {
+  "id": "test_1022",
+  "question": "where is the new stadium being built in las vegas",
+  "answer": [
+   "Paradise, Nevada",
+   "in Paradise, Nevada"
+  ]
+ },
+ {
+  "id": "test_1027",
+  "question": "who played chaka on land of the lost tv show",
+  "answer": [
+   "Phillip Paley"
+  ]
+ },
+ {
+  "id": "test_1035",
+  "question": "who plays faith on when calls the heart",
+  "answer": [
+   "Andrea Brooks"
+  ]
+ },
+ {
+  "id": "test_1037",
+  "question": "who plays chris grandy in 13 going on 30",
+  "answer": [
+   "Jim Gaffigan",
+   "Alex Black"
+  ]
+ },
+ {
+  "id": "test_1040",
+  "question": "what is the average salary for a us congressman",
+  "answer": [
+   "$174,000"
+  ]
+ },
+ {
+  "id": "test_1049",
+  "question": "when did new york stop using the electric chair",
+  "answer": [
+   "1963",
+   "1972"
+  ]
+ },
+ {
+  "id": "test_1054",
+  "question": "was star wars a book or a movie first",
+  "answer": [
+   "film"
+  ]
+ },
+ {
+  "id": "test_1073",
+  "question": "where will be the next olympics be held",
+  "answer": [
+   "Tokyo"
+  ]
+ },
+ {
+  "id": "test_1080",
+  "question": "where is wind power used most in the united states",
+  "answer": [
+   "Texas",
+   "the central plains",
+   "Iowa"
+  ]
+ },
+ {
+  "id": "test_1084",
+  "question": "where is the oldest house in america located",
+  "answer": [
+   "Taos Pueblo"
+  ]
+ },
+ {
+  "id": "test_1086",
+  "question": "who sings the rap in baby by justin bieber",
+  "answer": [
+   "Ludacris"
+  ]
+ },
+ {
+  "id": "test_1093",
+  "question": "how do you spell padawan from star wars",
+  "answer": [
+   "Padawan"
+  ]
+ },
+ {
+  "id": "test_1101",
+  "question": "when did sweet caroline start at red sox games",
+  "answer": [
+   "1997",
+   "at least 1997"
+  ]
+ },
+ {
+  "id": "test_1115",
+  "question": "when does dragon ball super episode 113 start",
+  "answer": [
+   "October 29, 2017"
+  ]
+ },
+ {
+  "id": "test_1137",
+  "question": "who plays the dad in pretty in pink",
+  "answer": [
+   "Harry Dean Stanton"
+  ]
+ },
+ {
+  "id": "test_1167",
+  "question": "who won women's singles us open 2017",
+  "answer": [
+   "Sloane Stephens"
+  ]
+ },
+ {
+  "id": "test_1179",
+  "question": "who played ben stone son on law and order",
+  "answer": [
+   "Michael Moriarty"
+  ]
+ },
+ {
+  "id": "test_1182",
+  "question": "how many farmers are there in the usa",
+  "answer": [
+   "3.2 million"
+  ]
+ },
+ {
+  "id": "test_1188",
+  "question": "who is the supreme justice of the supreme court",
+  "answer": [
+   "John Roberts"
+  ]
+ },
+ {
+  "id": "test_1190",
+  "question": "the fellowship of the ring director's cut length",
+  "answer": [
+   "228 minutes"
+  ]
+ },
+ {
+  "id": "test_1197",
+  "question": "who sang i ran all the way home",
+  "answer": [
+   "The Impalas"
+  ]
+ },
+ {
+  "id": "test_1204",
+  "question": "what is the name of a camel with 2 humps",
+  "answer": [
+   "Bactrian",
+   "the Bactrian"
+  ]
+ },
+ {
+  "id": "test_1229",
+  "question": "what is the latest version of chrome for linux",
+  "answer": [
+   "67.0.3396",
+   "67.0"
+  ]
+ },
+ {
+  "id": "test_1238",
+  "question": "who sang the song oh what a lonely boy",
+  "answer": [
+   "Andrew Gold"
+  ]
+ },
+ {
+  "id": "test_1247",
+  "question": "who played bat masterson in the tv series",
+  "answer": [
+   "Gene Barry"
+  ]
+ },
+ {
+  "id": "test_1250",
+  "question": "when did men's curling start in the olympics",
+  "answer": [
+   "1924",
+   "1998",
+   "1998 Nagano Games"
+  ]
+ },
+ {
+  "id": "test_1256",
+  "question": "where does the last name hidalgo come from",
+  "answer": [
+   "Spanish"
+  ]
+ },
+ {
+  "id": "test_1257",
+  "question": "jonny cash one piece at a time car",
+  "answer": [
+   "Cadillac"
+  ]
+ },
+ {
+  "id": "test_1276",
+  "question": "who wrote the phantom of the opera music",
+  "answer": [
+   "Andrew Lloyd Webber"
+  ]
+ },
+ {
+  "id": "test_1283",
+  "question": "where is the battle of britain flight based",
+  "answer": [
+   "RAF Coningsby in Lincolnshire"
+  ]
+ },
+ {
+  "id": "test_1287",
+  "question": "which is the tallest building in the world 2018",
+  "answer": [
+   "Burj Khalifa in Dubai",
+   "Burj Khalifa"
+  ]
+ },
+ {
+  "id": "test_1301",
+  "question": "who sang you'll be a woman soon in pulp fiction",
+  "answer": [
+   "rock band Urge Overkill",
+   "Urge Overkill"
+  ]
+ },
+ {
+  "id": "test_1309",
+  "question": "where was the u.s.s maine when it exploded in 1898",
+  "answer": [
+   "Havana Harbor"
+  ]
+ },
+ {
+  "id": "test_1310",
+  "question": "in the honour of which god is anant chaturdashi celebrated",
+  "answer": [
+   "Ganesh"
+  ]
+ },
+ {
+  "id": "test_1316",
+  "question": "who does luke skywalker fall in love with",
+  "answer": [
+   "Mara Jade"
+  ]
+ },
+ {
+  "id": "test_1319",
+  "question": "five tools of security management to overcome computer crime",
+  "answer": [
+   "Pre-evaluation",
+   "operative planning",
+   "post-evaluation",
+   "implementation",
+   "strategic planning"
+  ]
+ },
+ {
+  "id": "test_1328",
+  "question": "what was the purpose of the bantu education act",
+  "answer": [
+   "enforcing racially separated educational facilities"
+  ]
+ },
+ {
+  "id": "test_1334",
+  "question": "what is the first covenant in the old testament",
+  "answer": [
+   "the Noahic Covenant"
+  ]
+ },
+ {
+  "id": "test_1340",
+  "question": "winner of worst cooks in america season 5",
+  "answer": [
+   "Amber Brauner"
+  ]
+ },
+ {
+  "id": "test_1342",
+  "question": "who cracked the enigma code in world war 2",
+  "answer": [
+   "Turing"
+  ]
+ },
+ {
+  "id": "test_1347",
+  "question": "who was the actor who played grizzly adams",
+  "answer": [
+   "\"Dan\" Haggerty"
+  ]
+ },
+ {
+  "id": "test_1357",
+  "question": "how many counties does the state of georgia have",
+  "answer": [
+   "159",
+   "159 counties"
+  ]
+ },
+ {
+  "id": "test_1360",
+  "question": "which is the ring finger for male in india",
+  "answer": [
+   "the left ring finger",
+   "left ring finger"
+  ]
+ },
+ {
+  "id": "test_1362",
+  "question": "who played king theoden in lord of the rings",
+  "answer": [
+   "Bernard Hill"
+  ]
+ },
+ {
+  "id": "test_1370",
+  "question": "where does the saskatchewan river start and end",
+  "answer": [
+   "central Saskatchewan",
+   "the Hudson Bay",
+   "Saskatchewan River Forks, Saskatchewan",
+   "Saskatchewan Glacier, Alberta"
+  ]
+ },
+ {
+  "id": "test_1376",
+  "question": "what percentage of the population is naturally blonde",
+  "answer": [
+   "2%"
+  ]
+ },
+ {
+  "id": "test_1380",
+  "question": "who has played in the most masters tournaments",
+  "answer": [
+   "Gary Player"
+  ]
+ },
+ {
+  "id": "test_1386",
+  "question": "where does safe haven take place in the book",
+  "answer": [
+   "Southport, North Carolina"
+  ]
+ },
+ {
+  "id": "test_1388",
+  "question": "who was elected president of the united states in 1928",
+  "answer": [
+   "Herbert Hoover"
+  ]
+ },
+ {
+  "id": "test_1392",
+  "question": "theme of the song roar by katy perry",
+  "answer": [
+   "self-empowerment",
+   "standing up for oneself"
+  ]
+ },
+ {
+  "id": "test_1394",
+  "question": "who discovered gold in the sierra nevada of california",
+  "answer": [
+   "James W. Marshall"
+  ]
+ },
+ {
+  "id": "test_1398",
+  "question": "what culture region is germany a part of",
+  "answer": [
+   "Central Germany"
+  ]
+ },
+ {
+  "id": "test_1399",
+  "question": "mount and blade with fire and sword time period",
+  "answer": [
+   "1648-51"
+  ]
+ },
+ {
+  "id": "test_1428",
+  "question": "who laid the foundation of school of possibilism",
+  "answer": [
+   "Strabo",
+   "Marshall Sahlins"
+  ]
+ },
+ {
+  "id": "test_1434",
+  "question": "when was the first time the internet was used",
+  "answer": [
+   "1969",
+   "November 22, 1977"
+  ]
+ },
+ {
+  "id": "test_1435",
+  "question": "nuclear power plant that blew up in russia",
+  "answer": [
+   "Chernobyl Nuclear Power Plant",
+   "Chernobyl",
+   "the Chernobyl Nuclear Power Plant"
+  ]
+ },
+ {
+  "id": "test_1436",
+  "question": "who is stephanie's mom on the bold and the beautiful",
+  "answer": [
+   "Ridge Forrester",
+   "Taylor Hayes",
+   "Hunter Tylo"
+  ]
+ },
+ {
+  "id": "test_1451",
+  "question": "where is season 3 of the detour filmed",
+  "answer": [
+   "Alaska"
+  ]
+ },
+ {
+  "id": "test_1465",
+  "question": "what is the salary of the ceo of microsoft",
+  "answer": [
+   "$84.3 million",
+   "$84.3 million (2018)"
+  ]
+ },
+ {
+  "id": "test_1476",
+  "question": "what is alpha centauri's approximate distance from earth",
+  "answer": [
+   "4.37 light-years"
+  ]
+ },
+ {
+  "id": "test_1484",
+  "question": "all the gases in the earth's atmosphere",
+  "answer": [
+   "Water vapor",
+   "small amounts of other gases",
+   "nitrogen",
+   "oxygen",
+   "Methane",
+   "Helium",
+   "Oxygen",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Neon",
+   "Argon",
+   "argon",
+   "carbon dioxide"
+  ]
+ },
+ {
+  "id": "test_1507",
+  "question": "who was the greatest pool player of all time",
+  "answer": [
+   "Efren Manalang Reyes"
+  ]
+ },
+ {
+  "id": "test_1516",
+  "question": "who is the designer in devil wears prada",
+  "answer": [
+   "Valentino Garavani"
+  ]
+ },
+ {
+  "id": "test_1523",
+  "question": "where is the nfl game in london played",
+  "answer": [
+   "Twickenham Stadium",
+   "Wembley Stadium"
+  ]
+ },
+ {
+  "id": "test_1531",
+  "question": "what are the active materials of a lead acid battery",
+  "answer": [
+   "Lead",
+   "sulfuric acid",
+   "Lead and lead dioxide",
+   "lead dioxide"
+  ]
+ },
+ {
+  "id": "test_1538",
+  "question": "who lives at the end of king lear",
+  "answer": [
+   "Kent",
+   "Albany",
+   "Edgar"
+  ]
+ },
+ {
+  "id": "test_1541",
+  "question": "who comes after the president if he dies",
+  "answer": [
+   "vice president"
+  ]
+ },
+ {
+  "id": "test_1547",
+  "question": "oppo is sponsor of which country's national cricket team",
+  "answer": [
+   "the Indian national cricket team",
+   "India"
+  ]
+ },
+ {
+  "id": "test_1556",
+  "question": "where is the extensor pollicis longus tendon located",
+  "answer": [
+   "dorsally on the forearm",
+   "located dorsally on the forearm"
+  ]
+ },
+ {
+  "id": "test_1561",
+  "question": "which country has the most coastline in the world",
+  "answer": [
+   "Canada"
+  ]
+ },
+ {
+  "id": "test_1568",
+  "question": "where is the boy who played charlie in willy wonka",
+  "answer": [
+   "Peter Gardner[4] Ostrum",
+   "Lowville, New York"
+  ]
+ },
+ {
+  "id": "test_1571",
+  "question": "branch of science that deals with the structure of human body parts",
+  "answer": [
+   "Anatomy",
+   "Human anatomy",
+   "human anatomy"
+  ]
+ },
+ {
+  "id": "test_1572",
+  "question": "when was the last person executed in florida",
+  "answer": [
+   "Eric Scott Branch",
+   "February 22, 2018"
+  ]
+ },
+ {
+  "id": "test_1573",
+  "question": "disagreements involving slavery and states' rights were two of the main causes of",
+  "answer": [
+   "the American Civil War"
+  ]
+ },
+ {
+  "id": "test_1578",
+  "question": "the fertile crescent is located between what two bodies of water",
+  "answer": [
+   "Tigris and Euphrates rivers",
+   "Tigris",
+   "Euphrates"
+  ]
+ },
+ {
+  "id": "test_1582",
+  "question": "when did the twenty one pilots hiatus start",
+  "answer": [
+   "November 2016",
+   "July 2017"
+  ]
+ },
+ {
+  "id": "test_1589",
+  "question": "how many winnie the pooh books are there",
+  "answer": [
+   "four"
+  ]
+ },
+ {
+  "id": "test_1594",
+  "question": "what is the hot coffee mod in san andreas",
+  "answer": [
+   "a normally inaccessible mini-game"
+  ]
+ },
+ {
+  "id": "test_1598",
+  "question": "state the process that divides one nucleus into two genetically identical nuclei",
+  "answer": [
+   "mitosis"
+  ]
+ },
+ {
+  "id": "test_1603",
+  "question": "who sings the skye boat song on outlander",
+  "answer": [
+   "Bear McCreary",
+   "Raya Yarbrough"
+  ]
+ },
+ {
+  "id": "test_1612",
+  "question": "where is the tibia and fibula bone located",
+  "answer": [
+   "leg"
+  ]
+ },
+ {
+  "id": "test_1613",
+  "question": "who sings he thinks he'll keep her",
+  "answer": [
+   "Mary Chapin Carpenter"
+  ]
+ },
+ {
+  "id": "test_1621",
+  "question": "who made the first to record with the electric guitar",
+  "answer": [
+   "George Warren Barnes"
+  ]
+ },
+ {
+  "id": "test_1624",
+  "question": "who played young monica in love and basketball",
+  "answer": [
+   "Kyla Pratt"
+  ]
+ },
+ {
+  "id": "test_1642",
+  "question": "when does agents of shield season five start",
+  "answer": [
+   "December 1, 2017"
+  ]
+ },
+ {
+  "id": "test_1644",
+  "question": "what are the monomer building blocks of dna and rna",
+  "answer": [
+   "Nucleotides"
+  ]
+ },
+ {
+  "id": "test_1646",
+  "question": "who sings you are a magnet and i am steel",
+  "answer": [
+   "Walter Egan"
+  ]
+ },
+ {
+  "id": "test_1664",
+  "question": "where did the battle of issus take place",
+  "answer": [
+   "southern Anatolia",
+   "in southern Anatolia"
+  ]
+ },
+ {
+  "id": "test_1665",
+  "question": "what land mass was north america a part of about 300 million years ago",
+  "answer": [
+   "Pangaea",
+   "Pangaea or Pangea"
+  ]
+ },
+ {
+  "id": "test_1667",
+  "question": "who discovered cells divide to make new cells",
+  "answer": [
+   "Hugo von Mohl",
+   "German botanist Hugo von Mohl"
+  ]
+ },
+ {
+  "id": "test_1669",
+  "question": "when will miraculous ladybug season 2 episode 12 come out",
+  "answer": [
+   "30 March 2018"
+  ]
+ },
+ {
+  "id": "test_1679",
+  "question": "what's the biggest country in western europe",
+  "answer": [
+   "Russia*",
+   "Russia",
+   "France"
+  ]
+ },
+ {
+  "id": "test_1682",
+  "question": "how long is a whale shark in meters",
+  "answer": [
+   "12.65 m",
+   "estimated at 9.7 m",
+   "9.7 m"
+  ]
+ },
+ {
+  "id": "test_1688",
+  "question": "who sings in walk hard the dewey cox story",
+  "answer": [
+   "John C. Reilly"
+  ]
+ },
+ {
+  "id": "test_1706",
+  "question": "who votes to elect a rajya sabha memmber",
+  "answer": [
+   "state legislatures"
+  ]
+ },
+ {
+  "id": "test_1709",
+  "question": "who won the oscar for best actor in 1975",
+  "answer": [
+   "Art Carney"
+  ]
+ },
+ {
+  "id": "test_1729",
+  "question": "what is a coherent set of values and beliefs about public policy called",
+  "answer": [
+   "a political ideology",
+   "political ideology",
+   "ideology"
+  ]
+ },
+ {
+  "id": "test_1731",
+  "question": "what breed of cat has spots and stripes",
+  "answer": [
+   "tabby"
+  ]
+ },
+ {
+  "id": "test_1736",
+  "question": "when was the latest version of chrome released",
+  "answer": [
+   "2018-01-22"
+  ]
+ },
+ {
+  "id": "test_1738",
+  "question": "the part of the cytoskeleton made from the protein actin is called",
+  "answer": [
+   "Microfilaments",
+   "microfilament"
+  ]
+ },
+ {
+  "id": "test_1750",
+  "question": "when was the taj mahal built and completed",
+  "answer": [
+   "1632–53"
+  ]
+ },
+ {
+  "id": "test_1763",
+  "question": "when did scotland beat england in six nations",
+  "answer": [
+   "2 April 2000",
+   "25 February 2006",
+   "24 February 2018",
+   "8 March 2008"
+  ]
+ },
+ {
+  "id": "test_1772",
+  "question": "glycogen and amylopectin are long chains of which simple sugar(s)",
+  "answer": [
+   "glucose"
+  ]
+ },
+ {
+  "id": "test_1780",
+  "question": "list of strict nature reserve in the philippines",
+  "answer": [
+   "Palawan",
+   "Lake Malimanga",
+   "Olango Island",
+   "Calauit Safari Park",
+   "Lake Buluan",
+   "Calavite and FB Harrison"
+  ]
+ },
+ {
+  "id": "test_1782",
+  "question": "how and why were serial novels a phenomenon in the nineteenth century",
+  "answer": [
+   "improved economics of distribution",
+   "technological advances in printing",
+   "the rise of literacy"
+  ]
+ },
+ {
+  "id": "test_1811",
+  "question": "who has the best batting average in test cricket",
+  "answer": [
+   "Australia's Sir Donald Bradman",
+   "Don Bradman",
+   "Sir Donald Bradman"
+  ]
+ },
+ {
+  "id": "test_1812",
+  "question": "where does the last name andersen originate from",
+  "answer": [
+   "Danish",
+   "Norwegian"
+  ]
+ },
+ {
+  "id": "test_1813",
+  "question": "what is best thing i never had song about",
+  "answer": [
+   "revenge and karma",
+   "karma",
+   "revenge"
+  ]
+ },
+ {
+  "id": "test_1820",
+  "question": "what is the name of the main artery which takes blood from the heart to the body",
+  "answer": [
+   "The aorta",
+   "aorta"
+  ]
+ },
+ {
+  "id": "test_1821",
+  "question": "what percentage of the us population lives below the poverty line",
+  "answer": [
+   "13.5%",
+   "In 2015, 13.5%"
+  ]
+ },
+ {
+  "id": "test_1825",
+  "question": "who did the voiceover in michael jackson's thriller",
+  "answer": [
+   "Vincent Price",
+   "actor Vincent Price"
+  ]
+ },
+ {
+  "id": "test_1827",
+  "question": "who is the founder of the ubuntu project",
+  "answer": [
+   "Mark Richard Shuttleworth"
+  ]
+ },
+ {
+  "id": "test_1829",
+  "question": "what's the name of the last mission impossible movie",
+  "answer": [
+   "Mission: Impossible – Fallout"
+  ]
+ },
+ {
+  "id": "test_1834",
+  "question": "when are the opening ceremonies for the 2018 olympic games",
+  "answer": [
+   "9 February 2018",
+   "9 February 2018"
+  ]
+ },
+ {
+  "id": "test_1838",
+  "question": "when were cigarette ads banned from tv uk",
+  "answer": [
+   "1 August 1965"
+  ]
+ },
+ {
+  "id": "test_1841",
+  "question": "who does the head of the fbi report to",
+  "answer": [
+   "the Director of National Intelligence",
+   "the Attorney General"
+  ]
+ },
+ {
+  "id": "test_1848",
+  "question": "when was the last time lebron scored 50 points",
+  "answer": [
+   "March 5, 2008",
+   "November 3, 2017"
+  ]
+ },
+ {
+  "id": "test_1851",
+  "question": "who began the age of exploration in portugal",
+  "answer": [
+   "King Dinis of Portugal",
+   "Afonso IV of Portugal",
+   "Prince Henry"
+  ]
+ },
+ {
+  "id": "test_1852",
+  "question": "what is the collection of the districts to the east of the jordan river",
+  "answer": [
+   "Jordan",
+   "Golan Heights"
+  ]
+ },
+ {
+  "id": "test_1856",
+  "question": "when does the sword art online movie take place",
+  "answer": [
+   "2026",
+   "the year 2026"
+  ]
+ },
+ {
+  "id": "test_1858",
+  "question": "who sings the song i want to go outside in the rain",
+  "answer": [
+   "Milira"
+  ]
+ },
+ {
+  "id": "test_1862",
+  "question": "when did hollywood video go out of business",
+  "answer": [
+   "2005.",
+   "May 2010"
+  ]
+ },
+ {
+  "id": "test_1873",
+  "question": "when did the granite mountain hotshots get certified",
+  "answer": [
+   "2008"
+  ]
+ },
+ {
+  "id": "test_1889",
+  "question": "who sings the whiskey ain't workin anymore",
+  "answer": [
+   "Dennis Locorriere",
+   "Marty Stuart",
+   "Travis Tritt",
+   "Tim Passmore",
+   "Travis Tritt and Marty Stuart"
+  ]
+ },
+ {
+  "id": "test_1892",
+  "question": "when did the last state became a state",
+  "answer": [
+   "Hawaii",
+   "August 21, 1959"
+  ]
+ },
+ {
+  "id": "test_1896",
+  "question": "where does a girl wear an engagement ring",
+  "answer": [
+   "left hand ring finger"
+  ]
+ },
+ {
+  "id": "test_1897",
+  "question": "what cities are in san joaquin county california",
+  "answer": [
+   "Lodi",
+   "Stockton",
+   "Lathrop",
+   "Manteca",
+   "Ripon",
+   "Tracy",
+   "Escalon"
+  ]
+ },
+ {
+  "id": "test_1913",
+  "question": "why was the plague that struck athens so devastating",
+  "answer": [
+   "close quarters and poor hygiene"
+  ]
+ },
+ {
+  "id": "test_1937",
+  "question": "when was the first wonder woman comic released",
+  "answer": [
+   "December 1941",
+   "January 1942",
+   "October 1941"
+  ]
+ },
+ {
+  "id": "test_1939",
+  "question": "when does synapsis of homologous chromosomes occur in mitosis",
+  "answer": [
+   "prophase I of meiosis",
+   "during prophase I of meiosis"
+  ]
+ },
+ {
+  "id": "test_1952",
+  "question": "how long is a prime minister term in uk",
+  "answer": [
+   "At Her Majesty's pleasure"
+  ]
+ },
+ {
+  "id": "test_1953",
+  "question": "when was the letter j introduced to the alphabet",
+  "answer": [
+   "in Middle High German",
+   "1524"
+  ]
+ },
+ {
+  "id": "test_1959",
+  "question": "which layer of the osi model handles physical addressing",
+  "answer": [
+   "physical layer or layer 1"
+  ]
+ },
+ {
+  "id": "test_1970",
+  "question": "who did the us share the oregon country with",
+  "answer": [
+   "French Canadian",
+   "British"
+  ]
+ },
+ {
+  "id": "test_1977",
+  "question": "who was the chief guest of 2014 republic day",
+  "answer": [
+   "Prime Minister Shinzo Abe"
+  ]
+ },
+ {
+  "id": "test_1978",
+  "question": "name of volcano that erupted in iceland in 2010",
+  "answer": [
+   "Eyjafjallajökull"
+  ]
+ },
+ {
+  "id": "test_1984",
+  "question": "what does zonia receive from reuben in the play",
+  "answer": [
+   "kiss"
+  ]
+ },
+ {
+  "id": "test_2003",
+  "question": "who has the most followers in the world on instagram",
+  "answer": [
+   "Instagram's own account",
+   "Instagram"
+  ]
+ },
+ {
+  "id": "test_2006",
+  "question": "where was the tv show high chaparral filmed",
+  "answer": [
+   "California",
+   "Saguaro National Park",
+   "Old Tucson Studios in Arizona"
+  ]
+ },
+ {
+  "id": "test_2011",
+  "question": "when was the last time astros was in the world series",
+  "answer": [
+   "2017",
+   "2005"
+  ]
+ },
+ {
+  "id": "test_2031",
+  "question": "who played joey's agent estelle on friends",
+  "answer": [
+   "June Gable"
+  ]
+ },
+ {
+  "id": "test_2033",
+  "question": "who caused to build qutub minar in delhi",
+  "answer": [
+   "Iltutmish",
+   "Firoz Shah Tughlaq"
+  ]
+ },
+ {
+  "id": "test_2067",
+  "question": "who produced the movie i can only imagine",
+  "answer": [
+   "Pete Shilaimon",
+   "Raymond Harris",
+   "Daryl Lefever",
+   "Kevin Downes",
+   "Cindy Bond",
+   "Joe Knopp",
+   "Mickey Liddell"
+  ]
+ },
+ {
+  "id": "test_2072",
+  "question": "when was the first super bowl the eagles ever won",
+  "answer": [
+   "2017",
+   "1948"
+  ]
+ },
+ {
+  "id": "test_2089",
+  "question": "where is the word leviathan mentioned in the bible",
+  "answer": [
+   "Book of Job",
+   "Psalms",
+   "Isaiah"
+  ]
+ },
+ {
+  "id": "test_2094",
+  "question": "who did university of miami play last week",
+  "answer": [
+   "FIU"
+  ]
+ },
+ {
+  "id": "test_2140",
+  "question": "who has scored the most tries in rugby union",
+  "answer": [
+   "Daisuke Ohata"
+  ]
+ },
+ {
+  "id": "test_2143",
+  "question": "what are the joyful mysteries of the holy rosary",
+  "answer": [
+   "The Nativity",
+   "The Annunciation",
+   "The Visitation"
+  ]
+ },
+ {
+  "id": "test_2149",
+  "question": "when was theme from a summer place released",
+  "answer": [
+   "1960",
+   "1959",
+   "September 1959"
+  ]
+ },
+ {
+  "id": "test_2154",
+  "question": "name three large lakes other than the great lakes in the united states",
+  "answer": [
+   "Iliamna Lake",
+   "Great Salt Lake",
+   "Lake of the Woods"
+  ]
+ },
+ {
+  "id": "test_2156",
+  "question": "where was the movie jeremiah johnson filmed at",
+  "answer": [
+   "Utah"
+  ]
+ },
+ {
+  "id": "test_2161",
+  "question": "where did aeneas go when he left carthage",
+  "answer": [
+   "Sicily"
+  ]
+ },
+ {
+  "id": "test_2169",
+  "question": "who played tom on as the world turns",
+  "answer": [
+   "Jason Kincaid (1984)",
+   "Jason Kincaid",
+   "C. David Colson",
+   "Peter Galman",
+   "Scott Holmes",
+   "Gregg Marx",
+   "Justin Deas",
+   "others",
+   "Tom Tammi"
+  ]
+ },
+ {
+  "id": "test_2176",
+  "question": "when is chinese new year and what year is it",
+  "answer": [
+   "the year of the Dog",
+   "Friday, 16 February",
+   "year of the Dog"
+  ]
+ },
+ {
+  "id": "test_2178",
+  "question": "who starred in the remake of true grit",
+  "answer": [
+   "Hailee Steinfeld",
+   "Jeff Bridges",
+   "Barry Pepper",
+   "Matt Damon",
+   "Josh Brolin"
+  ]
+ },
+ {
+  "id": "test_2180",
+  "question": "when does isle of dogs come out in us",
+  "answer": [
+   "April 13, 2018",
+   "March 23, 2018",
+   "March 23, 2018"
+  ]
+ },
+ {
+  "id": "test_2184",
+  "question": "who named all the animals in the world",
+  "answer": [
+   "Adam"
+  ]
+ },
+ {
+  "id": "test_2185",
+  "question": "how long do nhl players stay on waivers",
+  "answer": [
+   "24 hours"
+  ]
+ },
+ {
+  "id": "test_2186",
+  "question": "what year did the price is right first air",
+  "answer": [
+   "November 26, 1956",
+   "1956"
+  ]
+ },
+ {
+  "id": "test_2202",
+  "question": "where does the donkey talk in the bible",
+  "answer": [
+   "Numbers 22:28"
+  ]
+ },
+ {
+  "id": "test_2214",
+  "question": "when does panic at the disco album come out",
+  "answer": [
+   "December 15, 2017"
+  ]
+ },
+ {
+  "id": "test_2220",
+  "question": "what college does everyone in gossip girl go to",
+  "answer": [
+   "New York University",
+   "Columbia University"
+  ]
+ },
+ {
+  "id": "test_2235",
+  "question": "when did the prr first begin its passenger service between pittsburgh and philadelphia",
+  "answer": [
+   "by 1854",
+   "1854"
+  ]
+ },
+ {
+  "id": "test_2239",
+  "question": "who was the declaration of independence written for",
+  "answer": [
+   "the Second Continental Congress"
+  ]
+ },
+ {
+  "id": "test_2257",
+  "question": "who sang how can you mend a broken heart first",
+  "answer": [
+   "Bee Gees",
+   "the Bee Gees"
+  ]
+ },
+ {
+  "id": "test_2258",
+  "question": "who was the original host of what's my line",
+  "answer": [
+   "John Daly"
+  ]
+ },
+ {
+  "id": "test_2264",
+  "question": "who plays janie in the search for santa paws",
+  "answer": [
+   "G. Hannelius"
+  ]
+ },
+ {
+  "id": "test_2273",
+  "question": "where was the original planet of the apes filmed at",
+  "answer": [
+   "Utah",
+   "in northern Arizona",
+   "California",
+   "Arizona"
+  ]
+ },
+ {
+  "id": "test_2286",
+  "question": "the nurses' health study is an example of what type of study",
+  "answer": [
+   "long-term",
+   "prospective",
+   "prospective studies"
+  ]
+ },
+ {
+  "id": "test_2293",
+  "question": "who coined the phrase let them eat cake",
+  "answer": [
+   "Jean-Jacques Rousseau"
+  ]
+ },
+ {
+  "id": "test_2298",
+  "question": "who plays the principal in santa clarita diet",
+  "answer": [
+   "Thomas Lennon"
+  ]
+ },
+ {
+  "id": "test_2301",
+  "question": "who plays izabella in transformers the last knight",
+  "answer": [
+   "Isabela Moner"
+  ]
+ },
+ {
+  "id": "test_2316",
+  "question": "who penned the famous indian epic the ramayana",
+  "answer": [
+   "Valmiki",
+   "the Hindu sage Valmiki"
+  ]
+ },
+ {
+  "id": "test_2319",
+  "question": "who plays frankie’s sister teddy on grace and frankie",
+  "answer": [
+   "Talia Shire"
+  ]
+ },
+ {
+  "id": "test_2327",
+  "question": "who won the most mvp awards in the nba",
+  "answer": [
+   "Kareem Abdul-Jabbar"
+  ]
+ },
+ {
+  "id": "test_2355",
+  "question": "when did chicano studies become major studies programs on college campuses",
+  "answer": [
+   "By 1975",
+   "1972"
+  ]
+ },
+ {
+  "id": "test_2361",
+  "question": "what happens to water that infiltrates the soil if it is not absorbed by the roots of plants",
+  "answer": [
+   "runoff"
+  ]
+ },
+ {
+  "id": "test_2369",
+  "question": "where does tropic of cancer pass in india",
+  "answer": [
+   "Chhattisgarh",
+   "West Bengal",
+   "Gujarat",
+   "State of Tripura",
+   "Jharkhand",
+   "State of Mizoram",
+   "Madhya Pradesh",
+   "Rajasthan"
+  ]
+ },
+ {
+  "id": "test_2390",
+  "question": "who wrote the song stop the world and let me off",
+  "answer": [
+   "W. S. Stevenson",
+   "Carl Belew"
+  ]
+ },
+ {
+  "id": "test_2396",
+  "question": "when was the first mad max movie release",
+  "answer": [
+   "12 April 1979",
+   "April 1979",
+   "1979"
+  ]
+ },
+ {
+  "id": "test_2397",
+  "question": "the cast of don't tell mom the babysitter's dead",
+  "answer": [
+   "Kimmy Robertson",
+   "Jeff Bollow",
+   "John Getz",
+   "Keith Coogan",
+   "Joanna Cassidy",
+   "Concetta Tomei",
+   "Robert Hy Gorman",
+   "David Duchovny",
+   "Jayne Brook",
+   "Eda Reiss Merin",
+   "Christopher Pettiet",
+   "Dan Castellaneta (voice)",
+   "Josh Charles",
+   "Danielle Harris",
+   "Michael Kopelow",
+   "Christina Applegate"
+  ]
+ },
+ {
+  "id": "test_2414",
+  "question": "when did marathon change its name to snickers",
+  "answer": [
+   "19 July 1990"
+  ]
+ },
+ {
+  "id": "test_2432",
+  "question": "when was the land rover defender first built",
+  "answer": [
+   "1991",
+   "1983",
+   "in the 1980s"
+  ]
+ },
+ {
+  "id": "test_2433",
+  "question": "who played the wicked witch in wicked on broadway",
+  "answer": [
+   "Rachel Kelly Tucker"
+  ]
+ },
+ {
+  "id": "test_2435",
+  "question": "what type of artwork was created in the safavid empire",
+  "answer": [
+   "architecture",
+   "metal",
+   "ceramics",
+   "gardens",
+   "book",
+   "glass"
+  ]
+ },
+ {
+  "id": "test_2451",
+  "question": "where did the northernmost land action of the american civil war occur",
+  "answer": [
+   "St. Albans, Vermont"
+  ]
+ },
+ {
+  "id": "test_2453",
+  "question": "what are the colors of the netherlands flag",
+  "answer": [
+   "blue",
+   "white",
+   "red"
+  ]
+ },
+ {
+  "id": "test_2461",
+  "question": "where was robin hood prince of thieves made",
+  "answer": [
+   "the United Kingdom"
+  ]
+ },
+ {
+  "id": "test_2463",
+  "question": "where does the president get authority to issue executive orders",
+  "answer": [
+   "Constitution"
+  ]
+ },
+ {
+  "id": "test_2471",
+  "question": "what episode of pll does jenna get her sight back",
+  "answer": [
+   "If These Dolls Could Talk",
+   "Blood is the New Black"
+  ]
+ },
+ {
+  "id": "test_2473",
+  "question": "when will miraculous season 2 episode 11 be released",
+  "answer": [
+   "30 March 2018",
+   "27 October 2017"
+  ]
+ },
+ {
+  "id": "test_2474",
+  "question": "how many episodes in season 4 of last ship",
+  "answer": [
+   "10"
+  ]
+ },
+ {
+  "id": "test_2475",
+  "question": "when did the phantom of the opera open",
+  "answer": [
+   "October 1986:",
+   "1986",
+   "9 October 1986"
+  ]
+ },
+ {
+  "id": "test_2486",
+  "question": "who wrote the song to make you feel my love",
+  "answer": [
+   "Bob Dylan"
+  ]
+ },
+ {
+  "id": "test_2487",
+  "question": "what is the origin of the name marvin",
+  "answer": [
+   "Welsh",
+   "the Welsh name Mervyn"
+  ]
+ },
+ {
+  "id": "test_2494",
+  "question": "when did macbook pro 13 inch come out",
+  "answer": [
+   "October 2008",
+   "June 8, 2009"
+  ]
+ },
+ {
+  "id": "test_2496",
+  "question": "who is known as the super fast boy in the series the icredible",
+  "answer": [
+   "Dashiell Robert Parr / Dash"
+  ]
+ },
+ {
+  "id": "test_2498",
+  "question": "book series about the end of the world",
+  "answer": [
+   "Left Behind"
+  ]
+ },
+ {
+  "id": "test_2500",
+  "question": "who sang my bucket got a hole in it",
+  "answer": [
+   "Hank Williams"
+  ]
+ },
+ {
+  "id": "test_2506",
+  "question": "when did last podcast on the left start",
+  "answer": [
+   "2011"
+  ]
+ },
+ {
+  "id": "test_2517",
+  "question": "what is the name of india pakistan border",
+  "answer": [
+   "International Border",
+   "IB",
+   "International Border (IB)",
+   "India and Pakistan Border",
+   "The India and Pakistan Border"
+  ]
+ },
+ {
+  "id": "test_2518",
+  "question": "atlantic ocean's shape is similar to which english alphabet",
+  "answer": [
+   "S"
+  ]
+ },
+ {
+  "id": "test_2539",
+  "question": "who did america declare war on in ww1",
+  "answer": [
+   "Austria-Hungary"
+  ]
+ },
+ {
+  "id": "test_2542",
+  "question": "who played kelly taylor's mom on 90210",
+  "answer": [
+   "Ann Gillespie"
+  ]
+ },
+ {
+  "id": "test_2549",
+  "question": "who is the song diamonds and rust about",
+  "answer": [
+   "Bob Dylan"
+  ]
+ },
+ {
+  "id": "test_2557",
+  "question": "where does the largest amount of federal tax revenue come from",
+  "answer": [
+   "California"
+  ]
+ },
+ {
+  "id": "test_2571",
+  "question": "what is the system of government in japan",
+  "answer": [
+   "constitutional monarchy"
+  ]
+ },
+ {
+  "id": "test_2574",
+  "question": "who shot first in the shot heard around the world",
+  "answer": [
+   "Americans acting under orders"
+  ]
+ },
+ {
+  "id": "test_2587",
+  "question": "when was the first horrid henry book written",
+  "answer": [
+   "published in 1994",
+   "1994",
+   "in 1994"
+  ]
+ },
+ {
+  "id": "test_2589",
+  "question": "spyder from once upon a time in venice",
+  "answer": [
+   "Jason Momoa"
+  ]
+ },
+ {
+  "id": "test_2592",
+  "question": "where is the suez canal located on a map",
+  "answer": [
+   "Egypt"
+  ]
+ },
+ {
+  "id": "test_2594",
+  "question": "who will win 2018 election in sri lanka",
+  "answer": [
+   "Sri Lanka Podujana Peramuna"
+  ]
+ },
+ {
+  "id": "test_2607",
+  "question": "who sang the national anthem at the 2002 super bowl",
+  "answer": [
+   "Mariah Carey"
+  ]
+ },
+ {
+  "id": "test_2609",
+  "question": "who made the movie fifty shades of grey",
+  "answer": [
+   "Universal Pictures and Focus Features",
+   "Sam Taylor-Johnson"
+  ]
+ },
+ {
+  "id": "test_2615",
+  "question": "what are the 4 types of nitrogenous bases",
+  "answer": [
+   "cytosine (C)",
+   "adenine (A)",
+   "uracil (U)",
+   "thymine (T)",
+   "guanine (G)"
+  ]
+ },
+ {
+  "id": "test_2621",
+  "question": "when were 7 books removed from the bible",
+  "answer": [
+   "1546"
+  ]
+ },
+ {
+  "id": "test_2630",
+  "question": "who wrote the french declaration of the rights of man and of the citizen",
+  "answer": [
+   "General Lafayette",
+   "Honoré Mirabeau",
+   "Lafayette",
+   "Thomas Jefferson"
+  ]
+ },
+ {
+  "id": "test_2641",
+  "question": "when did the subway open in new york",
+  "answer": [
+   "October 27, 1904",
+   "1904"
+  ]
+ },
+ {
+  "id": "test_2648",
+  "question": "when was the us department of homeland security created",
+  "answer": [
+   "November 25, 2002",
+   "November 25, 2002"
+  ]
+ },
+ {
+  "id": "test_2652",
+  "question": "the winner of the best actor award in the 64th national film festival 2017",
+  "answer": [
+   "Akshay Kumar",
+   "Manoj Joshi"
+  ]
+ },
+ {
+  "id": "test_2667",
+  "question": "baga beach is in north or south goa",
+  "answer": [
+   "North Goa",
+   "North"
+  ]
+ },
+ {
+  "id": "test_2678",
+  "question": "when is the new series of keeping faith starting",
+  "answer": [
+   "13 February 2018"
+  ]
+ },
+ {
+  "id": "test_2683",
+  "question": "what is the legal age for marriage in australia",
+  "answer": [
+   "18"
+  ]
+ },
+ {
+  "id": "test_2686",
+  "question": "what is the most common cause of right ventricular heart failure",
+  "answer": [
+   "left-sided heart failure",
+   "pulmonary heart disease"
+  ]
+ },
+ {
+  "id": "test_2688",
+  "question": "why dry ether is used in woods reaction",
+  "answer": [
+   "to form a higher alkane"
+  ]
+ },
+ {
+  "id": "test_2700",
+  "question": "who was the temple of vesta built for",
+  "answer": [
+   "Vesta"
+  ]
+ },
+ {
+  "id": "test_2718",
+  "question": "when did little polveir win the grand national",
+  "answer": [
+   "1989"
+  ]
+ },
+ {
+  "id": "test_2719",
+  "question": "who sings find out who your friends are with tracy lawrence",
+  "answer": [
+   "Kenny Chesney",
+   "Tim McGraw and Kenny Chesney",
+   "Tim McGraw"
+  ]
+ },
+ {
+  "id": "test_2727",
+  "question": "what is the name of the shape with 100 sides",
+  "answer": [
+   "hectogon",
+   "hecatogon",
+   "hecatontagon"
+  ]
+ },
+ {
+  "id": "test_2740",
+  "question": "who has the most goals in soccer 2018",
+  "answer": [
+   "Ali Daei"
+  ]
+ },
+ {
+  "id": "test_2756",
+  "question": "who is the longest railway station in india",
+  "answer": [
+   "Gorakhpur Junction",
+   "Gorakhpur railway station"
+  ]
+ },
+ {
+  "id": "test_2769",
+  "question": "german word for pleasure from someone else's pain",
+  "answer": [
+   "Schadenfreude"
+  ]
+ },
+ {
+  "id": "test_2772",
+  "question": "who is the no. 1 ranked tennis player in the world",
+  "answer": [
+   "Rafael Nadal"
+  ]
+ },
+ {
+  "id": "test_2779",
+  "question": "delhi is on the banks of which river",
+  "answer": [
+   "Yamuna"
+  ]
+ },
+ {
+  "id": "test_2786",
+  "question": "where does aarp fall on the political spectrum",
+  "answer": [
+   "non-partisan"
+  ]
+ },
+ {
+  "id": "test_2793",
+  "question": "who started ww2 and how did it start",
+  "answer": [
+   "Nazi Germany"
+  ]
+ },
+ {
+  "id": "test_2801",
+  "question": "who has the highest paid contract in the nba",
+  "answer": [
+   "Stephen Curry"
+  ]
+ },
+ {
+  "id": "test_2803",
+  "question": "where did iowa state football coach come from",
+  "answer": [
+   "Massillon, Ohio",
+   "Toledo"
+  ]
+ },
+ {
+  "id": "test_2812",
+  "question": "when do wood thrushes fly when they are migrating",
+  "answer": [
+   "in the winter",
+   "at night"
+  ]
+ },
+ {
+  "id": "test_2821",
+  "question": "where did the jungle book story come from",
+  "answer": [
+   "English author Rudyard Kipling"
+  ]
+ },
+ {
+  "id": "test_2829",
+  "question": "who wrote the song fly me to the moon",
+  "answer": [
+   "Bart Howard"
+  ]
+ },
+ {
+  "id": "test_2832",
+  "question": "where does this season's survivor take place",
+  "answer": [
+   "Mamanuca Islands, Fiji",
+   "Ghost Island"
+  ]
+ },
+ {
+  "id": "test_2838",
+  "question": "who came up with the initial concept of protons and neutrons",
+  "answer": [
+   "Dmitri Ivanenko",
+   "Werner Heisenberg"
+  ]
+ },
+ {
+  "id": "test_2852",
+  "question": "the first vice president of india who become the president letter was",
+  "answer": [
+   "Sarvepalli Radhakrishnan"
+  ]
+ },
+ {
+  "id": "test_2874",
+  "question": "who expanded the palace of versailles to its present size",
+  "answer": [
+   "Louis XIV",
+   "Louis XV"
+  ]
+ },
+ {
+  "id": "test_2878",
+  "question": "which philosopher advocated the idea of return to nature",
+  "answer": [
+   "Bacon"
+  ]
+ },
+ {
+  "id": "test_2889",
+  "question": "where is wake forest located in north carolina",
+  "answer": [
+   "78.51889°W",
+   "in Franklin and Wake counties",
+   "35.97333°N"
+  ]
+ },
+ {
+  "id": "test_2905",
+  "question": "what hangs from the trees in the bayou",
+  "answer": [
+   "Spanish moss"
+  ]
+ },
+ {
+  "id": "test_2909",
+  "question": "is jaffa cakes a biscuit or a cake",
+  "answer": [
+   "Cake",
+   "biscuit-sized cakes",
+   "cakes"
+  ]
+ },
+ {
+  "id": "test_2920",
+  "question": "who won the 10m air pistol gold medal at commonwealth shooting championship in brisbane australia",
+  "answer": [
+   "Shahzar Rizvi"
+  ]
+ },
+ {
+  "id": "test_2929",
+  "question": "india south africa test series 2018 highest runs",
+  "answer": [
+   "286",
+   "AB de Villiers"
+  ]
+ },
+ {
+  "id": "test_2943",
+  "question": "who took control of jamestown and made new rules that made everyone work",
+  "answer": [
+   "John Smith"
+  ]
+ },
+ {
+  "id": "test_2952",
+  "question": "which greek god flew too close to the sun",
+  "answer": [
+   "Icarus"
+  ]
+ },
+ {
+  "id": "test_2957",
+  "question": "how much money did the film titanic make",
+  "answer": [
+   "$2.18 billion",
+   "$2.187 billion"
+  ]
+ },
+ {
+  "id": "test_2965",
+  "question": "what is cain and abel software used for",
+  "answer": [
+   "password recovery"
+  ]
+ },
+ {
+  "id": "test_2966",
+  "question": "what is the name of governor of maharashtra",
+  "answer": [
+   "Chennamaneni Vidyasagar Rao"
+  ]
+ },
+ {
+  "id": "test_2967",
+  "question": "what channel is abc on in phoenix arizona",
+  "answer": [
+   "15"
+  ]
+ },
+ {
+  "id": "test_2976",
+  "question": "when was the first season of when calls the heart",
+  "answer": [
+   "January 11, 2014",
+   "2014"
+  ]
+ },
+ {
+  "id": "test_3003",
+  "question": "the names of the beaches on d day",
+  "answer": [
+   "Juno Beach",
+   "Omaha Beach",
+   "Utah Beach",
+   "Gold Beach",
+   "Sword Beach"
+  ]
+ },
+ {
+  "id": "test_3021",
+  "question": "who is mostly responsible for writing the declaration of independence",
+  "answer": [
+   "Thomas Jefferson"
+  ]
+ },
+ {
+  "id": "test_3023",
+  "question": "where does kfc get their chicken in south africa",
+  "answer": [
+   "reared in South Africa",
+   "South Africa"
+  ]
+ },
+ {
+  "id": "test_3043",
+  "question": "who sang the song if loving you is wrong i don't want to be right",
+  "answer": [
+   "The Emotions",
+   "Luther Ingram"
+  ]
+ },
+ {
+  "id": "test_3048",
+  "question": "when is the season finale of designated survivor",
+  "answer": [
+   "May 16, 2018"
+  ]
+ },
+ {
+  "id": "test_3051",
+  "question": "how many us states currently use capital punishment",
+  "answer": [
+   "31 states",
+   "31"
+  ]
+ },
+ {
+  "id": "test_3061",
+  "question": "when did skiing halfpipe become an olympic event",
+  "answer": [
+   "2014"
+  ]
+ },
+ {
+  "id": "test_3075",
+  "question": "who was selected for the 2018 football hall of fame",
+  "answer": [
+   "Ray Lewis",
+   "Brian Urlacher",
+   "Jerry Kramer",
+   "Robert Brazile",
+   "Bobby Beathard",
+   "Brian Dawkins",
+   "Randy Moss",
+   "Terrell Owens"
+  ]
+ },
+ {
+  "id": "test_3085",
+  "question": "when is the opening ceremonies of the olympics 2018",
+  "answer": [
+   "9 February 2018"
+  ]
+ },
+ {
+  "id": "test_3087",
+  "question": "points on a sphere or angles in a circle are measured in units called",
+  "answer": [
+   "radians"
+  ]
+ },
+ {
+  "id": "test_3092",
+  "question": "who is the coach for the ottawa senators",
+  "answer": [
+   "Guy Boucher"
+  ]
+ },
+ {
+  "id": "test_3093",
+  "question": "where was the remake of dirty dancing filmed",
+  "answer": [
+   "High Hampton Inn in Cashiers",
+   "Hendersonville, North Carolina",
+   "western North Carolina"
+  ]
+ },
+ {
+  "id": "test_3097",
+  "question": "when did a wrinkle in time start filming",
+  "answer": [
+   "November 2, 2016"
+  ]
+ },
+ {
+  "id": "test_3098",
+  "question": "who sang the american national anthem at the super bowl",
+  "answer": [
+   "Pink"
+  ]
+ },
+ {
+  "id": "test_3106",
+  "question": "who determines the rules of the us house and us senate",
+  "answer": [
+   "United States Senate",
+   "The Senate"
+  ]
+ },
+ {
+  "id": "test_3109",
+  "question": "who is the highest paid baseball player in the major leagues",
+  "answer": [
+   "Clayton Kershaw",
+   "Alex Rodriguez"
+  ]
+ },
+ {
+  "id": "test_3111",
+  "question": "where is beijing located on the world map",
+  "answer": [
+   "northern China",
+   "in northern China"
+  ]
+ },
+ {
+  "id": "test_3116",
+  "question": "when was the last time kentucky won ncaa",
+  "answer": [
+   "2012"
+  ]
+ },
+ {
+  "id": "test_3126",
+  "question": "how many books are in the one piece series",
+  "answer": [
+   "83",
+   "more than 80"
+  ]
+ },
+ {
+  "id": "test_3130",
+  "question": "when does the first nba basketball game start",
+  "answer": [
+   "October 17, 2017"
+  ]
+ },
+ {
+  "id": "test_3137",
+  "question": "a system of fortifications along france's border",
+  "answer": [
+   "Maginot Line",
+   "The Maginot Line"
+  ]
+ },
+ {
+  "id": "test_3142",
+  "question": "who become ceo of wipro company in 2016",
+  "answer": [
+   "Abid Ali Neemuchwala"
+  ]
+ },
+ {
+  "id": "test_3147",
+  "question": "who played the girl in my two dads",
+  "answer": [
+   "Staci Keanan"
+  ]
+ },
+ {
+  "id": "test_3152",
+  "question": "who is given credit for inventing the aqua lung",
+  "answer": [
+   "Jacques Cousteau",
+   "engineer Émile Gagnan",
+   "Émile Gagnan"
+  ]
+ },
+ {
+  "id": "test_3162",
+  "question": "what is the main use of the eiffel tower in modern times",
+  "answer": [
+   "visited paid monument",
+   "paid monument"
+  ]
+ },
+ {
+  "id": "test_3172",
+  "question": "who was first governor general of british india",
+  "answer": [
+   "Louis Mountbatten",
+   "Warren Hastings"
+  ]
+ },
+ {
+  "id": "test_3175",
+  "question": "who made the poppies at tower of london",
+  "answer": [
+   "Paul Cummins",
+   "Tom Piper",
+   "stage designer Tom Piper"
+  ]
+ },
+ {
+  "id": "test_3177",
+  "question": "where did the british army launch a successful invasion in 1776",
+  "answer": [
+   "New York",
+   "Long Island"
+  ]
+ },
+ {
+  "id": "test_3181",
+  "question": "term limits for house of representatives and senate",
+  "answer": [
+   "Unlimited six-year terms",
+   "Unlimited two-year terms"
+  ]
+ },
+ {
+  "id": "test_3183",
+  "question": "iupac name of element with atomic number 107",
+  "answer": [
+   "Bohrium",
+   "bohrium"
+  ]
+ },
+ {
+  "id": "test_3193",
+  "question": "what is the 180 degree line of longitude called",
+  "answer": [
+   "180th meridian or antimeridian",
+   "180th meridian",
+   "antimeridian"
+  ]
+ },
+ {
+  "id": "test_3200",
+  "question": "when did world war one begin and end",
+  "answer": [
+   "28 July 1914",
+   "11 November 1918"
+  ]
+ },
+ {
+  "id": "test_3202",
+  "question": "when does the flash season 4 episode 3 air",
+  "answer": [
+   "October 24, 2017"
+  ]
+ },
+ {
+  "id": "test_3206",
+  "question": "who designed the earth day flag in 1969",
+  "answer": [
+   "John McConnell"
+  ]
+ },
+ {
+  "id": "test_3210",
+  "question": "who plays manny in diary of a wimpy kid",
+  "answer": [
+   "Connor and Owen Fielding",
+   "Wyatt and Dylan Walters"
+  ]
+ },
+ {
+  "id": "test_3215",
+  "question": "when did american idol end the first time",
+  "answer": [
+   "April 7, 2016"
+  ]
+ },
+ {
+  "id": "test_3221",
+  "question": "when does the next star trek episode come out",
+  "answer": [
+   "2018",
+   "February 4, 2018"
+  ]
+ },
+ {
+  "id": "test_3225",
+  "question": "which battle ended britain's support for the south",
+  "answer": [
+   "Battle of Antietam",
+   "the Battle of Antietam"
+  ]
+ },
+ {
+  "id": "test_3232",
+  "question": "when did television come out in the us",
+  "answer": [
+   "928,",
+   "uly 2, 1928,"
+  ]
+ },
+ {
+  "id": "test_3244",
+  "question": "when is the flash coming back after christmas",
+  "answer": [
+   "January 16, 2018"
+  ]
+ },
+ {
+  "id": "test_3252",
+  "question": "who played the mom in the partridge family",
+  "answer": [
+   "Shirley Mae Jones"
+  ]
+ },
+ {
+  "id": "test_3256",
+  "question": "who directed the iconic animated short educational film ek anek aur ekta",
+  "answer": [
+   "Vijaya Mulay"
+  ]
+ },
+ {
+  "id": "test_3263",
+  "question": "where is fe best absorbed in the body",
+  "answer": [
+   "in the duodenum",
+   "the duodenum"
+  ]
+ },
+ {
+  "id": "test_3267",
+  "question": "what type of business is chamber of commerce",
+  "answer": [
+   "a form of business network"
+  ]
+ },
+ {
+  "id": "test_3304",
+  "question": "where was the movie the glass castle filmed",
+  "answer": [
+   "in Welch, West Virginia",
+   "Welch, West Virginia"
+  ]
+ },
+ {
+  "id": "test_3309",
+  "question": "where is the tennessee titans football stadium located",
+  "answer": [
+   "Nashville, Tennessee"
+  ]
+ },
+ {
+  "id": "test_3315",
+  "question": "who was the chicago bears quarterback last year",
+  "answer": [
+   "Matt Barkley",
+   "Jay Cutler (5)",
+   "Matt Barkley (6)",
+   "Brian Hoyer",
+   "Jay Cutler",
+   "Brian Hoyer (5)"
+  ]
+ },
+ {
+  "id": "test_3316",
+  "question": "where are they playing the superbowl at this year",
+  "answer": [
+   "Minneapolis, Minnesota"
+  ]
+ },
+ {
+  "id": "test_3317",
+  "question": "who has won the 2018 formula one australia grand prix tournament",
+  "answer": [
+   "Ferrari driver Sebastian Vettel",
+   "Sebastian Vettel"
+  ]
+ },
+ {
+  "id": "test_3329",
+  "question": "when does part 5 of jojo take place",
+  "answer": [
+   "The manga begins in 2001",
+   "2001"
+  ]
+ },
+ {
+  "id": "test_3332",
+  "question": "suffix applied to the end of the name of enzymes",
+  "answer": [
+   "-ase"
+  ]
+ },
+ {
+  "id": "test_3343",
+  "question": "country with most olympic gold medals all time",
+  "answer": [
+   "United States"
+  ]
+ },
+ {
+  "id": "test_3344",
+  "question": "when did the song things that make you go hmmm come out",
+  "answer": [
+   "June 1991",
+   "June 23, 1991"
+  ]
+ },
+ {
+  "id": "test_3360",
+  "question": "when did the ncaa tournament became more important than the nit",
+  "answer": [
+   "By the mid-1980s"
+  ]
+ },
+ {
+  "id": "test_3371",
+  "question": "how many episodes in my name is earl season 4",
+  "answer": [
+   "27"
+  ]
+ },
+ {
+  "id": "test_3385",
+  "question": "who won the oscar over wolf of wall street",
+  "answer": [
+   "Terence Winter",
+   "Leonardo DiCaprio",
+   "Martin Scorsese",
+   "Jonah Hill"
+  ]
+ },
+ {
+  "id": "test_3392",
+  "question": "the area enclosed by hysteresis loop is a measure of",
+  "answer": [
+   "energy loss"
+  ]
+ },
+ {
+  "id": "test_3407",
+  "question": "when is the last time the jaguars won a playoff game",
+  "answer": [
+   "2017"
+  ]
+ },
+ {
+  "id": "test_3414",
+  "question": "when was the last time giants won superbowl",
+  "answer": [
+   "2011"
+  ]
+ },
+ {
+  "id": "test_3418",
+  "question": "who plays the lion in the movie zookeeper",
+  "answer": [
+   "Sylvester Stallone"
+  ]
+ },
+ {
+  "id": "test_3421",
+  "question": "who is the original singer of fool if you think it's over",
+  "answer": [
+   "Chris Rea"
+  ]
+ },
+ {
+  "id": "test_3422",
+  "question": "who played the female lead in the 1942 film casablanca",
+  "answer": [
+   "romantic drama",
+   "Ingrid Bergman"
+  ]
+ },
+ {
+  "id": "test_3433",
+  "question": "who played young clark kent in 1978 superman",
+  "answer": [
+   "Jeff East"
+  ]
+ },
+ {
+  "id": "test_3452",
+  "question": "who is super bowl 2018 half time show",
+  "answer": [
+   "Justin Timberlake"
+  ]
+ },
+ {
+  "id": "test_3454",
+  "question": "who enforces the charter of rights and freedoms",
+  "answer": [
+   "Supreme Court of Canada",
+   "the courts",
+   "courts",
+   "The courts"
+  ]
+ },
+ {
+  "id": "test_3456",
+  "question": "who validated the civil rights movement by proclaiming we shall overcome",
+  "answer": [
+   "President Lyndon Johnson",
+   "Guy Carawan",
+   "Lucille Simmons"
+  ]
+ },
+ {
+  "id": "test_3463",
+  "question": "who sang raindrops keep fallin on my head",
+  "answer": [
+   "B. J. Thomas"
+  ]
+ },
+ {
+  "id": "test_3464",
+  "question": "when is if loving you is wrong coming back season 4",
+  "answer": [
+   "September 19, 2017",
+   "March 7, 2018"
+  ]
+ },
+ {
+  "id": "test_3479",
+  "question": "vine with heart shaped leaves and white flowers",
+  "answer": [
+   "Antigonon leptopus"
+  ]
+ },
+ {
+  "id": "test_3480",
+  "question": "where does the thames river begin and end",
+  "answer": [
+   "Lighthouse Cove",
+   "Near Tavistock"
+  ]
+ },
+ {
+  "id": "test_3482",
+  "question": "who sang theme song for license to kill",
+  "answer": [
+   "Gladys Knight"
+  ]
+ },
+ {
+  "id": "test_3484",
+  "question": "who won last year's grand national 2017",
+  "answer": [
+   "One For Arthur"
+  ]
+ },
+ {
+  "id": "test_3486",
+  "question": "who is responsible for establishing local licensing forum",
+  "answer": [
+   "unitary authorities",
+   "local authorities",
+   "district councils"
+  ]
+ },
+ {
+  "id": "test_3490",
+  "question": "which of the following helmiths feeds on blood",
+  "answer": [
+   "Necator americanus",
+   "Ancylostoma duodenale"
+  ]
+ },
+ {
+  "id": "test_3492",
+  "question": "who did cubs beat in 2016 world series",
+  "answer": [
+   "the Indians",
+   "Cleveland Indians"
+  ]
+ },
+ {
+  "id": "test_3493",
+  "question": "who owns the rights to rocky and bullwinkle",
+  "answer": [
+   "Universal Pictures"
+  ]
+ },
+ {
+  "id": "test_3497",
+  "question": "coldplay song i will try to fix you",
+  "answer": [
+   "\"Fix You\""
+  ]
+ },
+ {
+  "id": "test_3499",
+  "question": "who is the cast of the new tomb raider movie",
+  "answer": [
+   "Alicia Vikander as Lara Croft"
+  ]
+ },
+ {
+  "id": "test_3501",
+  "question": "what was the first kind of vertebrate to exist on earth",
+  "answer": [
+   "believed to be the Myllokunmingia",
+   "the Myllokunmingia",
+   "Myllokunmingia"
+  ]
+ },
+ {
+  "id": "test_3502",
+  "question": "who played the original wonder woman on tv",
+  "answer": [
+   "Lynda Carter"
+  ]
+ },
+ {
+  "id": "test_3505",
+  "question": "when did harvard become an ivy league school",
+  "answer": [
+   "1945"
+  ]
+ },
+ {
+  "id": "test_3552",
+  "question": "puella magi madoka magica when does madoka become a magical girl",
+  "answer": [
+   "My Very Best Friend"
+  ]
+ },
+ {
+  "id": "test_3557",
+  "question": "what was vietnam called in the years before world war 2",
+  "answer": [
+   "French Indochina"
+  ]
+ },
+ {
+  "id": "test_3563",
+  "question": "who has won the most college football national champions",
+  "answer": [
+   "Princeton"
+  ]
+ },
+ {
+  "id": "test_3571",
+  "question": "philadelphia is known as the city of what",
+  "answer": [
+   "City of Brotherly Love",
+   "Brotherly Love"
+  ]
+ },
+ {
+  "id": "test_3581",
+  "question": "where did the crown of thorns starfish come from",
+  "answer": [
+   "Indo-Pacific"
+  ]
+ },
+ {
+  "id": "test_3589",
+  "question": "where is the love meaning of the song",
+  "answer": [
+   "lament on various worldwide problems"
+  ]
+ },
+ {
+  "id": "test_3604",
+  "question": "when is the new season of wentworth coming out",
+  "answer": [
+   "19 June 2018"
+  ]
+ },
+ {
+  "id": "test_3608",
+  "question": "when was as you like it first performed",
+  "answer": [
+   "1603"
+  ]
+ }
+]

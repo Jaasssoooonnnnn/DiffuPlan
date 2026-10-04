@@ -1,0 +1,32 @@
+teacher:
+  model: Qwen3.6-27B
+  base_urls:
+    - http://127.0.0.1:8100/v1
+  api_key: EMPTY
+  temperature: 0.5
+  top_p: 0.8
+  max_tokens: 1024
+  extra_body:
+    top_k: 20
+    chat_template_kwargs:
+      enable_thinking: false
+  timeout: 120
+  max_retries: 3
+
+retriever:
+  url: http://127.0.0.1:8000/retrieve
+  topk: 3
+  max_obs_length: 500
+  timeout: 60
+
+sampling:
+  max_searches: 6
+  max_replans: 1
+  format_repair_retries: 2
+  max_turns: 24
+  max_workers: 8
+
+acceptance:
+  metric: f1
+  threshold: 0.65
+  require_retrieval: true

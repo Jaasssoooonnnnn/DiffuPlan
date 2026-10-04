@@ -1,0 +1,18 @@
+{
+  "confidence_threshold": 0.95,
+  "temperature": 0.0,
+  "top_p": 1.0,
+  "sampling_top_k": 0,
+  "max_new_tokens": 256,
+  "block_length": 32,
+  "denoising_steps": 32,
+  "max_turns": 12,
+  "max_search_turns": 5,
+  "max_obs_tokens": 500,
+  "retriever_topk": 3,
+  "edit_transfer_tokens": 1,
+  "max_expand_per_edit": 32,
+  "invalid_action_retries": 1,
+  "answer_direct_retries": 1,
+  "seed": 10086
+}

@@ -1,0 +1,7 @@
+DiffuPlan
+Copyright 2026 DiffuPlan contributors.
+
+This distribution includes modified dFactory code and a VeOmni runtime snapshot.
+Their copyright notices and Apache-2.0 licenses remain in SFT/dFactory/.
+The reinforcement-learning implementation builds on TraceRL; runtime adapters
+integrate dInfer. See THIRD_PARTY_NOTICES.md for upstream sources and licenses.

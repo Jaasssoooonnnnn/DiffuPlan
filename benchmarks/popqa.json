@@ -1,0 +1,4940 @@
+[
+ {
+  "id": "test_26",
+  "question": "What is Fairfax M. Cone's occupation?",
+  "answer": [
+   "businessperson",
+   "business person",
+   "dealer",
+   "businesswoman",
+   "business man",
+   "business woman",
+   "businessman"
+  ]
+ },
+ {
+  "id": "test_38",
+  "question": "What is Edwin Wallock's occupation?",
+  "answer": [
+   "actor",
+   "actress",
+   "actors",
+   "actresses"
+  ]
+ },
+ {
+  "id": "test_81",
+  "question": "What is Valgerður Bjarnadóttir's occupation?",
+  "answer": [
+   "politician",
+   "political leader",
+   "political figure",
+   "polit.",
+   "pol"
+  ]
+ },
+ {
+  "id": "test_144",
+  "question": "What is Melinda Mullins's occupation?",
+  "answer": [
+   "actor",
+   "actress",
+   "actors",
+   "actresses"
+  ]
+ },
+ {
+  "id": "test_182",
+  "question": "What is Bruce Cockburn's occupation?",
+  "answer": [
+   "composer",
+   "singer-songwriter",
+   "singer songwriter",
+   "singer/songwriter",
+   "singersongwriter",
+   "singer-songwriter",
+   "songwriter",
+   "song writer"
+  ]
+ },
+ {
+  "id": "test_190",
+  "question": "What is Ivan Mládek's occupation?",
+  "answer": [
+   "composer",
+   "songwriter",
+   "song writer"
+  ]
+ },
+ {
+  "id": "test_214",
+  "question": "What is Edward Norton's occupation?",
+  "answer": [
+   "politician",
+   "political leader",
+   "political figure",
+   "polit.",
+   "pol"
+  ]
+ },
+ {
+  "id": "test_274",
+  "question": "What is Alice's occupation?",
+  "answer": [
+   "pianist",
+   "singer-songwriter",
+   "singer songwriter",
+   "singer/songwriter",
+   "singersongwriter",
+   "singer-songwriter"
+  ]
+ },
+ {
+  "id": "test_282",
+  "question": "What is Tharman Shanmugaratnam's occupation?",
+  "answer": [
+   "politician",
+   "political leader",
+   "political figure",
+   "polit.",
+   "pol"
+  ]
+ },
+ {
+  "id": "test_297",
+  "question": "What is Edwin H. Knopf's occupation?",
+  "answer": [
+   "film director",
+   "movie director",
+   "director",
+   "motion picture director",
+   "screenwriter",
+   "scenarist",
+   "writer",
+   "screen writer",
+   "script writer",
+   "scriptwriter",
+   "film producer",
+   "movie producer",
+   "producer"
+  ]
+ },
+ {
+  "id": "test_316",
+  "question": "What is Affonso Beato's occupation?",
+  "answer": [
+   "cinematographer",
+   "director of photography",
+   "DOP"
+  ]
+ },
+ {
+  "id": "test_318",
+  "question": "What is Vanessa Angel's occupation?",
+  "answer": [
+   "actor",
+   "actress",
+   "actors",
+   "actresses"
+  ]
+ },
+ {
+  "id": "test_330",
+  "question": "What is Andreas Rüdiger's occupation?",
+  "answer": [
+   "philosopher"
+  ]
+ },
+ {
+  "id": "test_364",
+  "question": "What is Şefik Birkiye's occupation?",
+  "answer": [
+   "architect"
+  ]
+ },
+ {
+  "id": "test_439",
+  "question": "What is Nandor Balazs's occupation?",
+  "answer": [
+   "physicist"
+  ]
+ },
+ {
+  "id": "test_513",
+  "question": "What is G. Karunakara Reddy's occupation?",
+  "answer": [
+   "politician",
+   "political leader",
+   "political figure",
+   "polit.",
+   "pol"
+  ]
+ },
+ {
+  "id": "test_519",
+  "question": "What is Lorena Corona Valdés's occupation?",
+  "answer": [
+   "politician",
+   "political leader",
+   "political figure",
+   "polit.",
+   "pol"
+  ]
+ },
+ {
+  "id": "test_569",
+  "question": "In what city was Parnelli Jones born?",
+  "answer": [
+   "Texarkana",
+   "Texarkana, Arkansas"
+  ]
+ },
+ {
+  "id": "test_621",
+  "question": "In what city was Josephus Nicolaus Laurenti born?",
+  "answer": [
+   "Vienna",
+   "Wien",
+   "Vienna, Austria",
+   "W"
+  ]
+ },
+ {
+  "id": "test_630",
+  "question": "In what city was Oi Va Voi born?",
+  "answer": [
+   "London",
+   "London, UK",
+   "London, United Kingdom",
+   "London, England",
+   "Modern Babylon"
+  ]
+ },
+ {
+  "id": "test_687",
+  "question": "In what city was William Collins born?",
+  "answer": [
+   "London",
+   "London, UK",
+   "London, United Kingdom",
+   "London, England",
+   "Modern Babylon"
+  ]
+ },
+ {
+  "id": "test_695",
+  "question": "In what city was Serhiy Zayets born?",
+  "answer": [
+   "Berdychiv",
+   "Berdichev",
+   "Barditchev",
+   "Berdyczów",
+   "Berdyczow",
+   "Berdicev",
+   "Berditchev",
+   "Berditchov",
+   "Berditschew",
+   "Berdytschiw",
+   "Berdyciv",
+   "Berdychiv (Ukraine)"
+  ]
+ },
+ {
+  "id": "test_793",
+  "question": "In what city was Terry Hunte born?",
+  "answer": [
+   "Saint Philip"
+  ]
+ },
+ {
+  "id": "test_816",
+  "question": "In what city was Sugar Ray Norcia born?",
+  "answer": [
+   "Stonington",
+   "Stonington, Connecticut"
+  ]
+ },
+ {
+  "id": "test_833",
+  "question": "In what city was Zara Turner born?",
+  "answer": [
+   "Belfast",
+   "Béal Feirste",
+   "Beal Feirste",
+   "Belfast, Ireland"
+  ]
+ },
+ {
+  "id": "test_843",
+  "question": "In what city was Leobardo Soto born?",
+  "answer": [
+   "Puebla",
+   "Free and Sovereign State of Puebla",
+   "Estado de Puebla"
+  ]
+ },
+ {
+  "id": "test_885",
+  "question": "In what city was Andrew Carnie born?",
+  "answer": [
+   "Calgary",
+   "City of Calgary",
+   "Calgary, Alberta",
+   "Calgary, AB",
+   "Calgary, Canada"
+  ]
+ },
+ {
+  "id": "test_917",
+  "question": "In what city was Scott Patterson born?",
+  "answer": [
+   "Vancouver",
+   "City of Vancouver",
+   "Vancouver, BC",
+   "Vancouver, British Columbia"
+  ]
+ },
+ {
+  "id": "test_941",
+  "question": "In what city was Maurice Reymond de Broutelles born?",
+  "answer": [
+   "Geneva",
+   "Genève",
+   "Geneva GE",
+   "Geneve",
+   "Genf"
+  ]
+ },
+ {
+  "id": "test_963",
+  "question": "In what city was Alma Karlin born?",
+  "answer": [
+   "Celje"
+  ]
+ },
+ {
+  "id": "test_1005",
+  "question": "In what city was Jörg Bergmeister born?",
+  "answer": [
+   "Leverkusen"
+  ]
+ },
+ {
+  "id": "test_1013",
+  "question": "In what city was Youri Messen-Jaschin born?",
+  "answer": [
+   "Arosa",
+   "Arosa GR"
+  ]
+ },
+ {
+  "id": "test_1026",
+  "question": "In what city was Francisco María Oreamuno Bonilla born?",
+  "answer": [
+   "Cartago",
+   "Cartago, Costa Rica"
+  ]
+ },
+ {
+  "id": "test_1027",
+  "question": "In what city was Martin Simonson born?",
+  "answer": [
+   "Gothenburg",
+   "Göteborg"
+  ]
+ },
+ {
+  "id": "test_1036",
+  "question": "In what city was Anthony Gale born?",
+  "answer": [
+   "Toronto",
+   "City of Toronto",
+   "The Six",
+   "T-O",
+   "The 416",
+   "Hogtown"
+  ]
+ },
+ {
+  "id": "test_1053",
+  "question": "In what city was Bruce Charles Heezen born?",
+  "answer": [
+   "Vinton",
+   "Vinton, Iowa"
+  ]
+ },
+ {
+  "id": "test_1060",
+  "question": "In what city was John Mitchell born?",
+  "answer": [
+   "Dickson",
+   "Dickson, Tennessee"
+  ]
+ },
+ {
+  "id": "test_1077",
+  "question": "In what city was KK born?",
+  "answer": [
+   "Minnesota",
+   "MN",
+   "Land of 10,000 Lakes",
+   "Minnesota, United States",
+   "State of Minnesota",
+   "Minn.",
+   "US-MN"
+  ]
+ },
+ {
+  "id": "test_1107",
+  "question": "In what city was Alton Montgomery born?",
+  "answer": [
+   "Griffin",
+   "Griffin, Georgia"
+  ]
+ },
+ {
+  "id": "test_1141",
+  "question": "What genre is Pokémon Red and Blue?",
+  "answer": [
+   "role-playing video game",
+   "RPG",
+   "RPVG",
+   "role playing video game",
+   "role-playing game",
+   "role playing video games",
+   "CRPG",
+   "computer RPG",
+   "computer role-playing video game",
+   "RP video game"
+  ]
+ },
+ {
+  "id": "test_1146",
+  "question": "What genre is Everything?",
+  "answer": [
+   "J-pop",
+   "Japanese pop",
+   "jpop"
+  ]
+ },
+ {
+  "id": "test_1182",
+  "question": "What genre is Avatar: The Last Airbender?",
+  "answer": [
+   "animated series",
+   "cartoon series",
+   "animated TV series",
+   "animated television series",
+   "animated television show",
+   "animated TV show",
+   "animation series",
+   "animation television series",
+   "animation TV series",
+   "animation show",
+   "animation television show",
+   "animation TV show"
+  ]
+ },
+ {
+  "id": "test_1186",
+  "question": "What genre is Erin Beck?",
+  "answer": [
+   "pop music",
+   "pop",
+   "Pop"
+  ]
+ },
+ {
+  "id": "test_1222",
+  "question": "What genre is Ninja Boy II?",
+  "answer": [
+   "action role-playing game",
+   "action role-playing video game",
+   "action RPG",
+   "ARPG",
+   "action/RPG"
+  ]
+ },
+ {
+  "id": "test_1242",
+  "question": "What genre is Oasis?",
+  "answer": [
+   "Britpop",
+   "British pop",
+   "Brit-pop"
+  ]
+ },
+ {
+  "id": "test_1257",
+  "question": "What genre is Part of Me?",
+  "answer": [
+   "dance-pop",
+   "dance pop",
+   "power pop"
+  ]
+ },
+ {
+  "id": "test_1273",
+  "question": "What genre is Point of View?",
+  "answer": [
+   "short story",
+   "tale",
+   "pripovijetka"
+  ]
+ },
+ {
+  "id": "test_1285",
+  "question": "What genre is Archive?",
+  "answer": [
+   "progressive rock",
+   "prog-rock",
+   "prog",
+   "classical rock",
+   "symphonic rock",
+   "art rock",
+   "progressive pop",
+   "prog rock",
+   "Progressive Rock"
+  ]
+ },
+ {
+  "id": "test_1306",
+  "question": "What genre is Grandpa?",
+  "answer": [
+   "country music",
+   "country and western",
+   "country & western",
+   "country",
+   "Nashville sound"
+  ]
+ },
+ {
+  "id": "test_1307",
+  "question": "What genre is Flare?",
+  "answer": [
+   "J-pop",
+   "Japanese pop",
+   "jpop"
+  ]
+ },
+ {
+  "id": "test_1338",
+  "question": "What genre is Last Night?",
+  "answer": [
+   "comedy-drama",
+   "dramedy",
+   "comedic drama",
+   "tragicomedy",
+   "seriocomedy",
+   "comedy drama",
+   "dramatic comedy",
+   "Comedy-drama, dramedy"
+  ]
+ },
+ {
+  "id": "test_1344",
+  "question": "What genre is Revelations?",
+  "answer": [
+   "soap opera",
+   "soap",
+   "soapie",
+   "soapopera"
+  ]
+ },
+ {
+  "id": "test_1367",
+  "question": "What genre is Hand Held?",
+  "answer": [
+   "documentary film",
+   "documentary movie",
+   "doc",
+   "film documentary",
+   "motion picture documentary",
+   "documentary",
+   "factual film"
+  ]
+ },
+ {
+  "id": "test_1373",
+  "question": "What genre is Bakkushan?",
+  "answer": [
+   "indie rock",
+   "Independent rock",
+   "Indie Rock"
+  ]
+ },
+ {
+  "id": "test_1476",
+  "question": "What genre is Halloween?",
+  "answer": [
+   "heavy metal",
+   "heavy metal music",
+   "Heavy Metal",
+   "Metal",
+   "Metal music",
+   "metal",
+   "Heavy Metal Music"
+  ]
+ },
+ {
+  "id": "test_1507",
+  "question": "What genre is Results?",
+  "answer": [
+   "romantic comedy",
+   "romedy",
+   "romcom"
+  ]
+ },
+ {
+  "id": "test_1518",
+  "question": "What genre is Money?",
+  "answer": [
+   "rhythm and blues",
+   "R&B",
+   "RnB",
+   "RNB",
+   "R and B",
+   "R & B"
+  ]
+ },
+ {
+  "id": "test_1543",
+  "question": "What genre is Bridge?",
+  "answer": [
+   "J-pop",
+   "Japanese pop",
+   "jpop"
+  ]
+ },
+ {
+  "id": "test_1579",
+  "question": "What genre is The Aleph?",
+  "answer": [
+   "short story",
+   "tale",
+   "pripovijetka"
+  ]
+ },
+ {
+  "id": "test_1605",
+  "question": "What genre is Ef?",
+  "answer": [
+   "post-rock"
+  ]
+ },
+ {
+  "id": "test_1619",
+  "question": "What genre is The Flat?",
+  "answer": [
+   "documentary film",
+   "documentary movie",
+   "doc",
+   "film documentary",
+   "motion picture documentary",
+   "documentary",
+   "factual film"
+  ]
+ },
+ {
+  "id": "test_1669",
+  "question": "What genre is Blake?",
+  "answer": [
+   "Western classical music",
+   "Western art music",
+   "European classical music",
+   "Classical music"
+  ]
+ },
+ {
+  "id": "test_1699",
+  "question": "What genre is Before You Go?",
+  "answer": [
+   "comedy film",
+   "comedy movie"
+  ]
+ },
+ {
+  "id": "test_1751",
+  "question": "What genre is Regeneration?",
+  "answer": [
+   "crime film",
+   "crime movie"
+  ]
+ },
+ {
+  "id": "test_1765",
+  "question": "What genre is Root?",
+  "answer": [
+   "black metal",
+   "Black Metal"
+  ]
+ },
+ {
+  "id": "test_1837",
+  "question": "What genre is Amandititita?",
+  "answer": [
+   "cumbia"
+  ]
+ },
+ {
+  "id": "test_1843",
+  "question": "What genre is Volcano?",
+  "answer": [
+   "disaster film",
+   "disaster movie"
+  ]
+ },
+ {
+  "id": "test_1885",
+  "question": "What genre is Touhou Project?",
+  "answer": [
+   "shoot 'em up",
+   "shoot em up",
+   "shmup",
+   "stg",
+   "shoot 'em up video games"
+  ]
+ },
+ {
+  "id": "test_1887",
+  "question": "What genre is First Position?",
+  "answer": [
+   "documentary film",
+   "documentary movie",
+   "doc",
+   "film documentary",
+   "motion picture documentary",
+   "documentary",
+   "factual film"
+  ]
+ },
+ {
+  "id": "test_1942",
+  "question": "What genre is The Arrangement?",
+  "answer": [
+   "reality television",
+   "reality TV",
+   "reality television program",
+   "reality TV program",
+   "reality television show",
+   "television reality program",
+   "television reality show",
+   "TV reality program",
+   "TV reality show"
+  ]
+ },
+ {
+  "id": "test_1998",
+  "question": "What genre is My Friends?",
+  "answer": [
+   "comedy-drama",
+   "dramedy",
+   "comedic drama",
+   "tragicomedy",
+   "seriocomedy",
+   "comedy drama",
+   "dramatic comedy",
+   "Comedy-drama, dramedy"
+  ]
+ },
+ {
+  "id": "test_2018",
+  "question": "What genre is Stand Up?",
+  "answer": [
+   "progressive rock",
+   "prog-rock",
+   "prog",
+   "classical rock",
+   "symphonic rock",
+   "art rock",
+   "progressive pop",
+   "prog rock",
+   "Progressive Rock"
+  ]
+ },
+ {
+  "id": "test_2026",
+  "question": "What genre is Man?",
+  "answer": [
+   "progressive rock",
+   "prog-rock",
+   "prog",
+   "classical rock",
+   "symphonic rock",
+   "art rock",
+   "progressive pop",
+   "prog rock",
+   "Progressive Rock"
+  ]
+ },
+ {
+  "id": "test_2039",
+  "question": "What genre is The Prize?",
+  "answer": [
+   "spy film"
+  ]
+ },
+ {
+  "id": "test_2062",
+  "question": "What genre is Bullet to the Head?",
+  "answer": [
+   "action film",
+   "action movie",
+   "film action",
+   "movie action",
+   "action"
+  ]
+ },
+ {
+  "id": "test_2064",
+  "question": "What genre is Eating?",
+  "answer": [
+   "comedy-drama",
+   "dramedy",
+   "comedic drama",
+   "tragicomedy",
+   "seriocomedy",
+   "comedy drama",
+   "dramatic comedy",
+   "Comedy-drama, dramedy"
+  ]
+ },
+ {
+  "id": "test_2135",
+  "question": "What genre is My Family?",
+  "answer": [
+   "sitcom",
+   "situational comedy",
+   "situation comedy"
+  ]
+ },
+ {
+  "id": "test_2143",
+  "question": "What genre is The Soul Survivors?",
+  "answer": [
+   "rhythm and blues",
+   "R&B",
+   "RnB",
+   "RNB",
+   "R and B",
+   "R & B"
+  ]
+ },
+ {
+  "id": "test_2156",
+  "question": "What genre is Woo?",
+  "answer": [
+   "romantic comedy",
+   "romedy",
+   "romcom"
+  ]
+ },
+ {
+  "id": "test_2195",
+  "question": "What genre is Be Yourself!?",
+  "answer": [
+   "musical film",
+   "musical movie"
+  ]
+ },
+ {
+  "id": "test_2204",
+  "question": "What genre is Alien?",
+  "answer": [
+   "horror film",
+   "horror movie",
+   "science fiction film",
+   "sci-fi film",
+   "science fiction movie",
+   "sci-fi movie",
+   "scifi film",
+   "scifi movie",
+   "sci fi film",
+   "sci fi movie",
+   "scifi-film",
+   "scifi"
+  ]
+ },
+ {
+  "id": "test_2232",
+  "question": "What genre is Inside?",
+  "answer": [
+   "thriller",
+   "suspense",
+   "thriller television program",
+   "thriller TV program",
+   "thriller television show",
+   "thriller TV show",
+   "suspense television program",
+   "suspense TV program",
+   "suspense television show",
+   "suspense TV show"
+  ]
+ },
+ {
+  "id": "test_2237",
+  "question": "What genre is Pickup?",
+  "answer": [
+   "film noir"
+  ]
+ },
+ {
+  "id": "test_2289",
+  "question": "What genre is Truckfighters?",
+  "answer": [
+   "stoner rock",
+   "stoner metal"
+  ]
+ },
+ {
+  "id": "test_2349",
+  "question": "What genre is Death of an Expert Witness?",
+  "answer": [
+   "mystery fiction",
+   "mysteries",
+   "mystery",
+   "mystery books",
+   "mystery literature",
+   "detective and mystery fiction"
+  ]
+ },
+ {
+  "id": "test_2360",
+  "question": "What genre is Martin?",
+  "answer": [
+   "horror film",
+   "horror movie"
+  ]
+ },
+ {
+  "id": "test_2364",
+  "question": "What genre is Hippolyte Flandrin?",
+  "answer": [
+   "history painting",
+   "historical painting",
+   "historical art"
+  ]
+ },
+ {
+  "id": "test_2369",
+  "question": "What genre is Skiing?",
+  "answer": [
+   "sports video game",
+   "sports game",
+   "sports video games",
+   "sport video game"
+  ]
+ },
+ {
+  "id": "test_2391",
+  "question": "What genre is Great Expectations?",
+  "answer": [
+   "fiction",
+   "fictional"
+  ]
+ },
+ {
+  "id": "test_2410",
+  "question": "What genre is Blow?",
+  "answer": [
+   "biographical film",
+   "biopic",
+   "biography film",
+   "biography movie",
+   "biographical movie",
+   "biographical picture"
+  ]
+ },
+ {
+  "id": "test_2427",
+  "question": "What genre is Inside?",
+  "answer": [
+   "horror film",
+   "horror movie"
+  ]
+ },
+ {
+  "id": "test_2456",
+  "question": "What genre is The Miracle?",
+  "answer": [
+   "comedy film",
+   "comedy movie"
+  ]
+ },
+ {
+  "id": "test_2471",
+  "question": "What genre is So Fine?",
+  "answer": [
+   "comedy film",
+   "comedy movie"
+  ]
+ },
+ {
+  "id": "test_2472",
+  "question": "What genre is The Moment?",
+  "answer": [
+   "mandopop",
+   "Mandarin popular music",
+   "mandapop"
+  ]
+ },
+ {
+  "id": "test_2479",
+  "question": "What genre is Pizza?",
+  "answer": [
+   "coming-of-age story",
+   "coming of age story",
+   "initiation story",
+   "story of initiation",
+   "coming of age narrative"
+  ]
+ },
+ {
+  "id": "test_2484",
+  "question": "What genre is After?",
+  "answer": [
+   "non-fiction",
+   "nonfiction",
+   "non fiction"
+  ]
+ },
+ {
+  "id": "test_2502",
+  "question": "What genre is Being There?",
+  "answer": [
+   "comedy-drama",
+   "dramedy",
+   "comedic drama",
+   "tragicomedy",
+   "seriocomedy",
+   "comedy drama",
+   "dramatic comedy",
+   "Comedy-drama, dramedy"
+  ]
+ },
+ {
+  "id": "test_2506",
+  "question": "What genre is Get Real?",
+  "answer": [
+   "comedy-drama",
+   "dramedy",
+   "comedic drama",
+   "tragicomedy",
+   "seriocomedy",
+   "comedy drama",
+   "dramatic comedy",
+   "Comedy-drama, dramedy"
+  ]
+ },
+ {
+  "id": "test_2540",
+  "question": "What genre is Node?",
+  "answer": [
+   "death metal",
+   "Death Metal"
+  ]
+ },
+ {
+  "id": "test_2571",
+  "question": "What genre is Light Years?",
+  "answer": [
+   "pop punk",
+   "punk-pop",
+   "pop-punk"
+  ]
+ },
+ {
+  "id": "test_2586",
+  "question": "What genre is Pur?",
+  "answer": [
+   "pop music",
+   "pop",
+   "Pop"
+  ]
+ },
+ {
+  "id": "test_2635",
+  "question": "What genre is Our Wife?",
+  "answer": [
+   "comedy film",
+   "comedy movie"
+  ]
+ },
+ {
+  "id": "test_2740",
+  "question": "Who is the father of Dyfnwal, King of Strathclyde?",
+  "answer": [
+   "Eochaid, son of Rhun",
+   "Eochaid ap Rhun",
+   "Eochaid map Rhun",
+   "Eochaid mac Run",
+   "Eochaid of Scotland, King of Scotland"
+  ]
+ },
+ {
+  "id": "test_2743",
+  "question": "Who is the father of Damian Wayne?",
+  "answer": [
+   "Batman",
+   "Matches Malone",
+   "Sir Hemingford Grey",
+   "Mordecai Wayne",
+   "Wayne, Bruce",
+   "Bruce Wayne",
+   "the Bat-Man",
+   "the Caped Crusader",
+   "the Dark Knight",
+   "the World's Greatest Detective",
+   "the Insider",
+   "the Batman",
+   "the Bat",
+   "Bat-Man",
+   "Caped Crusader"
+  ]
+ },
+ {
+  "id": "test_2792",
+  "question": "Who is the father of Chelsea Clinton?",
+  "answer": [
+   "Bill Clinton",
+   "William Jefferson Clinton",
+   "William Jefferson Blythe III",
+   "William Jefferson Blythe",
+   "William J. Clinton",
+   "Clinton",
+   "William Jefferson \"Bill\" Clinton",
+   "William Clinton",
+   "President Clinton",
+   "President Bill Clinton",
+   "Kelindun",
+   "William Jefferson, IV Blythe",
+   "Bill Klinton",
+   "WJC"
+  ]
+ },
+ {
+  "id": "test_2804",
+  "question": "Who is the father of Praxedes?",
+  "answer": [
+   "Saint Pudens"
+  ]
+ },
+ {
+  "id": "test_2829",
+  "question": "Who is the father of Brad Armstrong?",
+  "answer": [
+   "Bob Armstrong",
+   "Joseph Melton James",
+   "Bullet",
+   "\"Bullet\" Bob Armstrong",
+   "Bullet Bob Armstrong",
+   "Alabama Jaw Jacker"
+  ]
+ },
+ {
+  "id": "test_2837",
+  "question": "Who is the father of Eleanor of Scotland?",
+  "answer": [
+   "James I of Scotland",
+   "James I, King of Scots",
+   "James I"
+  ]
+ },
+ {
+  "id": "test_2859",
+  "question": "Who is the father of Ma Xiu?",
+  "answer": [
+   "Ma Teng"
+  ]
+ },
+ {
+  "id": "test_2886",
+  "question": "Who is the father of Princess Elisabeth, Duchess of Brabant?",
+  "answer": [
+   "Philippe I of Belgium",
+   "King Philippe of Belgium",
+   "Philippe Léopold Louis Marie de Belgique, Prince de Belgique",
+   "Filip of Belgium"
+  ]
+ },
+ {
+  "id": "test_2933",
+  "question": "Who is the father of Christian V of Denmark?",
+  "answer": [
+   "Frederick III of Denmark",
+   "Frederik III",
+   "Frederick III"
+  ]
+ },
+ {
+  "id": "test_2937",
+  "question": "Who is the father of Alexander the Great?",
+  "answer": [
+   "Philip II of Macedon",
+   "King of Macedonia Filippo II",
+   "King of Macedonia Philippos II",
+   "King of Macedonia Philip II",
+   "King of Macedonia Filip II",
+   "King of Macedonia Philippus II",
+   "Philip of Macedon"
+  ]
+ },
+ {
+  "id": "test_2974",
+  "question": "Who is the father of Naphtali?",
+  "answer": [
+   "Jacob",
+   "Israel",
+   "Ya'akov",
+   "Ya'aqov",
+   "Yaakov",
+   "Yisrael"
+  ]
+ },
+ {
+  "id": "test_3161",
+  "question": "Who is the father of Julia the Elder?",
+  "answer": [
+   "Augustus",
+   "Caesar Augustus",
+   "Gaius Julius Caesar",
+   "Gaius Julius Caesar Augustus",
+   "Gaius Octavius Thurinus",
+   "Emperor of Rome Octavius Caesar",
+   "Emperor of Rome Augustus",
+   "Emperor of Rome Octavian",
+   "Emperor of Rome Gaius Julius Caesar Octavianus",
+   "Octavian",
+   "Imperator Gaius Julius Caesar Octavianus Divi Filius Augustus",
+   "Gaius Octavius",
+   "Gaius Octavian",
+   "Caesar Octavianus",
+   "Octavianus",
+   "Gaius Julius Caesar Octavianus Augustus",
+   "Gaius Julius Caesar Octavianus",
+   "Gaius Octavius Caepias",
+   "Augustus Caesar",
+   "Octavius Caesar"
+  ]
+ },
+ {
+  "id": "test_3242",
+  "question": "Who is the father of Moses?",
+  "answer": [
+   "Amram",
+   "Imran",
+   "Amran"
+  ]
+ },
+ {
+  "id": "test_3277",
+  "question": "Who is the father of Hel?",
+  "answer": [
+   "Loki",
+   "Hveðrungr",
+   "logi",
+   "Loki Laufeyjarson"
+  ]
+ },
+ {
+  "id": "test_3294",
+  "question": "Who is the father of Secretariat?",
+  "answer": [
+   "Bold Ruler"
+  ]
+ },
+ {
+  "id": "test_3336",
+  "question": "In what country is Ferrari?",
+  "answer": [
+   "Italy",
+   "Italia",
+   "Italian Republic",
+   "IT",
+   "🇮🇹",
+   "ITA"
+  ]
+ },
+ {
+  "id": "test_3350",
+  "question": "In what country is Zli Dol?",
+  "answer": [
+   "Serbia",
+   "🇷🇸",
+   "Republic of Serbia",
+   "Republika Srbija",
+   "rs",
+   "Srbija",
+   "SRB",
+   "RS"
+  ]
+ },
+ {
+  "id": "test_3367",
+  "question": "In what country is Antique?",
+  "answer": [
+   "Philippines",
+   "Republic of the Philippines",
+   "PH",
+   "ph",
+   "the Philippines",
+   "Philippine Islands",
+   "PHL",
+   "RP",
+   "🇵🇭",
+   "PHI",
+   "Pinas"
+  ]
+ },
+ {
+  "id": "test_3390",
+  "question": "In what country is Eustace?",
+  "answer": [
+   "United States of America",
+   "the United States of America",
+   "America",
+   "U.S.A.",
+   "USA",
+   "U.S.",
+   "US",
+   "the US",
+   "the USA",
+   "US of A",
+   "the United States",
+   "U. S. A.",
+   "U. S.",
+   "the States",
+   "the U.S.",
+   "'Merica",
+   "U.S",
+   "United States",
+   "'Murica"
+  ]
+ },
+ {
+  "id": "test_3401",
+  "question": "In what country is Joys?",
+  "answer": [
+   "United States of America",
+   "the United States of America",
+   "America",
+   "U.S.A.",
+   "USA",
+   "U.S.",
+   "US",
+   "the US",
+   "the USA",
+   "US of A",
+   "the United States",
+   "U. S. A.",
+   "U. S.",
+   "the States",
+   "the U.S.",
+   "'Merica",
+   "U.S",
+   "United States",
+   "'Murica"
+  ]
+ },
+ {
+  "id": "test_3435",
+  "question": "In what country is Tigra?",
+  "answer": [
+   "India",
+   "Bharat",
+   "Hindustan",
+   "Bharatvarsh",
+   "in",
+   "IN",
+   "Republic of India",
+   "🇮🇳",
+   "IND",
+   "Aryavratt"
+  ]
+ },
+ {
+  "id": "test_3439",
+  "question": "In what country is Main Street Square?",
+  "answer": [
+   "United States of America",
+   "the United States of America",
+   "America",
+   "U.S.A.",
+   "USA",
+   "U.S.",
+   "US",
+   "the US",
+   "the USA",
+   "US of A",
+   "the United States",
+   "U. S. A.",
+   "U. S.",
+   "the States",
+   "the U.S.",
+   "'Merica",
+   "U.S",
+   "United States",
+   "'Murica"
+  ]
+ },
+ {
+  "id": "test_3441",
+  "question": "In what country is Little River?",
+  "answer": [
+   "United States of America",
+   "the United States of America",
+   "America",
+   "U.S.A.",
+   "USA",
+   "U.S.",
+   "US",
+   "the US",
+   "the USA",
+   "US of A",
+   "the United States",
+   "U. S. A.",
+   "U. S.",
+   "the States",
+   "the U.S.",
+   "'Merica",
+   "U.S",
+   "United States",
+   "'Murica"
+  ]
+ },
+ {
+  "id": "test_3460",
+  "question": "In what country is Paste?",
+  "answer": [
+   "United States of America",
+   "the United States of America",
+   "America",
+   "U.S.A.",
+   "USA",
+   "U.S.",
+   "US",
+   "the US",
+   "the USA",
+   "US of A",
+   "the United States",
+   "U. S. A.",
+   "U. S.",
+   "the States",
+   "the U.S.",
+   "'Merica",
+   "U.S",
+   "United States",
+   "'Murica"
+  ]
+ },
+ {
+  "id": "test_3464",
+  "question": "In what country is Rundu Airport?",
+  "answer": [
+   "Namibia",
+   "Republic of Namibia",
+   "na",
+   "🇳🇦",
+   "NAM"
+  ]
+ },
+ {
+  "id": "test_3485",
+  "question": "In what country is Sholoktu?",
+  "answer": [
+   "Afghanistan",
+   "af",
+   "🇦🇫",
+   "AFG"
+  ]
+ },
+ {
+  "id": "test_3501",
+  "question": "In what country is Kalu?",
+  "answer": [
+   "Iran",
+   "Islamic Republic of Iran",
+   "Persia",
+   "ir",
+   "Islamic Rep. Iran",
+   "🇮🇷"
+  ]
+ },
+ {
+  "id": "test_3516",
+  "question": "In what country is Bisse?",
+  "answer": [
+   "Hungary",
+   "hu",
+   "🇭🇺",
+   "HUN"
+  ]
+ },
+ {
+  "id": "test_3524",
+  "question": "In what country is Camden?",
+  "answer": [
+   "United States of America",
+   "the United States of America",
+   "America",
+   "U.S.A.",
+   "USA",
+   "U.S.",
+   "US",
+   "the US",
+   "the USA",
+   "US of A",
+   "the United States",
+   "U. S. A.",
+   "U. S.",
+   "the States",
+   "the U.S.",
+   "'Merica",
+   "U.S",
+   "United States",
+   "'Murica"
+  ]
+ },
+ {
+  "id": "test_3591",
+  "question": "In what country is Crystal?",
+  "answer": [
+   "United States of America",
+   "the United States of America",
+   "America",
+   "U.S.A.",
+   "USA",
+   "U.S.",
+   "US",
+   "the US",
+   "the USA",
+   "US of A",
+   "the United States",
+   "U. S. A.",
+   "U. S.",
+   "the States",
+   "the U.S.",
+   "'Merica",
+   "U.S",
+   "United States",
+   "'Murica"
+  ]
+ },
+ {
+  "id": "test_3601",
+  "question": "In what country is Mahaboboka?",
+  "answer": [
+   "Madagascar",
+   "mg",
+   "🇲🇬",
+   "Republic of Madagascar",
+   "MAD"
+  ]
+ },
+ {
+  "id": "test_3735",
+  "question": "In what country is Anthology?",
+  "answer": [
+   "United States of America",
+   "the United States of America",
+   "America",
+   "U.S.A.",
+   "USA",
+   "U.S.",
+   "US",
+   "the US",
+   "the USA",
+   "US of A",
+   "the United States",
+   "U. S. A.",
+   "U. S.",
+   "the States",
+   "the U.S.",
+   "'Merica",
+   "U.S",
+   "United States",
+   "'Murica"
+  ]
+ },
+ {
+  "id": "test_3748",
+  "question": "In what country is Shapotou District?",
+  "answer": [
+   "People's Republic of China",
+   "China",
+   "CN",
+   "PR China",
+   "PRC",
+   "cn",
+   "CHN",
+   "🇨🇳",
+   "China PR",
+   "Mainland China"
+  ]
+ },
+ {
+  "id": "test_3817",
+  "question": "In what country is Izvorul Morarului River?",
+  "answer": [
+   "Romania",
+   "Roumania",
+   "Rumania",
+   "România",
+   "ro",
+   "🇷🇴"
+  ]
+ },
+ {
+  "id": "test_3854",
+  "question": "In what country is Gąsiorowo, Legionowo County?",
+  "answer": [
+   "Poland",
+   "POL",
+   "Republic of Poland",
+   "PL",
+   "Polska"
+  ]
+ },
+ {
+  "id": "test_3878",
+  "question": "In what country is Institute of Chemistry of Ireland?",
+  "answer": [
+   "Ireland",
+   "Éire",
+   "IE",
+   "IRL",
+   "Republic of Ireland",
+   "Hibernia",
+   "Ireland, Republic of",
+   "ie",
+   "ireland",
+   "🇮🇪",
+   "Eire",
+   "Southern Ireland"
+  ]
+ },
+ {
+  "id": "test_3879",
+  "question": "In what country is Sircilla?",
+  "answer": [
+   "India",
+   "Bharat",
+   "Hindustan",
+   "Bharatvarsh",
+   "in",
+   "IN",
+   "Republic of India",
+   "🇮🇳",
+   "IND",
+   "Aryavratt"
+  ]
+ },
+ {
+  "id": "test_3884",
+  "question": "In what country is Záblatí?",
+  "answer": [
+   "Czech Republic",
+   "CZR",
+   "cz",
+   "Česko",
+   "Česká republika",
+   "ČR",
+   "cze",
+   "CZE",
+   "Czechia"
+  ]
+ },
+ {
+  "id": "test_3891",
+  "question": "In what country is Los Santos mine?",
+  "answer": [
+   "Spain",
+   "España",
+   "Kingdom of Spain",
+   "ES",
+   "ESP"
+  ]
+ },
+ {
+  "id": "test_3893",
+  "question": "In what country is Juliaca?",
+  "answer": [
+   "Peru",
+   "pe",
+   "Republic of Peru",
+   "República del Perú",
+   "🇵🇪",
+   "Republica del Peru"
+  ]
+ },
+ {
+  "id": "test_3972",
+  "question": "In what country is Babino, Haiti?",
+  "answer": [
+   "Haiti",
+   "Republic of Haiti",
+   "ht",
+   "Hayti",
+   "HT",
+   "République d'Haïti",
+   "Haitian Republic",
+   "Ayiti",
+   "🇭🇹",
+   "HAI"
+  ]
+ },
+ {
+  "id": "test_3990",
+  "question": "In what country is Sterling?",
+  "answer": [
+   "United States of America",
+   "the United States of America",
+   "America",
+   "U.S.A.",
+   "USA",
+   "U.S.",
+   "US",
+   "the US",
+   "the USA",
+   "US of A",
+   "the United States",
+   "U. S. A.",
+   "U. S.",
+   "the States",
+   "the U.S.",
+   "'Merica",
+   "U.S",
+   "United States",
+   "'Murica"
+  ]
+ },
+ {
+  "id": "test_4000",
+  "question": "In what country is Chelsea?",
+  "answer": [
+   "United States of America",
+   "the United States of America",
+   "America",
+   "U.S.A.",
+   "USA",
+   "U.S.",
+   "US",
+   "the US",
+   "the USA",
+   "US of A",
+   "the United States",
+   "U. S. A.",
+   "U. S.",
+   "the States",
+   "the U.S.",
+   "'Merica",
+   "U.S",
+   "United States",
+   "'Murica"
+  ]
+ },
+ {
+  "id": "test_4011",
+  "question": "In what country is Ridge?",
+  "answer": [
+   "United States of America",
+   "the United States of America",
+   "America",
+   "U.S.A.",
+   "USA",
+   "U.S.",
+   "US",
+   "the US",
+   "the USA",
+   "US of A",
+   "the United States",
+   "U. S. A.",
+   "U. S.",
+   "the States",
+   "the U.S.",
+   "'Merica",
+   "U.S",
+   "United States",
+   "'Murica"
+  ]
+ },
+ {
+  "id": "test_4018",
+  "question": "In what country is Lent?",
+  "answer": [
+   "France",
+   "fr",
+   "FR",
+   "République française",
+   "La France",
+   "Republic of France",
+   "French Republic",
+   "FRA",
+   "the Hexagon"
+  ]
+ },
+ {
+  "id": "test_4051",
+  "question": "In what country is Floral?",
+  "answer": [
+   "United States of America",
+   "the United States of America",
+   "America",
+   "U.S.A.",
+   "USA",
+   "U.S.",
+   "US",
+   "the US",
+   "the USA",
+   "US of A",
+   "the United States",
+   "U. S. A.",
+   "U. S.",
+   "the States",
+   "the U.S.",
+   "'Merica",
+   "U.S",
+   "United States",
+   "'Murica"
+  ]
+ },
+ {
+  "id": "test_4066",
+  "question": "In what country is Scott?",
+  "answer": [
+   "Canada",
+   "Dominion of Canada",
+   "British North America",
+   "CAN",
+   "CA",
+   "ca",
+   "can",
+   "Can."
+  ]
+ },
+ {
+  "id": "test_4108",
+  "question": "In what country is European Committee for Standardization?",
+  "answer": [
+   "Belgium",
+   "Kingdom of Belgium",
+   "BEL",
+   "be",
+   "🇧🇪",
+   "BE"
+  ]
+ },
+ {
+  "id": "test_4121",
+  "question": "In what country is Kottayam Institute of Technology & Science?",
+  "answer": [
+   "India",
+   "Bharat",
+   "Hindustan",
+   "Bharatvarsh",
+   "in",
+   "IN",
+   "Republic of India",
+   "🇮🇳",
+   "IND",
+   "Aryavratt"
+  ]
+ },
+ {
+  "id": "test_4154",
+  "question": "Who was the producer of Brandish?",
+  "answer": [
+   "Nihon Falcom",
+   "Falcom",
+   "Nihon Falcom Corporation",
+   "Nihon Falcom Corp."
+  ]
+ },
+ {
+  "id": "test_4160",
+  "question": "Who was the producer of Beaches?",
+  "answer": [
+   "Bette Midler",
+   "The Divine Miss M"
+  ]
+ },
+ {
+  "id": "test_4173",
+  "question": "Who was the producer of So Far So Good?",
+  "answer": [
+   "Bryan Adams",
+   "Bryan Guy Adams"
+  ]
+ },
+ {
+  "id": "test_4176",
+  "question": "Who was the producer of Rent?",
+  "answer": [
+   "Chris Columbus",
+   "Chris Joseph Columbus"
+  ]
+ },
+ {
+  "id": "test_4187",
+  "question": "Who was the producer of The Law?",
+  "answer": [
+   "Idrissa Ouédraogo"
+  ]
+ },
+ {
+  "id": "test_4242",
+  "question": "Who was the producer of The Sea?",
+  "answer": [
+   "Baltasar Kormákur",
+   "Baltasar Kormakur",
+   "Baltasar Kormákur Samper",
+   "Baltasar Kormakur Samper"
+  ]
+ },
+ {
+  "id": "test_4260",
+  "question": "Who was the producer of On the Line?",
+  "answer": [
+   "Lance Bass",
+   "James Lance Bass"
+  ]
+ },
+ {
+  "id": "test_4312",
+  "question": "Who was the producer of Numbers?",
+  "answer": [
+   "Tony Scott",
+   "Anthony David Scott",
+   "Anthony David Leighton Scott",
+   "Ridley Scott",
+   "Sir Ridley Scott"
+  ]
+ },
+ {
+  "id": "test_4315",
+  "question": "Who was the producer of Life?",
+  "answer": [
+   "Neil Young",
+   "Neil Percival Young",
+   "Shakey",
+   "Godfather of Grunge",
+   "Neil Percival Kenneth Robert Ragland Young"
+  ]
+ },
+ {
+  "id": "test_4356",
+  "question": "Who was the producer of Devi?",
+  "answer": [
+   "Satyajit Ray",
+   "Manik Da"
+  ]
+ },
+ {
+  "id": "test_4366",
+  "question": "Who was the producer of Up in the Air?",
+  "answer": [
+   "Jason Reitman"
+  ]
+ },
+ {
+  "id": "test_4461",
+  "question": "Who was the producer of If Only?",
+  "answer": [
+   "Jennifer Love Hewitt"
+  ]
+ },
+ {
+  "id": "test_4468",
+  "question": "Who was the producer of Freedom?",
+  "answer": [
+   "Akon",
+   "A-Kon",
+   "El Negreeto",
+   "Aliaune Damala Badara Akon Thiam"
+  ]
+ },
+ {
+  "id": "test_4515",
+  "question": "Who was the producer of Downloaded?",
+  "answer": [
+   "Alex Winter",
+   "Alexander Ross Winter"
+  ]
+ },
+ {
+  "id": "test_4522",
+  "question": "Who was the producer of Certainty?",
+  "answer": [
+   "Mike O'Malley",
+   "Michael Edward \"Mike\" O'Malley"
+  ]
+ },
+ {
+  "id": "test_4529",
+  "question": "Who was the producer of Happy?",
+  "answer": [
+   "Frederic Zelnik"
+  ]
+ },
+ {
+  "id": "test_4552",
+  "question": "Who was the producer of Echo?",
+  "answer": [
+   "Mike Campbell",
+   "Michael Wayne Campbell",
+   "Tom Petty",
+   "Thomas Earl Petty",
+   "Charlie T. Wilbury, Jr.",
+   "Rick Rubin",
+   "Frederick Jay Rubin",
+   "DJ Double R",
+   "Rubin"
+  ]
+ },
+ {
+  "id": "test_4588",
+  "question": "Who was the producer of Bring 'Em All In?",
+  "answer": [
+   "Niko Bolas"
+  ]
+ },
+ {
+  "id": "test_4613",
+  "question": "Who was the producer of M?",
+  "answer": [
+   "Lee Myeong-se",
+   "Lee Myung-se"
+  ]
+ },
+ {
+  "id": "test_4657",
+  "question": "Who was the producer of Friends?",
+  "answer": [
+   "Marta Kauffman",
+   "Marta Fran Kauffman",
+   "David Crane"
+  ]
+ },
+ {
+  "id": "test_4681",
+  "question": "Who was the producer of C.R.A.Z.Y.?",
+  "answer": [
+   "Pierre Even"
+  ]
+ },
+ {
+  "id": "test_4687",
+  "question": "Who was the producer of The Well?",
+  "answer": [
+   "Clarence Greene"
+  ]
+ },
+ {
+  "id": "test_4735",
+  "question": "Who was the producer of Smoke?",
+  "answer": [
+   "Harvey Weinstein"
+  ]
+ },
+ {
+  "id": "test_4762",
+  "question": "Who was the producer of The Nest?",
+  "answer": [
+   "Julie Corman",
+   "Julie Ann Corman"
+  ]
+ },
+ {
+  "id": "test_4795",
+  "question": "Who was the producer of Our Wife?",
+  "answer": [
+   "Hal Roach"
+  ]
+ },
+ {
+  "id": "test_4808",
+  "question": "Who was the producer of Inspiration?",
+  "answer": [
+   "Clarence Brown",
+   "Clarence Leon Brown",
+   "Irving Thalberg",
+   "Irving Grant Thalberg",
+   "Irving G. Thalberg"
+  ]
+ },
+ {
+  "id": "test_4867",
+  "question": "Who was the producer of Dil?",
+  "answer": [
+   "Indra Kumar"
+  ]
+ },
+ {
+  "id": "test_4879",
+  "question": "Who was the producer of Lemon?",
+  "answer": [
+   "Brian Eno",
+   "Eno",
+   "Brian Peter George Eno",
+   "Brian Peter George St John le Baptiste de la Salle Eno",
+   "The Edge",
+   "David Evans",
+   "David Howell Evans",
+   "Dave Evans"
+  ]
+ },
+ {
+  "id": "test_4892",
+  "question": "Who was the producer of The Sting?",
+  "answer": [
+   "Julia Phillips",
+   "Tony Bill",
+   "Gerard Anthony Bill"
+  ]
+ },
+ {
+  "id": "test_4942",
+  "question": "Who was the producer of Thinking of You?",
+  "answer": [
+   "Butch Walker"
+  ]
+ },
+ {
+  "id": "test_4990",
+  "question": "Who was the producer of Rocky?",
+  "answer": [
+   "Irwin Winkler"
+  ]
+ },
+ {
+  "id": "test_5006",
+  "question": "Who was the producer of Man of the Year?",
+  "answer": [
+   "Barry Levinson"
+  ]
+ },
+ {
+  "id": "test_5054",
+  "question": "Who was the producer of Still?",
+  "answer": [
+   "Tony Banks",
+   "Anthony George Banks",
+   "Anthony George \"Tony\" Banks"
+  ]
+ },
+ {
+  "id": "test_5098",
+  "question": "Who was the producer of Glass?",
+  "answer": [
+   "Bert Haanstra",
+   "Albert Haanstra"
+  ]
+ },
+ {
+  "id": "test_5119",
+  "question": "Who was the producer of Cro?",
+  "answer": [
+   "Film Roman"
+  ]
+ },
+ {
+  "id": "test_5123",
+  "question": "Who was the producer of Hotel?",
+  "answer": [
+   "Moby",
+   "Richard Melville Hall",
+   "Voodoo Child",
+   "Barracuda",
+   "Brainstorm",
+   "Schaumgummi",
+   "Pippy Baliunas",
+   "UHF",
+   "Elizabeth McBride"
+  ]
+ },
+ {
+  "id": "test_5147",
+  "question": "Who was the producer of Seven?",
+  "answer": [
+   "Andy Sidaris"
+  ]
+ },
+ {
+  "id": "test_5172",
+  "question": "Who was the producer of The Small Town?",
+  "answer": [
+   "Nuri Bilge Ceylan"
+  ]
+ },
+ {
+  "id": "test_5190",
+  "question": "Who was the producer of USA?",
+  "answer": [
+   "King Crimson"
+  ]
+ },
+ {
+  "id": "test_5193",
+  "question": "Who was the producer of Departure?",
+  "answer": [
+   "Taio Cruz",
+   "Jacob Taio Cruz",
+   "Jacob Milan Taio Cruz",
+   "Adetayo Ayowale Onile-Ere"
+  ]
+ },
+ {
+  "id": "test_5207",
+  "question": "Who was the producer of Lemon?",
+  "answer": [
+   "Brian Eno",
+   "Eno",
+   "Brian Peter George Eno",
+   "Brian Peter George St John le Baptiste de la Salle Eno",
+   "The Edge",
+   "David Evans",
+   "David Howell Evans",
+   "Dave Evans"
+  ]
+ },
+ {
+  "id": "test_5208",
+  "question": "Who was the producer of Mass?",
+  "answer": [
+   "Akkineni Nagarjuna",
+   "Nagarjuna Akkineni",
+   "Nagarjuna",
+   "Akkineni Nagarjuna Rao"
+  ]
+ },
+ {
+  "id": "test_5236",
+  "question": "Who was the producer of Jesus?",
+  "answer": [
+   "John Heyman",
+   "J. Heyman"
+  ]
+ },
+ {
+  "id": "test_5283",
+  "question": "Who was the producer of Chrome?",
+  "answer": [
+   "Dann Huff",
+   "Dann Lee Huff",
+   "Trey Bruce"
+  ]
+ },
+ {
+  "id": "test_5340",
+  "question": "Who was the producer of Friday the 13th Part 2?",
+  "answer": [
+   "Steve Miner"
+  ]
+ },
+ {
+  "id": "test_5380",
+  "question": "Who was the producer of Saw II?",
+  "answer": [
+   "Gregg Hoffman",
+   "Oren Koules",
+   "Mark Burg",
+   "Leigh Whannell"
+  ]
+ },
+ {
+  "id": "test_5392",
+  "question": "Who was the producer of The Rock?",
+  "answer": [
+   "Jerry Bruckheimer",
+   "Jerome Leon Bruckheimer",
+   "Don Simpson",
+   "Donald Clarence Simpson",
+   "Donald Clarence \"Don\" Simpson"
+  ]
+ },
+ {
+  "id": "test_5418",
+  "question": "Who was the producer of W?",
+  "answer": [
+   "Mel Ferrer",
+   "Melchor Gastón Ferrer",
+   "Melchor Gaston Ferrer"
+  ]
+ },
+ {
+  "id": "test_5443",
+  "question": "Who was the producer of Michael?",
+  "answer": [
+   "Anurag Kashyap"
+  ]
+ },
+ {
+  "id": "test_5538",
+  "question": "Who was the producer of Hello?",
+  "answer": [
+   "Atul Agnihotri"
+  ]
+ },
+ {
+  "id": "test_5624",
+  "question": "Who was the producer of Genre?",
+  "answer": [
+   "Don Hertzfeldt",
+   "Donald Hertzfeldt"
+  ]
+ },
+ {
+  "id": "test_5631",
+  "question": "Who was the producer of Persuasion?",
+  "answer": [
+   "BBC",
+   "the Beeb",
+   "British Broadcasting Corporation -- Records and correspondence",
+   "British Broadcasting Corporation"
+  ]
+ },
+ {
+  "id": "test_5703",
+  "question": "Who was the director of Thomas Jefferson?",
+  "answer": [
+   "Ken Burns",
+   "Kenneth Lauren Burns",
+   "Kenneth L. Burns",
+   "Kenneth Burns"
+  ]
+ },
+ {
+  "id": "test_5705",
+  "question": "Who was the director of Halloween?",
+  "answer": [
+   "Bruce Seth Green"
+  ]
+ },
+ {
+  "id": "test_5762",
+  "question": "Who was the director of Romance?",
+  "answer": [
+   "Ramanand Sagar"
+  ]
+ },
+ {
+  "id": "test_5777",
+  "question": "Who was the director of The African Woman?",
+  "answer": [
+   "Margarethe von Trotta",
+   "Margarethe Von Trotta"
+  ]
+ },
+ {
+  "id": "test_5792",
+  "question": "Who was the director of Get Well Soon?",
+  "answer": [
+   "Jean Becker"
+  ]
+ },
+ {
+  "id": "test_5807",
+  "question": "Who was the director of The Only Woman?",
+  "answer": [
+   "Sidney Olcott"
+  ]
+ },
+ {
+  "id": "test_5812",
+  "question": "Who was the director of Drug Testing?",
+  "answer": [
+   "Greg Daniels",
+   "Gregory Martin Daniels"
+  ]
+ },
+ {
+  "id": "test_5835",
+  "question": "Who was the director of Charly?",
+  "answer": [
+   "Ralph Nelson"
+  ]
+ },
+ {
+  "id": "test_5839",
+  "question": "Who was the director of Black and White?",
+  "answer": [
+   "James Toback",
+   "James Lee Toback"
+  ]
+ },
+ {
+  "id": "test_5915",
+  "question": "Who was the director of The Specialist?",
+  "answer": [
+   "Luis Llosa",
+   "Luis Llosa Urquidi"
+  ]
+ },
+ {
+  "id": "test_5919",
+  "question": "Who was the director of Great Day?",
+  "answer": [
+   "Lance Comfort"
+  ]
+ },
+ {
+  "id": "test_6033",
+  "question": "Who was the director of The Amateur?",
+  "answer": [
+   "Charles Jarrott"
+  ]
+ },
+ {
+  "id": "test_6146",
+  "question": "Who was the director of Endurance?",
+  "answer": [
+   "Bud Greenspan",
+   "Jonah J. Greenspan",
+   "Leslie Woodhead"
+  ]
+ },
+ {
+  "id": "test_6161",
+  "question": "Who was the director of Girlfriend?",
+  "answer": [
+   "Karan Razdan"
+  ]
+ },
+ {
+  "id": "test_6184",
+  "question": "Who was the director of Escape to Victory?",
+  "answer": [
+   "John Huston"
+  ]
+ },
+ {
+  "id": "test_6271",
+  "question": "Who was the director of The Little Ones?",
+  "answer": [
+   "Jim O'Connolly"
+  ]
+ },
+ {
+  "id": "test_6332",
+  "question": "Who was the director of Dedication?",
+  "answer": [
+   "Justin Theroux",
+   "Justin Paul Theroux"
+  ]
+ },
+ {
+  "id": "test_6343",
+  "question": "Who was the director of Powwow Highway?",
+  "answer": [
+   "Jonathan Wacks",
+   "Jonathan Philip Wacks"
+  ]
+ },
+ {
+  "id": "test_6345",
+  "question": "Who was the director of Bang?",
+  "answer": [
+   "Larry Shaw"
+  ]
+ },
+ {
+  "id": "test_6364",
+  "question": "Who was the director of So Young?",
+  "answer": [
+   "Zhao Wei"
+  ]
+ },
+ {
+  "id": "test_6408",
+  "question": "Who was the director of The Plan?",
+  "answer": [
+   "Rose Troche"
+  ]
+ },
+ {
+  "id": "test_6480",
+  "question": "Who was the director of In My Life?",
+  "answer": [
+   "Bille August"
+  ]
+ },
+ {
+  "id": "test_6558",
+  "question": "Who was the director of The Take?",
+  "answer": [
+   "Naomi Klein",
+   "Avi Lewis"
+  ]
+ },
+ {
+  "id": "test_6620",
+  "question": "Who was the director of Las Vegas?",
+  "answer": [
+   "Gail Mancuso"
+  ]
+ },
+ {
+  "id": "test_6635",
+  "question": "Who was the director of Pariah?",
+  "answer": [
+   "Dee Rees",
+   "Diandrea Rees"
+  ]
+ },
+ {
+  "id": "test_6660",
+  "question": "Who was the director of The Toy?",
+  "answer": [
+   "Richard Donner",
+   "Richard Donald Schwartzberg"
+  ]
+ },
+ {
+  "id": "test_6674",
+  "question": "Who was the director of Steve?",
+  "answer": [
+   "Rupert Friend",
+   "Rupert William Anthony Friend"
+  ]
+ },
+ {
+  "id": "test_6702",
+  "question": "Who was the director of Demonia?",
+  "answer": [
+   "Lucio Fulci"
+  ]
+ },
+ {
+  "id": "test_6716",
+  "question": "Who was the director of Valfångare?",
+  "answer": [
+   "Tancred Ibsen",
+   "Anders Henrikson",
+   "Anders Henrik Henrikson"
+  ]
+ },
+ {
+  "id": "test_6718",
+  "question": "Who was the director of The Wonders?",
+  "answer": [
+   "Alice Rohrwacher"
+  ]
+ },
+ {
+  "id": "test_6740",
+  "question": "Who was the director of His Hour?",
+  "answer": [
+   "King Vidor",
+   "King Wallis Vidor"
+  ]
+ },
+ {
+  "id": "test_6783",
+  "question": "Who was the director of Breaking Bad?",
+  "answer": [
+   "John Shiban",
+   "Michelle MacLaren",
+   "Michelle Maxwell MacLaren",
+   "Charles Haid",
+   "Charles Maurice Haid III",
+   "Bryan Cranston",
+   "Bryan Lee Cranston",
+   "Vince Gilligan",
+   "George Vincent Gilligan, Jr.",
+   "George Mastras",
+   "Peter Gould"
+  ]
+ },
+ {
+  "id": "test_6828",
+  "question": "Who was the director of These Children?",
+  "answer": [
+   "Mario Mattoli"
+  ]
+ },
+ {
+  "id": "test_6833",
+  "question": "Who was the director of Unexpected?",
+  "answer": [
+   "Mike Vejar",
+   "Michael Laurence Vejar",
+   "Michael Vejar"
+  ]
+ },
+ {
+  "id": "test_6843",
+  "question": "Who was the director of Hunting?",
+  "answer": [
+   "Frank Howson",
+   "Frank Michael Howson"
+  ]
+ },
+ {
+  "id": "test_6966",
+  "question": "Who was the director of The Innocent?",
+  "answer": [
+   "Luchino Visconti",
+   "Luchino Visconti, conte di Modorone",
+   "Don Luchino Visconti di Modrone, Conte di Lonate Pozzolo"
+  ]
+ },
+ {
+  "id": "test_7012",
+  "question": "Who was the director of Open House?",
+  "answer": [
+   "David Slade",
+   "David Aldrin Slade"
+  ]
+ },
+ {
+  "id": "test_7041",
+  "question": "Who was the director of Never Look Back?",
+  "answer": [
+   "Francis Searle"
+  ]
+ },
+ {
+  "id": "test_7091",
+  "question": "Who was the director of History Lessons?",
+  "answer": [
+   "Straub-Huillet",
+   "Jean Marie Straub"
+  ]
+ },
+ {
+  "id": "test_7093",
+  "question": "Who was the director of Rising?",
+  "answer": [
+   "Martin Wood"
+  ]
+ },
+ {
+  "id": "test_7167",
+  "question": "Who was the director of The President?",
+  "answer": [
+   "Mohsen Makhmalbaf"
+  ]
+ },
+ {
+  "id": "test_7175",
+  "question": "Who was the director of Crude?",
+  "answer": [
+   "Joe Berlinger",
+   "Joseph Berlinger"
+  ]
+ },
+ {
+  "id": "test_7198",
+  "question": "Who was the director of Experience?",
+  "answer": [
+   "George Fitzmaurice"
+  ]
+ },
+ {
+  "id": "test_7201",
+  "question": "Who was the director of Suzanne?",
+  "answer": [
+   "Robin Spry"
+  ]
+ },
+ {
+  "id": "test_7222",
+  "question": "Who was the director of Cannibal Tours?",
+  "answer": [
+   "Dennis O'Rourke"
+  ]
+ },
+ {
+  "id": "test_7257",
+  "question": "Who was the director of So Can I?",
+  "answer": [
+   "Abbas Kiarostami"
+  ]
+ },
+ {
+  "id": "test_7269",
+  "question": "Who was the director of Sunny?",
+  "answer": [
+   "Lee Joon-ik",
+   "Lee Jun Ik"
+  ]
+ },
+ {
+  "id": "test_7353",
+  "question": "Who was the director of Are You Here?",
+  "answer": [
+   "Zach Galifianakis",
+   "Zacharius Knight Galifinakis",
+   "Zachary Knight Galifianakis",
+   "Owen Wilson",
+   "Owen Cunningham Wilson",
+   "Amy Poehler",
+   "Amy Meredith Poehler",
+   "Matthew Weiner",
+   "Matthew Hoffman Weiner"
+  ]
+ },
+ {
+  "id": "test_7368",
+  "question": "Who was the director of Kites?",
+  "answer": [
+   "Anurag Basu"
+  ]
+ },
+ {
+  "id": "test_7398",
+  "question": "Who was the director of The Miracle?",
+  "answer": [
+   "Jean-Pierre Mocky"
+  ]
+ },
+ {
+  "id": "test_7441",
+  "question": "Who was the director of Uncommon Valor?",
+  "answer": [
+   "Ted Kotcheff",
+   "William Theodore Kotcheff"
+  ]
+ },
+ {
+  "id": "test_7453",
+  "question": "Who was the director of The Hit?",
+  "answer": [
+   "Stephen Frears",
+   "Stephen Arthur Frears"
+  ]
+ },
+ {
+  "id": "test_7460",
+  "question": "Who was the director of Always?",
+  "answer": [
+   "Steven Spielberg",
+   "Steven Allan Spielberg",
+   "Spielberg"
+  ]
+ },
+ {
+  "id": "test_7489",
+  "question": "Who was the director of Endgame?",
+  "answer": [
+   "Pete Travis"
+  ]
+ },
+ {
+  "id": "test_7535",
+  "question": "Who was the director of Family?",
+  "answer": [
+   "Takashi Miike"
+  ]
+ },
+ {
+  "id": "test_7553",
+  "question": "Who was the director of Passport?",
+  "answer": [
+   "Georgiy Daneliya",
+   "Georgy Nikolayevich Daneliya",
+   "Georgiy Nikolayevich Daneliya"
+  ]
+ },
+ {
+  "id": "test_7592",
+  "question": "Who was the director of Intern Academy?",
+  "answer": [
+   "Dave Thomas",
+   "David William Thomas"
+  ]
+ },
+ {
+  "id": "test_7648",
+  "question": "Who was the director of Ten Seconds to Hell?",
+  "answer": [
+   "Robert Aldrich",
+   "Robert Burgess Aldrich"
+  ]
+ },
+ {
+  "id": "test_7649",
+  "question": "Who was the director of Safe?",
+  "answer": [
+   "Todd Haynes"
+  ]
+ },
+ {
+  "id": "test_7670",
+  "question": "What is Turin the capital of?",
+  "answer": [
+   "Piedmont",
+   "Province of Turin",
+   "Provincia di Torino",
+   "Turin province",
+   "Torino province",
+   "Turin",
+   "provincia di Torino",
+   "Kingdom of Sardinia",
+   "Piedmont-Sardinia",
+   "Kingdom of Sardinia-Piedmont",
+   "Kingdom of Sardinia (1720-1861)",
+   "Kingdom of Piedmont-Sardinia",
+   "Kingdom of Italy",
+   "Regno d’Italia",
+   "Italy",
+   "IT"
+  ]
+ },
+ {
+  "id": "test_7712",
+  "question": "What is Osh the capital of?",
+  "answer": [
+   "Osh Region",
+   "Osh Province"
+  ]
+ },
+ {
+  "id": "test_7804",
+  "question": "What is Palembang the capital of?",
+  "answer": [
+   "South Sumatra",
+   "Sumatera Selatan",
+   "Srivijaya",
+   "Sriwijaya",
+   "Siwichai",
+   "Srey Vichey",
+   "Shih-li-fo-shih",
+   "San-fo-ch'i"
+  ]
+ },
+ {
+  "id": "test_7845",
+  "question": "What is Delhi the capital of?",
+  "answer": [
+   "Tughlaq dynasty",
+   "Lodhi dynasty",
+   "लोदी वंश",
+   "लोदी घराणे",
+   "Delhi Sultanate",
+   "Sultanate of Delhi",
+   "Sur Empire",
+   "Khalji dynasty"
+  ]
+ },
+ {
+  "id": "test_7866",
+  "question": "What is Pierre the capital of?",
+  "answer": [
+   "South Dakota",
+   "SD",
+   "South Dakota, United States",
+   "State of South Dakota",
+   "SoDak",
+   "S. Dakota",
+   "The Mount Rushmore State",
+   "The Coyote State",
+   "S. Dak.",
+   "S.D.",
+   "Hughes County",
+   "Hughes County, South Dakota"
+  ]
+ },
+ {
+  "id": "test_7929",
+  "question": "What is Tsu the capital of?",
+  "answer": [
+   "Tsu Domain",
+   "Anotsu Domain",
+   "Mie Prefecture",
+   "Mie"
+  ]
+ },
+ {
+  "id": "test_8012",
+  "question": "What is Flying Fish Cove the capital of?",
+  "answer": [
+   "Christmas Island",
+   "cx",
+   "🇨🇽",
+   "Christmas Island, Other Territories",
+   "Christmas Island, Other Territories, Australia",
+   "Territory of Christmas Island"
+  ]
+ },
+ {
+  "id": "test_8019",
+  "question": "What is Alexandria the capital of?",
+  "answer": [
+   "Teleorman County"
+  ]
+ },
+ {
+  "id": "test_8076",
+  "question": "Who was the screenwriter for Quitting?",
+  "answer": [
+   "Zhang Yang",
+   "Yang Zhang"
+  ]
+ },
+ {
+  "id": "test_8089",
+  "question": "Who was the screenwriter for Rain?",
+  "answer": [
+   "Joris Ivens",
+   "Georg Henri Anton Ivens",
+   "George H.A. Ivens",
+   "Jaris Ivens",
+   "Mannus Franken"
+  ]
+ },
+ {
+  "id": "test_8090",
+  "question": "Who was the screenwriter for Ballad of Tara?",
+  "answer": [
+   "Bahram Bayzai",
+   "Bahram Beyzai"
+  ]
+ },
+ {
+  "id": "test_8093",
+  "question": "Who was the screenwriter for Boomerang?",
+  "answer": [
+   "Alain Delon",
+   "Alain Fabien Maurice Marcel Delon"
+  ]
+ },
+ {
+  "id": "test_8132",
+  "question": "Who was the screenwriter for I Love You?",
+  "answer": [
+   "Arnaldo Jabor"
+  ]
+ },
+ {
+  "id": "test_8162",
+  "question": "Who was the screenwriter for Fear No More?",
+  "answer": [
+   "Adam Barr"
+  ]
+ },
+ {
+  "id": "test_8231",
+  "question": "Who was the screenwriter for P Se PM Tak?",
+  "answer": [
+   "Kundan Shah"
+  ]
+ },
+ {
+  "id": "test_8237",
+  "question": "Who was the screenwriter for The St. Valentine's Day Massacre?",
+  "answer": [
+   "Howard Browne"
+  ]
+ },
+ {
+  "id": "test_8306",
+  "question": "Who was the screenwriter for Heart?",
+  "answer": [
+   "Vittorio De Sica",
+   "Vittorio de Sica"
+  ]
+ },
+ {
+  "id": "test_8307",
+  "question": "Who was the screenwriter for Ghost?",
+  "answer": [
+   "Hossein Shahabi"
+  ]
+ },
+ {
+  "id": "test_8396",
+  "question": "Who was the screenwriter for Boys?",
+  "answer": [
+   "James Salter",
+   "James Arnold Horowitz"
+  ]
+ },
+ {
+  "id": "test_8398",
+  "question": "Who was the screenwriter for A Day to Remember?",
+  "answer": [
+   "Jean-Louis Bertucelli",
+   "Jean-Louis Bertuccelli"
+  ]
+ },
+ {
+  "id": "test_8461",
+  "question": "Who was the screenwriter for The Good Night?",
+  "answer": [
+   "Jake Paltrow",
+   "Jacob Danner Paltrow"
+  ]
+ },
+ {
+  "id": "test_8484",
+  "question": "Who was the screenwriter for Lost?",
+  "answer": [
+   "Elizabeth Sarnoff",
+   "Elizabeth \"Liz\" Sarnoff",
+   "Liz Sarnoff",
+   "Adam Horowitz",
+   "Damon Lindelof",
+   "Damon Laurence Lindelof",
+   "Carlton Cuse",
+   "Arthur Carlton Cuse",
+   "Edward Kitsis",
+   "Edward \"Eddy\" Lawrence Kitsis",
+   "Edward Lawrence Kitsis"
+  ]
+ },
+ {
+  "id": "test_8485",
+  "question": "Who was the screenwriter for Hours?",
+  "answer": [
+   "Eric Heisserer",
+   "Eric Andrew Heisserer"
+  ]
+ },
+ {
+  "id": "test_8522",
+  "question": "Who was the screenwriter for Ecco fatto?",
+  "answer": [
+   "Gabriele Muccino"
+  ]
+ },
+ {
+  "id": "test_8589",
+  "question": "Who was the screenwriter for Cleaning Up?",
+  "answer": [
+   "George Pelecanos",
+   "George P. Pelecanos",
+   "Ed Burns",
+   "David Simon",
+   "David Judah Simon"
+  ]
+ },
+ {
+  "id": "test_8612",
+  "question": "Who was the screenwriter for Mass?",
+  "answer": [
+   "Raghava Lawrence",
+   "Lawrence"
+  ]
+ },
+ {
+  "id": "test_8617",
+  "question": "Who was the screenwriter for The inn?",
+  "answer": [
+   "Jerzy Kawalerowicz",
+   "Jerzy Franciszek Kawalerowicz",
+   "Julian Stryjkowski"
+  ]
+ },
+ {
+  "id": "test_8645",
+  "question": "Who was the screenwriter for 100?",
+  "answer": [
+   "Brad Falchuk",
+   "Bradley Douglas Falchuk",
+   "Ian Brennan"
+  ]
+ },
+ {
+  "id": "test_8650",
+  "question": "Who was the screenwriter for The Entity?",
+  "answer": [
+   "Trey Parker",
+   "Randolph Severn Parker",
+   "Randolph Parker",
+   "Randolph Severn Parker III"
+  ]
+ },
+ {
+  "id": "test_8720",
+  "question": "Who was the screenwriter for A Little Princess?",
+  "answer": [
+   "Frances Marion"
+  ]
+ },
+ {
+  "id": "test_8790",
+  "question": "Who was the screenwriter for Striptease?",
+  "answer": [
+   "Andrew Bergman",
+   "Carl Hiaasen"
+  ]
+ },
+ {
+  "id": "test_8867",
+  "question": "Who was the screenwriter for The Dilemma?",
+  "answer": [
+   "Allan Loeb"
+  ]
+ },
+ {
+  "id": "test_8869",
+  "question": "Who was the screenwriter for The Bride’s Journey?",
+  "answer": [
+   "Sergio Rubini"
+  ]
+ },
+ {
+  "id": "test_8885",
+  "question": "Who was the screenwriter for The Journey?",
+  "answer": [
+   "Abbas Kiarostami"
+  ]
+ },
+ {
+  "id": "test_8921",
+  "question": "Who was the screenwriter for Weapons?",
+  "answer": [
+   "Adam Bhala Lough"
+  ]
+ },
+ {
+  "id": "test_8956",
+  "question": "Who was the screenwriter for The Jacket?",
+  "answer": [
+   "Massy Tadjedin"
+  ]
+ },
+ {
+  "id": "test_9003",
+  "question": "Who was the screenwriter for Postcard?",
+  "answer": [
+   "Kaneto Shindō",
+   "Kaneto Shindo",
+   "Shindō Kaneto",
+   "Shindo Kaneto",
+   "Kaneto Shindou"
+  ]
+ },
+ {
+  "id": "test_9015",
+  "question": "Who was the screenwriter for The Russia House?",
+  "answer": [
+   "Tom Stoppard",
+   "Sir Tom Stoppard"
+  ]
+ },
+ {
+  "id": "test_9019",
+  "question": "Who was the screenwriter for Je t'aime moi non plus?",
+  "answer": [
+   "Serge Gainsbourg",
+   "Lucien Ginsburg"
+  ]
+ },
+ {
+  "id": "test_9049",
+  "question": "Who was the screenwriter for The Business?",
+  "answer": [
+   "Nick Love"
+  ]
+ },
+ {
+  "id": "test_9110",
+  "question": "Who was the screenwriter for Seven?",
+  "answer": [
+   "Andrew Kevin Walker"
+  ]
+ },
+ {
+  "id": "test_9122",
+  "question": "Who was the screenwriter for Nine?",
+  "answer": [
+   "Michael Tolkin",
+   "Anthony Minghella",
+   "Anthony Mingella"
+  ]
+ },
+ {
+  "id": "test_9168",
+  "question": "Who was the screenwriter for Final Destination?",
+  "answer": [
+   "Jeffrey Reddick",
+   "Glen Morgan"
+  ]
+ },
+ {
+  "id": "test_9169",
+  "question": "Who was the screenwriter for Outside the Law?",
+  "answer": [
+   "Tod Browning",
+   "Charles Albert Browning"
+  ]
+ },
+ {
+  "id": "test_9176",
+  "question": "Who was the screenwriter for Compagni di scuola?",
+  "answer": [
+   "Carlo Verdone",
+   "Carlo Gregorio Verdone"
+  ]
+ },
+ {
+  "id": "test_9181",
+  "question": "Who was the screenwriter for Open House?",
+  "answer": [
+   "Brad Falchuk",
+   "Bradley Douglas Falchuk"
+  ]
+ },
+ {
+  "id": "test_9205",
+  "question": "Who was the screenwriter for Pulse?",
+  "answer": [
+   "Kiyoshi Kurosawa"
+  ]
+ },
+ {
+  "id": "test_9213",
+  "question": "Who was the screenwriter for The Keeper?",
+  "answer": [
+   "Steven Seagal",
+   "Steven Frederic Seagal",
+   "Steven Frederick Seagal"
+  ]
+ },
+ {
+  "id": "test_9265",
+  "question": "Who was the screenwriter for The Train?",
+  "answer": [
+   "Jayarajan Rajasekharan Nair",
+   "Jayaraj"
+  ]
+ },
+ {
+  "id": "test_9312",
+  "question": "Who was the screenwriter for Yesterday's Hero?",
+  "answer": [
+   "Jackie Collins",
+   "Jacqueline Jill Collins"
+  ]
+ },
+ {
+  "id": "test_9336",
+  "question": "Who was the screenwriter for Malicious?",
+  "answer": [
+   "Salvatore Samperi"
+  ]
+ },
+ {
+  "id": "test_9345",
+  "question": "Who was the screenwriter for Sex, Lies, and Videotape?",
+  "answer": [
+   "Steven Soderbergh",
+   "Steven Andrew Soderbergh",
+   "Peter Andrews",
+   "Mary Ann Bernard"
+  ]
+ },
+ {
+  "id": "test_9377",
+  "question": "Who was the screenwriter for Growing Up?",
+  "answer": [
+   "Hou Hsiao-Hsien",
+   "Hou Xiaoxian",
+   "Hou Hsiao Hsen"
+  ]
+ },
+ {
+  "id": "test_9399",
+  "question": "Who was the screenwriter for Pilot?",
+  "answer": [
+   "Miles Millar",
+   "Alfred Gough",
+   "Al Gough",
+   "Alfred Fabian Gough III",
+   "Alfred Gough III"
+  ]
+ },
+ {
+  "id": "test_9428",
+  "question": "Who was the screenwriter for The Sea Inside?",
+  "answer": [
+   "Mateo Gil"
+  ]
+ },
+ {
+  "id": "test_9466",
+  "question": "Who was the screenwriter for The Bourne Legacy?",
+  "answer": [
+   "Robert Ludlum",
+   "Jonathan Ryder",
+   "Michael Shepherd",
+   "Tony Gilroy",
+   "Anthony Joseph Gilroy"
+  ]
+ },
+ {
+  "id": "test_9489",
+  "question": "Who was the screenwriter for Pilot?",
+  "answer": [
+   "David Shore"
+  ]
+ },
+ {
+  "id": "test_9507",
+  "question": "Who was the screenwriter for Reds?",
+  "answer": [
+   "Trevor Griffiths",
+   "Warren Beatty",
+   "Henry Warren Beaty",
+   "Henry Warren Beatty"
+  ]
+ },
+ {
+  "id": "test_9518",
+  "question": "Who was the screenwriter for The Intern?",
+  "answer": [
+   "Nancy Meyers",
+   "Nancy Jane Meyers"
+  ]
+ },
+ {
+  "id": "test_9564",
+  "question": "Who was the screenwriter for The Betrayal?",
+  "answer": [
+   "Oscar Micheaux",
+   "Oscar Devereaux Micheaux"
+  ]
+ },
+ {
+  "id": "test_9569",
+  "question": "Who was the screenwriter for The Late Show?",
+  "answer": [
+   "Robert Benton",
+   "Robert Douglas Benton"
+  ]
+ },
+ {
+  "id": "test_9570",
+  "question": "Who was the screenwriter for Eddie Presley?",
+  "answer": [
+   "Duane Whitaker"
+  ]
+ },
+ {
+  "id": "test_9571",
+  "question": "Who was the screenwriter for When Flanders Failed?",
+  "answer": [
+   "Jon Vitti"
+  ]
+ },
+ {
+  "id": "test_9611",
+  "question": "Who was the screenwriter for In the Flesh?",
+  "answer": [
+   "Nick Sagan",
+   "Nicholas Julian Zapata Sagan"
+  ]
+ },
+ {
+  "id": "test_9619",
+  "question": "Who was the screenwriter for The Liability?",
+  "answer": [
+   "John Wrathall",
+   "John James Wrathall"
+  ]
+ },
+ {
+  "id": "test_9651",
+  "question": "Who was the screenwriter for Japón?",
+  "answer": [
+   "Carlos Reygadas",
+   "Carlos Reygadas Castillo"
+  ]
+ },
+ {
+  "id": "test_9663",
+  "question": "Who was the screenwriter for Barefoot in Athens?",
+  "answer": [
+   "Maxwell Anderson",
+   "James Maxwell Anderson",
+   "Maxwell Anderson"
+  ]
+ },
+ {
+  "id": "test_9669",
+  "question": "Who was the screenwriter for Project A?",
+  "answer": [
+   "Jackie Chan",
+   "Cheng Lung",
+   "Sing Lung",
+   "Y'uen Lo",
+   "Pao Pao",
+   "Kong-sang Chan",
+   "Kung-Fu Master",
+   "Yuan-Lou Chen",
+   "Yuan Lung Chen",
+   "Yuen Lung Chen",
+   "Chen Yuan Lung",
+   "Chen Yuen Lung",
+   "Jacky Chan",
+   "Chen Yuan-lung",
+   "Lung Cheng",
+   "Chen Lung",
+   "Chan Kong-sang"
+  ]
+ },
+ {
+  "id": "test_9714",
+  "question": "Who was the screenwriter for Fire Down Below?",
+  "answer": [
+   "Max Catto",
+   "Simon Kent",
+   "Maxwell Jeffrey Catto",
+   "Irwin Shaw",
+   "Irwin Gilbert Shamforoff"
+  ]
+ },
+ {
+  "id": "test_9766",
+  "question": "Who was the screenwriter for Giallo?",
+  "answer": [
+   "Dario Argento",
+   "Sirio Bernadotte"
+  ]
+ },
+ {
+  "id": "test_9796",
+  "question": "Who was the screenwriter for Widows' Peak?",
+  "answer": [
+   "Hugh Leonard"
+  ]
+ },
+ {
+  "id": "test_9815",
+  "question": "Who was the screenwriter for The Cow?",
+  "answer": [
+   "Dariush Mehrjui"
+  ]
+ },
+ {
+  "id": "test_9817",
+  "question": "Who was the screenwriter for The Return?",
+  "answer": [
+   "Michael Schur",
+   "Ken Tremendous",
+   "Gene Stupnitsky",
+   "Lee Eisenberg"
+  ]
+ },
+ {
+  "id": "test_9827",
+  "question": "Who was the screenwriter for The Best Man?",
+  "answer": [
+   "Gore Vidal",
+   "Eugene Luther Gore Vidal",
+   "Gor Vidal",
+   "Cameron Kay",
+   "Eugene Luther Vidal",
+   "Edgar Box",
+   "Katherine Everard",
+   "Eugene Vidal"
+  ]
+ },
+ {
+  "id": "test_9833",
+  "question": "Who was the screenwriter for The Package?",
+  "answer": [
+   "John Bishop"
+  ]
+ },
+ {
+  "id": "test_9866",
+  "question": "Who was the screenwriter for Adopted?",
+  "answer": [
+   "Pauly Shore",
+   "Paul Montgomery Shore"
+  ]
+ },
+ {
+  "id": "test_9873",
+  "question": "Who was the screenwriter for Smoke?",
+  "answer": [
+   "Paul Auster",
+   "Paul Benjamin",
+   "Paul Queen",
+   "Paul Benjamin Auster"
+  ]
+ },
+ {
+  "id": "test_9890",
+  "question": "Who was the screenwriter for The Saint?",
+  "answer": [
+   "Wesley Strick",
+   "Jonathan Hensleigh",
+   "Jonathan Blair Hensleigh"
+  ]
+ },
+ {
+  "id": "test_9933",
+  "question": "Who was the screenwriter for Police?",
+  "answer": [
+   "Charlie Chaplin",
+   "Charles Spencer Chaplin",
+   "Charles Chaplin",
+   "Sir Charles Spencer Chaplin"
+  ]
+ },
+ {
+  "id": "test_9936",
+  "question": "Who was the screenwriter for Head?",
+  "answer": [
+   "Bob Rafelson"
+  ]
+ },
+ {
+  "id": "test_9950",
+  "question": "Who was the screenwriter for The Ones?",
+  "answer": [
+   "Jack Burditt"
+  ]
+ },
+ {
+  "id": "test_9953",
+  "question": "Who was the screenwriter for Unexpected?",
+  "answer": [
+   "Rick Berman",
+   "Richard Keith Berman",
+   "Richard Keith \"Rick\" Berman",
+   "Brannon Braga"
+  ]
+ },
+ {
+  "id": "test_10005",
+  "question": "Who was the screenwriter for Hotel?",
+  "answer": [
+   "Jessica Hausner"
+  ]
+ },
+ {
+  "id": "test_10040",
+  "question": "Who was the composer of Hello?",
+  "answer": [
+   "Masaharu Fukuyama"
+  ]
+ },
+ {
+  "id": "test_10052",
+  "question": "Who was the composer of You Shook Me All Night Long?",
+  "answer": [
+   "Angus Young",
+   "Angus McKinnon Young"
+  ]
+ },
+ {
+  "id": "test_10053",
+  "question": "Who was the composer of The Falls?",
+  "answer": [
+   "Michael Nyman",
+   "Michael Laurence Nyman"
+  ]
+ },
+ {
+  "id": "test_10075",
+  "question": "Who was the composer of Shades?",
+  "answer": [
+   "Alex Callier"
+  ]
+ },
+ {
+  "id": "test_10108",
+  "question": "Who was the composer of Tragedy?",
+  "answer": [
+   "Andy McCoy",
+   "Antti Hulkko"
+  ]
+ },
+ {
+  "id": "test_10112",
+  "question": "Who was the composer of May This Be Love?",
+  "answer": [
+   "Jimi Hendrix",
+   "Johnny Allen Hendrix",
+   "James Marshall Hendrix",
+   "Hendrix"
+  ]
+ },
+ {
+  "id": "test_10161",
+  "question": "Who was the composer of Love?",
+  "answer": [
+   "George Bruns",
+   "George Edward Bruns"
+  ]
+ },
+ {
+  "id": "test_10182",
+  "question": "Who was the composer of Into the Woods?",
+  "answer": [
+   "Stephen Sondheim",
+   "Stephen Joshua Sondheim"
+  ]
+ },
+ {
+  "id": "test_10232",
+  "question": "Who was the composer of Happy?",
+  "answer": [
+   "Yuvan Shankar Raja"
+  ]
+ },
+ {
+  "id": "test_10241",
+  "question": "Who was the composer of Glory?",
+  "answer": [
+   "James Horner",
+   "James Roy Horner"
+  ]
+ },
+ {
+  "id": "test_10251",
+  "question": "Who was the composer of Been So Long?",
+  "answer": [
+   "Arthur Darvill",
+   "Thomas Arthur Darvill"
+  ]
+ },
+ {
+  "id": "test_10268",
+  "question": "Who was the composer of Instant Crush?",
+  "answer": [
+   "Thomas Bangalter"
+  ]
+ },
+ {
+  "id": "test_10272",
+  "question": "Who was the composer of Banning?",
+  "answer": [
+   "Quincy Jones",
+   "Q",
+   "Quincy",
+   "Quincy Delight Jones Jr.",
+   "Quincy Delight Jones Jr",
+   "Quincy Jones Jr."
+  ]
+ },
+ {
+  "id": "test_10310",
+  "question": "Who was the composer of Into the Woods?",
+  "answer": [
+   "Stephen Sondheim",
+   "Stephen Joshua Sondheim"
+  ]
+ },
+ {
+  "id": "test_10385",
+  "question": "Who was the composer of Home?",
+  "answer": [
+   "Gabrielle Aplin",
+   "Gabrielle Ann Aplin"
+  ]
+ },
+ {
+  "id": "test_10436",
+  "question": "Who was the composer of Miss You?",
+  "answer": [
+   "Charles Tobias",
+   "Harry Tobias"
+  ]
+ },
+ {
+  "id": "test_10454",
+  "question": "Who was the composer of Get You?",
+  "answer": [
+   "RedOne",
+   "Nadir Khayat"
+  ]
+ },
+ {
+  "id": "test_10472",
+  "question": "Who was the composer of Wisconsin Death Trip?",
+  "answer": [
+   "DJ Shadow",
+   "Joshua Paul Davis",
+   "Josh Davis",
+   "Joshua Davis",
+   "John Cale",
+   "John Davies Cale",
+   "00033982178 IPI"
+  ]
+ },
+ {
+  "id": "test_10498",
+  "question": "Who was the composer of Nancy?",
+  "answer": [
+   "Jimmy Van Heusen",
+   "James Van Heusen",
+   "Edward Chester Babcock",
+   "Arthur Williams"
+  ]
+ },
+ {
+  "id": "test_10525",
+  "question": "Who was the composer of Virginia?",
+  "answer": [
+   "Saverio Mercadante",
+   "Giuseppe Saverio Raffaele Mercadante"
+  ]
+ },
+ {
+  "id": "test_10528",
+  "question": "Who was the composer of Dangerous?",
+  "answer": [
+   "Michael Jackson",
+   "MJ",
+   "The King of Pop",
+   "Michael Joe Jackson",
+   "Michael Joseph Jackson",
+   "M.J.",
+   "M. J.",
+   "King of Pop",
+   "King of Music",
+   "The King"
+  ]
+ },
+ {
+  "id": "test_10574",
+  "question": "Who was the composer of New York City?",
+  "answer": [
+   "John Lennon",
+   "John Winston Ono Lennon",
+   "John Winston Lennon",
+   "Lennon John",
+   "John Ono Lennon"
+  ]
+ },
+ {
+  "id": "test_10586",
+  "question": "Who was the composer of I Will?",
+  "answer": [
+   "Dick Glasser",
+   "Richard Eugene Glasser"
+  ]
+ },
+ {
+  "id": "test_10623",
+  "question": "Who was the composer of Le Concert?",
+  "answer": [
+   "Armand Amar",
+   "Pyotr Ilyich Tchaikovsky",
+   "Pyotr Il'yich Tchaikovsky",
+   "Pyotr Tchaikovsky",
+   "Peter Ilich Tchaikovsky",
+   "Tchaikovsky",
+   "Peter Tchaikovsky",
+   "Pyotr Il'ich Chaikovskiy",
+   "Tschaikowski",
+   "Tschaikowsky",
+   "Chajkovskij",
+   "Chaikovsky",
+   "Piotr Ilyitch Tchaikovsky"
+  ]
+ },
+ {
+  "id": "test_10651",
+  "question": "Who was the composer of Singles?",
+  "answer": [
+   "Paul Westerberg",
+   "Paul Harold Westerberg"
+  ]
+ },
+ {
+  "id": "test_10680",
+  "question": "Who was the composer of Alceste?",
+  "answer": [
+   "Jean-Baptiste Lully",
+   "Giovanni Battista Lulli",
+   "Lulli"
+  ]
+ },
+ {
+  "id": "test_10692",
+  "question": "Who was the composer of Sigurd?",
+  "answer": [
+   "Ernest Reyer"
+  ]
+ },
+ {
+  "id": "test_10711",
+  "question": "Who was the composer of First Suite in E-flat for Military Band?",
+  "answer": [
+   "Gustav Holst",
+   "Gustav Theodore Holst",
+   "Holst",
+   "Gustavus Theodore von Holst"
+  ]
+ },
+ {
+  "id": "test_10736",
+  "question": "Who was the composer of Laura?",
+  "answer": [
+   "David Raksin"
+  ]
+ },
+ {
+  "id": "test_10745",
+  "question": "Who was the composer of Secret of Mana?",
+  "answer": [
+   "Hiroki Kikuta"
+  ]
+ },
+ {
+  "id": "test_10746",
+  "question": "Who was the composer of Good News?",
+  "answer": [
+   "Ray Henderson",
+   "Raymond Brost"
+  ]
+ },
+ {
+  "id": "test_10782",
+  "question": "Who was the composer of Take It Easy?",
+  "answer": [
+   "Jackson Browne",
+   "Clyde Jackson Browne"
+  ]
+ },
+ {
+  "id": "test_10799",
+  "question": "Who was the composer of Christen, ätzet diesen Tag, BWV 63?",
+  "answer": [
+   "Johann Sebastian Bach",
+   "Bach",
+   "J.S. Bach",
+   "J. S. Bach",
+   "J S Bach"
+  ]
+ },
+ {
+  "id": "test_10837",
+  "question": "Who was the composer of Power?",
+  "answer": [
+   "S. Thaman"
+  ]
+ },
+ {
+  "id": "test_10847",
+  "question": "Who was the composer of Samson?",
+  "answer": [
+   "George Frideric Handel",
+   "Handel",
+   "G. F. Handel",
+   "Georg Friedrich Händel",
+   "George Frederick Handel",
+   "G. F. Händel",
+   "Händel",
+   "George Frideric"
+  ]
+ },
+ {
+  "id": "test_10848",
+  "question": "Who was the composer of The Favor?",
+  "answer": [
+   "Thomas Newman",
+   "Thomas Montgomery Newman"
+  ]
+ },
+ {
+  "id": "test_10858",
+  "question": "Who was the composer of Sea Drift?",
+  "answer": [
+   "Frederick Delius",
+   "Frederick Theodore Albert Delius",
+   "Fritz Theodore Albert Delius"
+  ]
+ },
+ {
+  "id": "test_10879",
+  "question": "Who was the composer of Triumphant?",
+  "answer": [
+   "Mariah Carey",
+   "MC",
+   "Mirage",
+   "Mimi",
+   "Elusive Chanteuse",
+   "Songbird Supreme",
+   "Carey"
+  ]
+ },
+ {
+  "id": "test_10898",
+  "question": "Who was the composer of I Love You?",
+  "answer": [
+   "Trevor Horn",
+   "Trevor Charles Horn"
+  ]
+ },
+ {
+  "id": "test_10934",
+  "question": "Who was the composer of Prelude for Clarinet?",
+  "answer": [
+   "Krzysztof Penderecki",
+   "Krzysztof Eugeniusz Penderecki"
+  ]
+ },
+ {
+  "id": "test_10935",
+  "question": "Who was the composer of Martin's Lie?",
+  "answer": [
+   "Gian Carlo Menotti"
+  ]
+ },
+ {
+  "id": "test_10952",
+  "question": "Who was the composer of Touch?",
+  "answer": [
+   "Dave Grohl",
+   "David Eric Grohl"
+  ]
+ },
+ {
+  "id": "test_11006",
+  "question": "What color is Aston Villa F.C.?",
+  "answer": [
+   "sky blue"
+  ]
+ },
+ {
+  "id": "test_11010",
+  "question": "What color is Sheffield United F.C.?",
+  "answer": [
+   "red",
+   "red color"
+  ]
+ },
+ {
+  "id": "test_11041",
+  "question": "What is the religion of Paul?",
+  "answer": [
+   "Christianity",
+   "Christian faith",
+   "Judaism",
+   "Jewish",
+   "Jewish religion"
+  ]
+ },
+ {
+  "id": "test_11142",
+  "question": "What is the religion of Andrew Dung-Lac?",
+  "answer": [
+   "Catholic Church",
+   "Roman Catholic Church",
+   "Church",
+   "Roman Apostolic Catholic Church"
+  ]
+ },
+ {
+  "id": "test_11190",
+  "question": "What is the religion of Homoousion?",
+  "answer": [
+   "Christianity",
+   "Christian faith"
+  ]
+ },
+ {
+  "id": "test_11196",
+  "question": "What is the religion of Samuel Johnson?",
+  "answer": [
+   "Anglicanism",
+   "Anglicanism, Anglican Church"
+  ]
+ },
+ {
+  "id": "test_11238",
+  "question": "What is the religion of George VI?",
+  "answer": [
+   "Anglicanism",
+   "Anglicanism, Anglican Church"
+  ]
+ },
+ {
+  "id": "test_11268",
+  "question": "What is the religion of University of Evansville?",
+  "answer": [
+   "United Methodist Church",
+   "UMC"
+  ]
+ },
+ {
+  "id": "test_11280",
+  "question": "What is the religion of Afghanistan?",
+  "answer": [
+   "Islam",
+   "Islamic religion",
+   "Mohammedanism",
+   "Muslim religion",
+   "al-’islām",
+   "religion of the Muslims"
+  ]
+ },
+ {
+  "id": "test_11302",
+  "question": "What is the religion of Frank Pavone?",
+  "answer": [
+   "Catholic Church",
+   "Roman Catholic Church",
+   "Church",
+   "Roman Apostolic Catholic Church"
+  ]
+ },
+ {
+  "id": "test_11308",
+  "question": "What is the religion of Hafsid dynasty?",
+  "answer": [
+   "Sunni Islam",
+   "Sunni",
+   "Sunnite Muslims",
+   "Sunnite Muslim"
+  ]
+ },
+ {
+  "id": "test_11320",
+  "question": "What is the religion of Birmingham–Southern College?",
+  "answer": [
+   "United Methodist Church",
+   "UMC"
+  ]
+ },
+ {
+  "id": "test_11385",
+  "question": "What sport does Luan Viana Patrocínio play?",
+  "answer": [
+   "association football",
+   "football",
+   "soccer"
+  ]
+ },
+ {
+  "id": "test_11445",
+  "question": "What sport does Cho Keung-yeon play?",
+  "answer": [
+   "association football",
+   "football",
+   "soccer"
+  ]
+ },
+ {
+  "id": "test_11449",
+  "question": "What sport does Gord Gallant play?",
+  "answer": [
+   "ice hockey"
+  ]
+ },
+ {
+  "id": "test_11523",
+  "question": "What sport does Tranmere Rovers F.C. play?",
+  "answer": [
+   "association football",
+   "football",
+   "soccer"
+  ]
+ },
+ {
+  "id": "test_11538",
+  "question": "What sport does Tommy Ord play?",
+  "answer": [
+   "association football",
+   "football",
+   "soccer"
+  ]
+ },
+ {
+  "id": "test_11545",
+  "question": "What sport does Boreham Wood F.C. play?",
+  "answer": [
+   "association football",
+   "football",
+   "soccer"
+  ]
+ },
+ {
+  "id": "test_11552",
+  "question": "What sport does WTA South Orange play?",
+  "answer": [
+   "tennis",
+   "lawn tennis",
+   "lawntennis"
+  ]
+ },
+ {
+  "id": "test_11674",
+  "question": "What sport does José Luis Contaja play?",
+  "answer": [
+   "association football",
+   "football",
+   "soccer"
+  ]
+ },
+ {
+  "id": "test_11680",
+  "question": "What sport does Andrés Bottiglieri play?",
+  "answer": [
+   "association football",
+   "football",
+   "soccer"
+  ]
+ },
+ {
+  "id": "test_11714",
+  "question": "What sport does Congo women's national handball team play?",
+  "answer": [
+   "handball",
+   "Olympic handball",
+   "European team handball",
+   "European handball",
+   "Borden ball",
+   "Pallammanu",
+   "team handball"
+  ]
+ },
+ {
+  "id": "test_11762",
+  "question": "What sport does Francesco Reda play?",
+  "answer": [
+   "road bicycle racing",
+   "bicycle road cycling",
+   "bicycle road race",
+   "road bicycle race",
+   "road cycling race",
+   "road cycle racing",
+   "road bike racing",
+   "cycle race"
+  ]
+ },
+ {
+  "id": "test_11803",
+  "question": "What sport does The Maniacs play?",
+  "answer": [
+   "association football",
+   "football",
+   "soccer"
+  ]
+ },
+ {
+  "id": "test_11937",
+  "question": "Who is the author of 1602: New World?",
+  "answer": [
+   "Greg Pak"
+  ]
+ },
+ {
+  "id": "test_11941",
+  "question": "Who is the author of The Jacket?",
+  "answer": [
+   "Andrew Clements",
+   "Andrew Elburn Clements",
+   "Andrew Elborn Clements"
+  ]
+ },
+ {
+  "id": "test_11943",
+  "question": "Who is the author of Chicago?",
+  "answer": [
+   "Maurine Dallas Watkins",
+   "Maurine Watkins"
+  ]
+ },
+ {
+  "id": "test_11971",
+  "question": "Who is the author of Legend?",
+  "answer": [
+   "Marie Lu"
+  ]
+ },
+ {
+  "id": "test_11986",
+  "question": "Who is the author of The Fabulous Furry Freak Brothers?",
+  "answer": [
+   "Gilbert Shelton"
+  ]
+ },
+ {
+  "id": "test_12031",
+  "question": "Who is the author of Instruction of Hardjedef?",
+  "answer": [
+   "Djedefhor",
+   "Hordjedef"
+  ]
+ },
+ {
+  "id": "test_12053",
+  "question": "Who is the author of Free to Choose?",
+  "answer": [
+   "Milton Friedman",
+   "Milton Fridman"
+  ]
+ },
+ {
+  "id": "test_12061",
+  "question": "Who is the author of Mannfolk?",
+  "answer": [
+   "Arne Garborg"
+  ]
+ },
+ {
+  "id": "test_12117",
+  "question": "Who is the author of The New Troy?",
+  "answer": [
+   "Alexandre Dumas",
+   "Dumas Davy de la Pailleterie",
+   "Alexandre Dumas père",
+   "Alexandre Dumas pere",
+   "Alexandre Dumas, father",
+   "Alexandre Dumas, père",
+   "Alexandre Dumas Davy de la Pailleterie",
+   "Alexandre Dumas, the Elder"
+  ]
+ },
+ {
+  "id": "test_12144",
+  "question": "Who is the author of Superman & Batman: Generations?",
+  "answer": [
+   "John Byrne",
+   "John Lindley Byrne",
+   "John L. Byrne"
+  ]
+ },
+ {
+  "id": "test_12145",
+  "question": "Who is the author of Panic?",
+  "answer": [
+   "Jeff Abbott"
+  ]
+ },
+ {
+  "id": "test_12146",
+  "question": "Who is the author of Dancing on Coral?",
+  "answer": [
+   "Glenda Adams",
+   "Glenda Emilie Adams"
+  ]
+ },
+ {
+  "id": "test_12175",
+  "question": "Who is the author of The Trial of God?",
+  "answer": [
+   "Elie Wiesel",
+   "Eliezer Wiesel",
+   "A-7713",
+   "Élie Wiesel"
+  ]
+ },
+ {
+  "id": "test_12183",
+  "question": "Who is the author of Caste?",
+  "answer": [
+   "Thomas William Robertson",
+   "T. W. Robertson"
+  ]
+ },
+ {
+  "id": "test_12187",
+  "question": "Who is the author of The Hostile Hospital?",
+  "answer": [
+   "Lemony Snicket",
+   "Daniel Handler"
+  ]
+ },
+ {
+  "id": "test_12195",
+  "question": "Who is the author of Rather Ripped?",
+  "answer": [
+   "Sonic Youth",
+   "SY"
+  ]
+ },
+ {
+  "id": "test_12202",
+  "question": "Who is the author of First Light?",
+  "answer": [
+   "Geoffrey Wellum"
+  ]
+ },
+ {
+  "id": "test_12212",
+  "question": "Who is the author of The Test?",
+  "answer": [
+   "Franz Kafka",
+   "František Kafka",
+   "Kafka"
+  ]
+ },
+ {
+  "id": "test_12232",
+  "question": "Who is the author of Positions?",
+  "answer": [
+   "Jacques Derrida",
+   "Jackie Derrida",
+   "Jackie Elie Derrida",
+   "Jackie Élie Derrida",
+   "J. Derrida"
+  ]
+ },
+ {
+  "id": "test_12256",
+  "question": "Who is the author of The Interior?",
+  "answer": [
+   "Lisa See"
+  ]
+ },
+ {
+  "id": "test_12303",
+  "question": "Who is the author of Recursion?",
+  "answer": [
+   "Tony Ballantyne"
+  ]
+ },
+ {
+  "id": "test_12357",
+  "question": "Who is the author of The Neverending Story?",
+  "answer": [
+   "Michael Ende",
+   "Michael Andreas Helmuth Ende"
+  ]
+ },
+ {
+  "id": "test_12362",
+  "question": "Who is the author of The Last Hawk?",
+  "answer": [
+   "Catherine Asaro",
+   "Catherine Ann Asaro"
+  ]
+ },
+ {
+  "id": "test_12366",
+  "question": "Who is the author of Robots?",
+  "answer": [
+   "Jack Dann",
+   "Jack M. Dann",
+   "Jack Mayo Dann",
+   "Gardner Dozois",
+   "Gardner Raymond Dozois"
+  ]
+ },
+ {
+  "id": "test_12380",
+  "question": "Who is the author of What's Become of Waring?",
+  "answer": [
+   "Anthony Powell"
+  ]
+ },
+ {
+  "id": "test_12429",
+  "question": "Who is the author of Storm?",
+  "answer": [
+   "Kevin Crossley-Holland",
+   "Kevin John William Crossley-Holland"
+  ]
+ },
+ {
+  "id": "test_12444",
+  "question": "Who is the author of Aspects of the Theory of Syntax?",
+  "answer": [
+   "Noam Chomsky",
+   "Avram Noam Chomsky",
+   "A. Noam Chomsky",
+   "Chomsky"
+  ]
+ },
+ {
+  "id": "test_12465",
+  "question": "Who is the author of Couples?",
+  "answer": [
+   "John Updike",
+   "John Hoyer Updike"
+  ]
+ },
+ {
+  "id": "test_12547",
+  "question": "Who is the author of Small Changes?",
+  "answer": [
+   "Hal Clement",
+   "Harry Clement Stubbs",
+   "George Richard",
+   "Harry C. Stubbs",
+   "Harry Stubbs"
+  ]
+ },
+ {
+  "id": "test_12567",
+  "question": "Who is the author of The Bet?",
+  "answer": [
+   "Anton Chekhov",
+   "Anton Pavlovich Chekhov",
+   "Antón Pávlovič Čéhov",
+   "Antón Pávlovich Chékhov",
+   "Chekhov"
+  ]
+ },
+ {
+  "id": "test_12584",
+  "question": "Who is the author of Fox Evil?",
+  "answer": [
+   "Minette Walters"
+  ]
+ },
+ {
+  "id": "test_12611",
+  "question": "Who is the author of The Contrast?",
+  "answer": [
+   "Royall Tyler",
+   "Citizen of the United States"
+  ]
+ },
+ {
+  "id": "test_12633",
+  "question": "Who is the author of Eva?",
+  "answer": [
+   "Peter Dickinson",
+   "Peter Malcolm de Brissac Dickinson",
+   "Hon. Peter Malcolm de Brissac Dickinson"
+  ]
+ },
+ {
+  "id": "test_12704",
+  "question": "Who is the author of Sin?",
+  "answer": [
+   "Zakhar Prilepin",
+   "Yevgeny Nikolayevich Prilepin"
+  ]
+ },
+ {
+  "id": "test_12724",
+  "question": "Who is the author of The Partner?",
+  "answer": [
+   "John Grisham",
+   "John Ray Grisham, Jr.",
+   "John Ray Grisham Jr"
+  ]
+ },
+ {
+  "id": "test_12792",
+  "question": "Who is the author of Home Free!?",
+  "answer": [
+   "Lanford Wilson"
+  ]
+ },
+ {
+  "id": "test_12830",
+  "question": "Who is the author of Maximum Ride: Saving the World and Other Extreme Sports?",
+  "answer": [
+   "James Patterson",
+   "James Brendan Patterson",
+   "James B. Patterson"
+  ]
+ },
+ {
+  "id": "test_12901",
+  "question": "Who is the author of Stanley?",
+  "answer": [
+   "Pam Gems"
+  ]
+ },
+ {
+  "id": "test_12913",
+  "question": "Who is the author of Roads?",
+  "answer": [
+   "Seabury Quinn",
+   "Seabury Grandin Quinn",
+   "Jerome Burke"
+  ]
+ },
+ {
+  "id": "test_12953",
+  "question": "Who is the author of The Hit?",
+  "answer": [
+   "David Baldacci"
+  ]
+ },
+ {
+  "id": "test_12994",
+  "question": "Who is the author of Keeping the Moon?",
+  "answer": [
+   "Sarah Dessen"
+  ]
+ },
+ {
+  "id": "test_13002",
+  "question": "Who is the author of Midnight?",
+  "answer": [
+   "Jacqueline Wilson",
+   "Dame Jacqueline Wilson"
+  ]
+ },
+ {
+  "id": "test_13101",
+  "question": "Who is the author of Kim?",
+  "answer": [
+   "Rudyard Kipling",
+   "Joseph Rudyard Kipling",
+   "R. Kipling",
+   "Kipling"
+  ]
+ },
+ {
+  "id": "test_13122",
+  "question": "Who is the author of Amazon?",
+  "answer": [
+   "Michael Crichton",
+   "John Michael Crichton",
+   "Michael Douglas",
+   "Jeffery Hudson",
+   "John Lange"
+  ]
+ },
+ {
+  "id": "test_13194",
+  "question": "Who is the author of Mother?",
+  "answer": [
+   "Owen Wister"
+  ]
+ },
+ {
+  "id": "test_13195",
+  "question": "Who is the author of Persuasion?",
+  "answer": [
+   "Jane Austen"
+  ]
+ },
+ {
+  "id": "test_13198",
+  "question": "Who is the author of Only Human?",
+  "answer": [
+   "Gareth Roberts",
+   "Gareth John Pritchard Roberts"
+  ]
+ },
+ {
+  "id": "test_13205",
+  "question": "Who is the author of Vast?",
+  "answer": [
+   "Linda Nagata",
+   "Linda Webb Nagata",
+   "Trey Shiels"
+  ]
+ },
+ {
+  "id": "test_13230",
+  "question": "Who is the author of Washington, D.C.?",
+  "answer": [
+   "Gore Vidal",
+   "Eugene Luther Gore Vidal",
+   "Gor Vidal",
+   "Cameron Kay",
+   "Eugene Luther Vidal",
+   "Edgar Box",
+   "Katherine Everard",
+   "Eugene Vidal"
+  ]
+ },
+ {
+  "id": "test_13292",
+  "question": "Who is the author of Dinner with Friends?",
+  "answer": [
+   "Donald Margulies"
+  ]
+ },
+ {
+  "id": "test_13322",
+  "question": "Who is the author of Up Till Now: The Autobiography?",
+  "answer": [
+   "William Shatner",
+   "Bill Shatner"
+  ]
+ },
+ {
+  "id": "test_13358",
+  "question": "Who is the author of Mechanics?",
+  "answer": [
+   "Aristotle",
+   "Aristoteles",
+   "Aristotelis"
+  ]
+ },
+ {
+  "id": "test_13372",
+  "question": "Who is the author of The Survivor?",
+  "answer": [
+   "James Herbert"
+  ]
+ },
+ {
+  "id": "test_13386",
+  "question": "Who is the author of Christopher and His Kind?",
+  "answer": [
+   "Christopher Isherwood",
+   "Christopher William Bradshaw Isherwood"
+  ]
+ },
+ {
+  "id": "test_13393",
+  "question": "Who is the author of Durchmusterung?",
+  "answer": [
+   "Friedrich Wilhelm Argelander",
+   "Friedrich Wilhelm August Argelander"
+  ]
+ },
+ {
+  "id": "test_13395",
+  "question": "Who is the author of The Ball?",
+  "answer": [
+   "James Shirley"
+  ]
+ },
+ {
+  "id": "test_13476",
+  "question": "Who is the mother of Thor?",
+  "answer": [
+   "Jörð",
+   "Erda",
+   "Jord"
+  ]
+ },
+ {
+  "id": "test_13507",
+  "question": "Who is the mother of Ganesha?",
+  "answer": [
+   "Parvati",
+   "Uma",
+   "Parbati",
+   "Gauri"
+  ]
+ },
+ {
+  "id": "test_13550",
+  "question": "Who is the mother of King Arthur?",
+  "answer": [
+   "Igraine",
+   "Eigyr"
+  ]
+ },
+ {
+  "id": "test_13571",
+  "question": "Who is the mother of Archduchess Maria Elisabeth of Austria?",
+  "answer": [
+   "Maria Theresa of Austria",
+   "Maria Theresa",
+   "Empress Maria-Theresa",
+   "Maria Theresa Walburga Amalia Christina",
+   "Maria Theresa I",
+   "Maria-Theresa Holy Roman Empress",
+   "Empress of Austria Maria Theresa",
+   "Holy Roman Empress consort and Queen consort of Germany Maria Theresa",
+   "Empress of Austria Maria Therese",
+   "Empress of Austria Maria Theresia",
+   "Maria Theresia",
+   "Maria Theresa, Empress of Germany"
+  ]
+ },
+ {
+  "id": "test_13625",
+  "question": "What is the capital of Northern Territory?",
+  "answer": [
+   "Darwin"
+  ]
+ },
+ {
+  "id": "test_13652",
+  "question": "What is the capital of Grand Duchy of Finland?",
+  "answer": [
+   "Helsinki",
+   "Helsingfors",
+   "Helsingia"
+  ]
+ },
+ {
+  "id": "test_13661",
+  "question": "What is the capital of Iran?",
+  "answer": [
+   "Tehran",
+   "Teheran"
+  ]
+ },
+ {
+  "id": "test_13679",
+  "question": "What is the capital of Netherlands?",
+  "answer": [
+   "The Hague",
+   "Den Haag",
+   "'s-Gravenhage",
+   "Haag",
+   "Amsterdam",
+   "Mokum",
+   "Amsterdam, NL",
+   "Amsterdam, Netherlands",
+   "A'dam"
+  ]
+ },
+ {
+  "id": "test_13726",
+  "question": "What is the capital of arrondissement of Castellane?",
+  "answer": [
+   "Castellane",
+   "Castelana"
+  ]
+ },
+ {
+  "id": "test_13748",
+  "question": "What is the capital of Virginia?",
+  "answer": [
+   "Richmond",
+   "Richmond, Virginia",
+   "Richmond, VA",
+   "Richmond City"
+  ]
+ },
+ {
+  "id": "test_13761",
+  "question": "What is the capital of Riley County?",
+  "answer": [
+   "Manhattan",
+   "Manhattan, Kansas"
+  ]
+ },
+ {
+  "id": "test_13784",
+  "question": "What is the capital of Kievan Rus'?",
+  "answer": [
+   "Kyiv",
+   "Kiev",
+   "Kyjiv",
+   "Kyyiv",
+   "Kyjiw",
+   "Kyiw",
+   "Kyïv",
+   "Kief",
+   "Kieff",
+   "Kiew",
+   "Kioff",
+   "Kiof",
+   "Kiowia",
+   "Kiovia",
+   "Kiow",
+   "Kiou",
+   "Kyїv",
+   "Veliky Novgorod",
+   "Nowgorod-Weliki",
+   "Nowgorod",
+   "Novgorod"
+  ]
+ },
+ {
+  "id": "test_13792",
+  "question": "What is the capital of County Dublin?",
+  "answer": [
+   "Dublin",
+   "Dublin city",
+   "City of Dublin",
+   "Baile Átha Cliath"
+  ]
+ },
+ {
+  "id": "test_13799",
+  "question": "What is the capital of Kingdom of Laos?",
+  "answer": [
+   "Luang Prabang",
+   "Vientiane",
+   "Bientani",
+   "Viangchan",
+   "Vientane",
+   "Wei-t'ien",
+   "Vieṅ Čan",
+   "Vieṅg-Čăn",
+   "Wīangčhan",
+   "Viang chan",
+   "Vyentyan",
+   "Wiangcan",
+   "Vienchan",
+   "Viengchan",
+   "Nakhon Viangchan",
+   "Vien Chang",
+   "Vieng-Cæn"
+  ]
+ },
+ {
+  "id": "test_13807",
+  "question": "What is the capital of Malaysia?",
+  "answer": [
+   "Kuala Lumpur",
+   "KL",
+   "Federal Territory of Kuala Lumpur"
+  ]
+ },
+ {
+  "id": "test_13829",
+  "question": "What is the capital of Othón P. Blanco Municipality?",
+  "answer": [
+   "Chetumal",
+   "Chetumal, Quintana Roo",
+   "Chetumel"
+  ]
+ },
+ {
+  "id": "test_13941",
+  "question": "What is the capital of Sudan?",
+  "answer": [
+   "Khartoum"
+  ]
+ },
+ {
+  "id": "test_13946",
+  "question": "What is the capital of Pulaski County?",
+  "answer": [
+   "Little Rock",
+   "Little Rock, Arkansas",
+   "Little Rock, AR",
+   "Little Rock, Ark.",
+   "the Little Rock"
+  ]
+ },
+ {
+  "id": "test_13948",
+  "question": "What is the capital of Sergipe?",
+  "answer": [
+   "Aracaju"
+  ]
+ },
+ {
+  "id": "test_13959",
+  "question": "What is the capital of Kansas?",
+  "answer": [
+   "Topeka",
+   "Topeka, Kansas",
+   "Topeka (Kansas)"
+  ]
+ },
+ {
+  "id": "test_13979",
+  "question": "What is the capital of Minas Gerais?",
+  "answer": [
+   "Belo Horizonte"
+  ]
+ },
+ {
+  "id": "test_13992",
+  "question": "What is the capital of Eden?",
+  "answer": [
+   "Penrith"
+  ]
+ },
+ {
+  "id": "test_14011",
+  "question": "What is the capital of Burundi?",
+  "answer": [
+   "Bujumbura",
+   "Usumbura"
+  ]
+ },
+ {
+  "id": "test_14019",
+  "question": "What is the capital of Colorado?",
+  "answer": [
+   "Denver",
+   "City and County of Denver",
+   "Denver, Colorado",
+   "Mile High City",
+   "Queen City of the Plains",
+   "Queen City of the West"
+  ]
+ },
+ {
+  "id": "test_14047",
+  "question": "What is the capital of Niue?",
+  "answer": [
+   "Alofi",
+   "Alofi, Niue"
+  ]
+ },
+ {
+  "id": "test_14062",
+  "question": "What is the capital of Tajikistan?",
+  "answer": [
+   "Dushanbe",
+   "Dyushambe",
+   "Stalinabad"
+  ]
+ },
+ {
+  "id": "test_14101",
+  "question": "What is the capital of Commonwealth of the Philippines?",
+  "answer": [
+   "Manila",
+   "City of Manila"
+  ]
+ },
+ {
+  "id": "test_14132",
+  "question": "What is the capital of Western Visayas?",
+  "answer": [
+   "Iloilo City",
+   "Iloilo",
+   "City of Iloilo",
+   "Iloilo, Iloilo",
+   "Iloilo City, Iloilo"
+  ]
+ },
+ {
+  "id": "test_14172",
+  "question": "What is the capital of Worth County?",
+  "answer": [
+   "Sylvester",
+   "Sylvester, Georgia"
+  ]
+ },
+ {
+  "id": "test_14185",
+  "question": "What is the capital of Kingdom of Italy?",
+  "answer": [
+   "Florence",
+   "Firenze",
+   "Florence, Italy",
+   "Florence, Tuscany",
+   "Florencia",
+   "Florentia",
+   "Florenz",
+   "Firenca",
+   "Florencie",
+   "Fiuränza",
+   "Florentzia",
+   "Firense",
+   "Firenz",
+   "Firenzi",
+   "Rome",
+   "The Eternal City",
+   "Roma",
+   "Rome Italy",
+   "Turin",
+   "Torino",
+   "Turin, Italy"
+  ]
+ },
+ {
+  "id": "test_14217",
+  "question": "What is the capital of Van Buren County?",
+  "answer": [
+   "Paw Paw",
+   "Paw Paw, Michigan"
+  ]
+ },
+ {
+  "id": "test_14226",
+  "question": "What is the capital of Illinois?",
+  "answer": [
+   "Springfield",
+   "Springfield, Illinois",
+   "Springfield, IL",
+   "Calhoun"
+  ]
+ },
+ {
+  "id": "test_14235",
+  "question": "What is the capital of Colombia?",
+  "answer": [
+   "Bogotá",
+   "Santa Fe de Bogotá",
+   "Santafé de Bogotá",
+   "Bogota",
+   "Bogota, Colombia"
+  ]
+ }
+]
