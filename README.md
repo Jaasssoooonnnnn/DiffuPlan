@@ -1,12 +1,12 @@
 # DiffuPlan
 
-Diffusion Search Agents with In-Place Plan Editing
+Editable Planning State for Diffusion Language Model Agents
 
-<p align="center"><img src="docs/assets/diffuplan_demo.gif" alt="DiffuPlan decoding and in-place plan editing" width="100%"></p>
+<p align="center"><img src="docs/assets/diffuplan_demo.gif" alt="DiffuPlan decoding and editing its planning state" width="100%"></p>
 
-A real trajectory of the RL policy. Tokens are committed in denoising order, and Edit Mode updates `#A_1` and replans `#Q_2` inside the existing plan.
+A real trajectory of the RL policy. Tokens are committed in denoising order, and Edit Mode updates `#A_1` and replans `#Q_2` where they are written in the plan.
 
-DiffuPlan maintains an explicit working plan as retrieval proceeds. A shared block-diffusion model generates search actions and reconstructs selected plan spans from the surrounding interaction history. EPM trains variable-length edits, and Agentic TraceRL uses a frozen SFT reference to preserve the learned action behavior during reward optimization.
+Agents built on diffusion language models (dLLMs) usually keep the append-only state of autoregressive agents: once intermediate state is written, later evidence can only be added as more text. DiffuPlan instead maintains a single editable planning state. When later evidence resolves an intermediate answer or changes the search route, it reconstructs only the affected plan steps at their original position, conditioned on the preserved plan and the evidence retrieved after it. A shared block-diffusion model generates search actions in a block-causal Action Mode and edits the plan in a full-canvas Edit Mode. Expansion-Partition Marginalization (EPM) trains variable-length edits, and Agentic TraceRL improves multi-turn search decisions with a frozen SFT anchor.
 
 ## Contents
 
@@ -18,7 +18,7 @@ DiffuPlan maintains an explicit working plan as retrieval proceeds. A shared blo
 | SFT/dFactory/VeOmni | Vendored training-runtime dependency |
 | RL | Agentic TraceRL, rollout reconstruction, and fixed SFT anchor |
 | configs | SFT, RL, and distributed-training configurations |
-| benchmarks | Evaluation questions for the seven QA benchmarks |
+| benchmarks | Evaluation questions for the four multi-hop QA benchmarks |
 | scripts | Training and inference entry points |
 
 See [the implementation map](docs/implementation.md), [agent protocol](docs/protocol.md), and [data formats](docs/data.md) for details.
@@ -62,12 +62,11 @@ The default search limit is five; inference settings are in configs/inference.js
 
 ## Evaluation
 
-benchmarks/ contains the evaluation questions: 500 questions each from NQ, TriviaQA, PopQA, HotpotQA, 2WikiMultiHopQA, and MuSiQue, and all 125 Bamboogle questions. To evaluate a checkpoint on all seven:
+benchmarks/ contains the evaluation questions: 500 questions each from HotpotQA, 2WikiMultiHopQA, and MuSiQue, and all 125 Bamboogle questions. To evaluate a checkpoint on all four:
 
     bash scripts/infer.sh \
       --model-path /path/to/diffuplan_checkpoint \
-      --dataset nq --dataset triviaqa --dataset popqa --dataset hotpotqa \
-      --dataset 2wiki --dataset musique --dataset bamboogle \
+      --dataset hotpotqa --dataset 2wiki --dataset musique --dataset bamboogle \
       --output outputs/benchmarks.json
 
 The output summary reports EM, token F1, and SubEM for each dataset.
